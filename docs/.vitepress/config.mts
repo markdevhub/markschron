@@ -28,7 +28,7 @@ const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
   title: 'MarksChron',
   description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
+  titleTemplate: ':title • markschron',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
