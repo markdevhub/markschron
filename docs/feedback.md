@@ -19,7 +19,7 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Best Wiki ever. Wifey has stage 4 cancer. I am a working joe keeping this household afloat on warehouse wages while supporting our family. Finding this wiki has kept us close to our old way of life for free-fifty, lol! Books for the paperwhite, movies, TV, gaming, education, etc., etc. There is so much here that has enhanced our lives. And I find more in the depths every time I go exploring. Please don't ever quit updating/adding to this library of awesomeness! Anyway, I just wanted to drop an anonymous thank you for everything here. Amazing resource. Happy to have a carefully curated list instead of roaming blind into the internet wilds. You are doing some amazing works here. Basically my homepage now. Infinite Kudos!"*
 
-* *"That's why I love FMHY so much. Before id spend hours and hours every day trying to hunt useful websites for myself."*
+* *"That's why I love Markschron so much. Before id spend hours and hours every day trying to hunt useful websites for myself."*
 
 * *"I love this website so much. I literally have it labelled as "Everything" in my favorites."*
 
@@ -45,11 +45,11 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"A really great and detailed job of putting everything together. I hope you hear this a lot, but thanks for all the work you put in this, people appreciate it more than you think <3."*
 
-* *"Thanks to FMHY, I was able to find a piece of software that upped my efficiency at work three-fold. Literal life-saver. Thank you!"*
+* *"Thanks to Markschron, I was able to find a piece of software that upped my efficiency at work three-fold. Literal life-saver. Thank you!"*
 
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
-* *"I am in egypt where everything is not cheap and i discovered FMHY mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."*
+* *"I am in egypt where everything is not cheap and i discovered Markschron mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."*
 
 * *"I recently finished my exams and im happy to say i got into med school. i am so beyond grateful for what you do. I didnt have the money for cram school and tutoring, i heavily relied on the resources here, and i will probably continue to do so. I want to become a gynecologist and hopefully bring some real change for the health of my fellow women. Thank you all!"*
 
@@ -59,9 +59,9 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
 
-* *"FMHY genuinely made my life better. I am someone who loves video editing and I think it is my true passion, and if it weren't for fmhy and r/piracy megathread, I would be extremely sad. Editing would be so pay to win. I don't think I have spent money in the last while because while most people window shop or look for stuff to buy to fill the void in their hearts, I can just find cool plugins and resources. Thank you to everyone in the community, your hard work is greatly appreciated."*
+* *"Markschron genuinely made my life better. I am someone who loves video editing and I think it is my true passion, and if it weren't for markschron and r/piracy megathread, I would be extremely sad. Editing would be so pay to win. I don't think I have spent money in the last while because while most people window shop or look for stuff to buy to fill the void in their hearts, I can just find cool plugins and resources. Thank you to everyone in the community, your hard work is greatly appreciated."*
 
-* *"You guys have made this wonderful piece of combined knowledge into website, its like being exposed to what not I haven't seen/experienced in my life. I am really grateful for this initiative as I am not that financially blessed and I cannot afford a lot of the software out in the market, but due to fmhy I have access to nearly everything."*
+* *"You guys have made this wonderful piece of combined knowledge into website, its like being exposed to what not I haven't seen/experienced in my life. I am really grateful for this initiative as I am not that financially blessed and I cannot afford a lot of the software out in the market, but due to markschron I have access to nearly everything."*
 
 * *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
 
@@ -69,11 +69,11 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Me and my sibling have made visiting this site a ritual. Seriously, we can't thank you enough for your work! Our broke third world living country asses would've never dreamed of seeing this much media."*
 
-* *"I love FMHY's wiki, to the point I can't use the internet without it."*
+* *"I love Markschron's wiki, to the point I can't use the internet without it."*
 
 * *"In this age of the internet, search engines are getting worse to find stuff we searching for. This site has helped me not only the when I can't find something on search engines, but also to find new stuff I didn't know existed. I go here first before I consult google. Thank you and everyone for your hard work. Don't loose this site, no matter the cost."*
 
-* *"Before finding this, I've been searching google myself and have experienced viruses, fake info, and just bad advice. But the amazing guides and links on FMHY really make it so much safer and simpler to find the things I need. I'm sort of the tech person in my family, so it saves me from so much testing and work."*
+* *"Before finding this, I've been searching google myself and have experienced viruses, fake info, and just bad advice. But the amazing guides and links on Markschron really make it so much safer and simpler to find the things I need. I'm sort of the tech person in my family, so it saves me from so much testing and work."*
 
 * *"This wiki is one of the best out there, seriously. Keep up the great work!"*
 
@@ -83,4 +83,4 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Every person I share this sub with is always completely grateful, and it's no wonder why."*
 
-* *"Finding out about FMHY's wiki is the best thing that has happened to me, it has helped me so much in every way imaginable, i'm very grateful, keep it up!"*
+* *"Finding out about Markschron's wiki is the best thing that has happened to me, it has helped me so much in every way imaginable, i'm very grateful, keep it up!"*

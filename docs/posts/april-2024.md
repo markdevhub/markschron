@@ -14,7 +14,7 @@ footer: true
 :::info
 These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
-[Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
+[Commits Page](https://github.com/markschron/Markschronedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
 :::
 
@@ -52,7 +52,7 @@ in seeing all minor changes you can follow our
 - Added [Email](https://fmhy.net/privacy#email-privacy) section to
   Privacy.
 
-- Added [Regex](https://fmhy.pages.dev/developer-tools#regex-tools) section to Dev
+- Added [Regex](https://markschron.pages.dev/developer-tools#regex-tools) section to Dev
   Tools.
 
 - Our [FMHY Social](https://social.fmhy.net/@fmhy) (fediverse instance /

@@ -14,14 +14,14 @@ footer: true
 :::info
 These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
-[Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
+[Commits Page](https://github.com/markschron/Markschronedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
 :::
 
 ### Wiki Updates
 
 - Added
-  [🤖 Artificial Intelligence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai)
+  [🤖 Artificial Intelligence](https://www.reddit.com/r/MARKSCHRON/wiki/ai)
   section.
 
 - Added Optimization, Tabletop, and Git Gud subsections in

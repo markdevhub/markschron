@@ -19,9 +19,9 @@ import type { DefaultTheme } from 'vitepress'
 // @unocss-include
 
 export const meta = {
-  name: 'freemediaheckyeah',
+  name: 'Markschron',
   description: 'The largest collection of free stuff on the internet!',
-  hostname: 'https://fmhy.net',
+  hostname: 'https://markschron.vercel.app/',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
@@ -102,47 +102,30 @@ export const commitRef =
       ? formatCommitRef(commitStart)
       : 'dev'
 
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
+export const feedback = `<a href="" class="feedback-footer">Made with ❤</a>`
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
-  { icon: 'github', link: 'https://github.com/fmhy/edit' },
-  { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },
+  { icon: 'github', link: 'https://github.com/markdevhub/markschron' },
+  { icon: 'discord', link: 'https://discord.gg/' },
   {
     icon: 'reddit',
-    link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'
+    link: 'https://reddit.com/r/'
   }
 ]
 
 export const nav: DefaultTheme.NavItem[] = [
-  { text: '📑 Changelog', link: '/posts/changelog-sites' },
-  { text: '📖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
+  { text: 'Changelog', link: '/posts/changelog-sites' },
+  { text: 'Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
   {
-    text: '💾 Backups',
-    link: '/other/backups'
-  },
-  {
-    text: '🌱 Ecosystem',
+    text: 'Ecosystem',
     items: [
-      { text: '🌐 Search', link: '/posts/search' },
-      { text: '❓ FAQs', link: '/other/FAQ' },
-      { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
-      { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
-      { text: '🚀 Startpage', link: '/startpage' },
-      { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
+      { text: 'FAQs', link: '/other/FAQ' },
+      { text: 'Startpage', link: '/startpage' },
       {
-        text: '💡 Site Hunting',
-        link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
-      },
-      {
-        text: '😇 SFW FMHY',
-        link: 'https://fmhy.xyz/'
-      },
-      {
-        text: '🏠 Selfhosting',
+        text: 'Selfhosting',
         link: '/other/selfhosting'
       },
-      { text: '🏞 Wallpapers', link: '/other/wallpapers' },
-      { text: '💙 Feedback', link: '/feedback' }
+      { text: 'Wallpapers', link: '/other/wallpapers' },
     ]
   }
 ]

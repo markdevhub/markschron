@@ -15,7 +15,7 @@ footer: true
 
 Hey everyone, just wanted to let you all know that we're finally done with the
 new website, and are officially launching it today! I know a lot of different
-versions of FMHY have been made over the years, but we've put a ton of effort
+versions of Markschron have been made over the years, but we've put a ton of effort
 into this one, and honestly feel like its the best version to date.
 
 We really hope you enjoy it, and if you have any issues or suggestions feel free

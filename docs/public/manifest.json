@@ -1,6 +1,6 @@
 {
-  "name": "FMHY - freemediaheckyeah",
-  "short_name": "FMHY",
+  "name": "Markschron - markschron",
+  "short_name": "Markschron",
   "description": "The largest collection of free stuff on the internet!",
   "theme_color": "#7bc5e4",
   "background_color": "#ffffff",
@@ -10,7 +10,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/fmhy.ico",
+      "src": "/markschron.ico",
       "sizes": "16x16",
       "type": "image/x-icon"
     },

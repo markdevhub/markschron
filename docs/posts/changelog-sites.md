@@ -9,16 +9,16 @@ prev: false
 footer: true
 ---
 
-<Post authors="nbats"/>
+<Post authors=""/>
 
-**https://fmhy-tracker.pages.dev/**
+**https://markschron-tracker.pages.dev/**
 
 This covers links that have been added, updated, or removed by watching GitHub for changes
 
-**https://d.fmhy.bid/rss.xml**
+**https://d.markschron.bid/rss.xml**
 
-FMHY RSS Feed
+Markschron RSS Feed
 
 ***
 
-Note that we also make monthly posts on both reddit + our site with the bigger changes, and you can also follow them yourself by joining our [Discord](https://redd.it/17f8msf), or watching the [Commits Page](https://github.com/fmhy/edit/commits/main/) on GitHub.
+Note that we also make monthly posts on both reddit + our site with the bigger changes, and you can also follow them yourself by joining our [Discord](https://discord.gg/), or watching the [Commits Page](https://github.com/markschron/edit/commits/main/) on GitHub.

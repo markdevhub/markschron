@@ -18,8 +18,8 @@ All of these wallpapers were made by [taskylizard](https://github.com/taskylizar
 <WallpaperCard
   title="Arc"
   description="A rounded arc design with a pleasing fade."
-  mobile="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/arc_mobile.png"
-  desktop="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/arc_desktop.png"
+  mobile="https://cdn.jsdelivr.net/gh/fmyh/design-system/branding/arc_mobile.png"
+  desktop="https://cdn.jsdelivr.net/gh/fmyh/design-system/branding/arc_desktop.png"
 />
 
 ---
@@ -27,8 +27,8 @@ All of these wallpapers were made by [taskylizard](https://github.com/taskylizar
 <WallpaperCard
   title="Rays"
   description="A gradient background with a soft, rounded arc."
-  mobile="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/rays_mobile.png"
-  desktop="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/rays_desktop.png"
+  mobile="https://cdn.jsdelivr.net/gh/fmyh/design-system/branding/rays_mobile.png"
+  desktop="https://cdn.jsdelivr.net/gh/fmyh/design-system/branding/rays_desktop.png"
 />
 
 ---
@@ -36,6 +36,6 @@ All of these wallpapers were made by [taskylizard](https://github.com/taskylizar
 <WallpaperCard
   title="Tinted Rays"
   description="A gradient background with a soft, rounded arc. Tinted white at the bottom corner."
-  mobile="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/tinted_rays_mobile.png"
-  desktop="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/tinted_rays_desktop.png"
+  mobile="https://cdn.jsdelivr.net/gh/fmyh/design-system/branding/tinted_rays_mobile.png"
+  desktop="https://cdn.jsdelivr.net/gh/fmyh/design-system/branding/tinted_rays_desktop.png"
 />

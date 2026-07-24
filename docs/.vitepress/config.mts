@@ -26,7 +26,7 @@ import { replaceNoteLink } from './utils/markdown'
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
-  title: 'FMHY',
+  title: 'MarksChron',
   description: meta.description,
   titleTemplate: ':title • freemediaheckyeah',
   lang: 'en-US',
@@ -335,11 +335,11 @@ export default defineConfig({
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
       copyright:
-        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>` +
+        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2026.</a>` +
         `<br/> This site does not host any files.`
     },
     editLink: {
-      pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
+      pattern: 'https://github.com//edit/edit/main/docs/:path',
       text: '📝 Edit this page'
     },
     outline: 'deep',

@@ -1,6 +1,6 @@
 ---
-title: How-to Search FMHY
-description: Various tools to help you query FMHY.
+title: How-to Search Markschron
+description: Various tools to help you query Markschron.
 date: 2023-01-07
 next: false
 
@@ -11,7 +11,7 @@ footer: true
 
 <Post authors="nbats" />
 
-### [Streamlit Search](https://fmhy-search.streamlit.app/)
+### [Streamlit Search](https://markschron-search.streamlit.app/)
 
 Search engine hosted on Streamlit
 
@@ -23,25 +23,25 @@ Search engine hosted on FMHY.net
 
 ---
 
-### [GitHub Search](https://github.com/search?q=repo%3Afmhy%2FFMHY+&type=wikis)
+### [GitHub Search](https://github.com/search?q=repo%3Amarkschron%2FMarkschron+&type=wikis)
 
 GitHub page search engine
 
 ---
 
-### [Bookmark HTML](https://github.com/fmhy/bookmarks)
+### [Bookmark HTML](https://github.com/markschron/bookmarks)
 
-Turn FMHY into browser bookmarks
-
----
-
-### [FMHY Goggles](https://github.com/fmhy/bookmarks#goggle)
-
-Search FMHY using Brave Goggles
+Turn Markschron into browser bookmarks
 
 ---
 
-### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
+### [Markschron Goggles](https://github.com/markschron/bookmarks#goggle)
+
+Search Markschron using Brave Goggles
+
+---
+
+### [Python Script](https://github.com/Rust1667/a-Markschron-search-engine)
 
 Search the Markdown via a Python script
 
@@ -53,9 +53,9 @@ Search the Markdown manually (Ctrl+F)
 
 ---
 
-### [Dupe Checker](https://link-checker-215e95.gitlab.io/) / [Alt](https://fmhycheck.vercel.app/) / [App](https://github.com/fmhy/dupe-checker)
+### [Dupe Checker](https://link-checker-215e95.gitlab.io/) / [Alt](https://markschroncheck.vercel.app/) / [App](https://github.com/markschron/dupe-checker)
 
-FMHY Dupe Check Tool
+Markschron Dupe Check Tool
 
 ---
 

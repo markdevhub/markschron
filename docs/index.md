@@ -4,14 +4,11 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: freemediaheckyeah
+  name: markschron
   tagline: The largest collection of free stuff on the internet!
-  announcement:
-    title: Fight Chat Control 🔒
-    link: https://fightchatcontrol.eu/
   image:
     src: test.png
-    alt: FMHY Icon
+    alt: Markschron Icon
   actions:
     - theme: brand
       text: See Beginners Guide
@@ -24,7 +21,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+      link: https://github.com/markdevhub/markschron
 
 features:
   - title: Adblocking / Privacy
