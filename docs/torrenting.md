@@ -1,26 +1,26 @@
 ***
 ***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/MARKSCHRON/wiki/index)**
+**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 ***
 
-* **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/MARKSCHRON/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/MARKSCHRON/wiki/games/#wiki_.25BA_download_games).
+* **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
 
 ***
 
 # ► Torrent Sites
 
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires Sign-Up
-* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/MARKSCHRON/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
-* ⭐ **[m0nkrus](https://rentry.co/MarkschronB64#m0nkrus)** - Editing Software
-* ⭐ **Editing Software Tools** - [Block Telemetry](https://rentry.co/MarkschronB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/MarkschronB64#quick-guide)
-* [1337x](https://1337x.to/home/), [2](https://x1337x.cc/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [User Ranks](https://github.com/markschron/edit/blob/main/docs/.vitepress/notes/1337x-ranks.md)
+* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
+* ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Editing Software
+* ⭐ **Editing Software Tools** - [Block Telemetry](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/FMHYB64#quick-guide)
+* [1337x](https://1337x.to/home/), [2](https://x1337x.cc/), [3](https://1337x.st/), [4](https://x1337x.ws/), [5](https://x1337x.eu/), [6](https://x1337x.se/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1337x-ranks.md)
 * 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Steam Store Hover](https://greasyfork.org/scripts/533774) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.fun/) - Video / Audio / Books
-* [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/MARKSCHRON/wiki/text-tools/#wiki_.25B7_translators)
-* [⁠Torr9](https://torr9.net/) - Video / Audio / Books
-* [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/MARKSCHRON/wiki/text-tools/#wiki_.25B7_translators)
+* [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [TR4KER](https://tr4ker.net/) - Video / Audio / Books / Signup Required
+* [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Requires Sign-Up
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies
@@ -50,33 +50,33 @@
 
 ***
 
-## ▷ [Video Sites](https://www.reddit.com/r/MARKSCHRON/wiki/video#wiki_.25BA_torrent_sites)
+## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_sites)
 
 ***
 
-## ▷ [Anime Sites](https://www.reddit.com/r/MARKSCHRON/wiki/video#wiki_.25B7_anime_torrenting)
+## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_torrenting)
 
 ***
 
-## ▷ [Educational Sites](https://www.reddit.com/r/MARKSCHRON/wiki/edu/#wiki_.25B7_downloading)
+## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_downloading)
 
 ***
 
-## ▷ [Game Sites](https://www.reddit.com/r/MARKSCHRON/wiki/games#wiki_.25BA_download_games)
+## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
 
 ***
 
-## ▷ [Audio Sites](https://www.reddit.com/r/MARKSCHRON/wiki/audio#wiki_.25BA_audio_torrenting)
+## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting)
 
 ***
 
 # ► Torrent Clients
 
-* **Warning** - Remember to [bind](https://wispydocs.pages.dev/torrenting/) your [VPN](https://www.reddit.com/r/MARKSCHRON/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+* **Warning** - Remember to [bind](https://wispydocs.pages.dev/torrenting/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
 
 ***
 
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/MARKSCHRON/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, macOS, Linux
 * ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, macOS, Linux
 * ⭐ **[rTorrent](https://rakshasa.github.io/rtorrent/)** - Torrent Client / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / Linux / [GitHub](https://github.com/rakshasa/rtorrent) 
@@ -117,22 +117,22 @@
 
 ## ▷ Remote Torrenting
 
-* ↪️ **[Debrid / Leeches](https://www.reddit.com/r/MARKSCHRON/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
+* ↪️ **[Debrid / Leeches](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
 * ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab / 15GB
 * [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up
 * [⁠Magnet.diy](https://magnet.diy/) - 2.5GB
-* [⁠SonicBit](https://my.sonicbit.net/) - 4GB
+* [⁠SonicBit](https://sonicbit.net/) - 4GB
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
 
 ***
 
-## ▷ [Android Clients](https://www.reddit.com/r/MARKSCHRON/wiki/android#wiki_.25BA_android_torrenting)
+## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
 
 ***
 
-## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/MARKSCHRON/wiki/video#wiki_.25BA_torrent_apps)
+## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
 
 ***
 

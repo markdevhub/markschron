@@ -4,11 +4,14 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: markschron
+  name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
+  announcement:
+    title: August Updates ✨
+    link:  /posts/aug-2026
   image:
     src: test.png
-    alt: Markschron Icon
+    alt: FMHY Icon
   actions:
     - theme: brand
       text: See Beginners Guide
@@ -21,7 +24,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://github.com/markdevhub/markschron
+      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
 
 features:
   - title: Adblocking / Privacy
