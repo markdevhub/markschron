@@ -43,4 +43,4 @@ Official mirrors and alternative ways to view Markschron.
 
 **Backup Page Backups**
 
-[FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
+[FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/markschron/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)

@@ -47,7 +47,7 @@ These lines are functional dependencies (live URLs, published package names, git
   ```
 - **Line 22** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  **A**: The best way is to join us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Here you can submit links, get help or suggest changes to the wiki. [Mod messages](https://www.reddit.com/message/compose/?to=/r/FREEMEDIAHECKYEAH) are also always open.
+  **A**: The best way is to join us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Here you can submit links, get help or suggest changes to the wiki. [Mod messages](https://www.reddit.com/message/compose/?to=/r/markschron) are also always open.
   ```
 - **Line 26** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
@@ -107,19 +107,19 @@ These lines are functional dependencies (live URLs, published package names, git
 ### `docs/video.md`
 - **Line 11** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 - **Line 95** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 - **Line 134** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 - **Line 169** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 
 ### `package.json`
@@ -169,7 +169,7 @@ These lines are functional dependencies (live URLs, published package names, git
   ```
 - **Line 50** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  **A**: The best way is to join us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Here you can submit links, get help or suggest changes to the wiki. [Mod messages](https://www.reddit.com/message/compose/?to=/r/FREEMEDIAHECKYEAH) are also always open.
+  **A**: The best way is to join us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Here you can submit links, get help or suggest changes to the wiki. [Mod messages](https://www.reddit.com/message/compose/?to=/r/markschron) are also always open.
   ```
 - **Line 54** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
@@ -213,19 +213,19 @@ These lines are functional dependencies (live URLs, published package names, git
   ```
 - **Line 110** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 - **Line 114** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 - **Line 118** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 - **Line 122** (`wiki_backup_source`): Points at FMHY's real wiki/backup source repo, used as a data or reference source, not a brand mention of your fork.
   ```
-  * **Note** - More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+  * **Note** - More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
   ```
 - **Line 126** (`npm_scoped_package`): This is a published npm package name (e.g. @fmhy/components), not display branding. `npm install` / `pnpm install` will fail if this string is changed, because no package exists under a renamed scope.
   ```
@@ -327,7 +327,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
 ### `docs/gaming.md`
 - **Line 376** (`license_or_legal`): Line involves license/copyright/attribution text. Original author credit for open-source code you're building on is often expected to stay intact even after a rebrand — this is a judgment call, not a code-breakage risk, so it's left for you.
   ```
-  * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 677** (`discord_webhook_or_secret_looking`): Line mentions webhook/secret/token/api key alongside the brand string. Flagged so you can confirm this isn't a literal credential or an identifier tied to a specific external service (e.g. a Discord webhook registered under the FMHY name) before any text on this line is touched.
   ```
@@ -347,7 +347,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
   ```
 - **Line 621** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
-  * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
+  * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
   ```
 
 ### `docs/misc.md`
@@ -367,7 +367,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
   ```
 - **Line 46** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
-  [FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
+  [FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/markschron/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
   ```
 
 ### `docs/other/selfhosting.md`
@@ -2597,7 +2597,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
 ### `docs/posts/may-2025.md`
 - **Line 23** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
-  - Made a FMHY [Redlib Instance](https://redlib.fmhy.net/r/FREEMEDIAHECKYEAH/wiki/index) + our [SearXNG](https://searx.fmhy.net/) is working again too.
+  - Made a FMHY [Redlib Instance](https://redlib.fmhy.net/r/markschron/wiki/index) + our [SearXNG](https://searx.fmhy.net/) is working again too.
   ```
 - **Line 25** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
@@ -3287,7 +3287,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
   ```
 - **Line 204** (`license_or_legal`): Line involves license/copyright/attribution text. Original author credit for open-source code you're building on is often expected to stay intact even after a rebrand — this is a judgment call, not a code-breakage risk, so it's left for you.
   ```
-  * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 206** (`discord_webhook_or_secret_looking`): Line mentions webhook/secret/token/api key alongside the brand string. Flagged so you can confirm this isn't a literal credential or an identifier tied to a specific external service (e.g. a Discord webhook registered under the FMHY name) before any text on this line is touched.
   ```
@@ -3319,7 +3319,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
   ```
 - **Line 224** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
-  * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
+  * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
   ```
 - **Line 228** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
@@ -3351,7 +3351,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
   ```
 - **Line 244** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
-  [FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
+  [FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/markschron/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
   ```
 - **Line 248** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
@@ -7695,7 +7695,7 @@ These need context I don't have (your Vercel env var names, whether you own a gi
   ```
 - **Line 2474** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
-  - Made a FMHY [Redlib Instance](https://redlib.fmhy.net/r/FREEMEDIAHECKYEAH/wiki/index) + our [SearXNG](https://searx.fmhy.net/) is working again too.
+  - Made a FMHY [Redlib Instance](https://redlib.fmhy.net/r/markschron/wiki/index) + our [SearXNG](https://searx.fmhy.net/) is working again too.
   ```
 - **Line 2476** (`bare_domain_reference`): References the live fmhy.net domain. Safe to reword as plain text (e.g. in a README), but if this is used as an actual outbound link/canonical URL in metadata, it should point somewhere you control (e.g. your own domain) rather than be text-swapped to a domain you may not own. Decide per-occurrence.
   ```
@@ -8923,7 +8923,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/ai.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 22**: cosmetic text, no functional dependency detected
   ```
@@ -8935,7 +8935,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 146**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)
+  ## ▷ [Grammar Check](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_grammar_check)
   ```
 - **Line 166**: cosmetic text, no functional dependency detected
   ```
@@ -8955,7 +8955,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 252**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_upscale_.2F_restore)
+  ## ▷ [Image Restoration](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_upscale_.2F_restore)
   ```
 - **Line 263**: cosmetic text, no functional dependency detected
   ```
@@ -8987,33 +8987,33 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 349**: cosmetic text, no functional dependency detected
   ```
-  # ► [AI Coding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_ai_tools)
+  # ► [AI Coding Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_ai_tools)
   ```
 - **Line 369**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)**
+  * ↪️ **[AI API Tools](https://www.reddit.com/r/markschron/wiki/dev-tools/#wiki_.25B7_api_tools)**
   ```
 
 ### `docs/audio.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 12**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
+  * ↪️ **[Spotify Clients](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25BA_spotify_tools)**
   ```
 - **Line 13**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
+  * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_youtube_music_tools)**
   ```
 - **Line 14**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
+  * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_youtube_music)**
   ```
 - **Line 31**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
+  * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_youtube_music_tools)
   ```
 - **Line 37**: cosmetic text, no functional dependency detected
   ```
@@ -9021,7 +9021,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 43**: cosmetic text, no functional dependency detected
   ```
-  * [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 120**: cosmetic text, no functional dependency detected
   ```
@@ -9037,19 +9037,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 140**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
   ```
 - **Line 169**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
   ```
 - **Line 200**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
   ```
 - **Line 337**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
   ```
 - **Line 339**: cosmetic text, no functional dependency detected
   ```
@@ -9057,7 +9057,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 403**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** / **[YouTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
+  * ↪️ **[Video Audio Downloaders](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)** / **[YouTube](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_downloaders)**
   ```
 - **Line 406**: cosmetic text, no functional dependency detected
   ```
@@ -9065,11 +9065,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 441**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
   ```
 - **Line 502**: cosmetic text, no functional dependency detected
   ```
-  * [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 518**: cosmetic text, no functional dependency detected
   ```
@@ -9089,11 +9089,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 552**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
+  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
   ```
 - **Line 556**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
+  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/markschron/wiki/torrent)**
   ```
 - **Line 568**: cosmetic text, no functional dependency detected
   ```
@@ -9105,7 +9105,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 645**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
+  * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
   ```
 - **Line 649**: cosmetic text, no functional dependency detected
   ```
@@ -9113,19 +9113,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 748**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[System Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_system_audio)**
+  * ↪️ **[System Audio Tools](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_system_audio)**
   ```
 - **Line 749**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
+  * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
   ```
 - **Line 750**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+  * ↪️ **[Text to Speech](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_text_to_speech)**
   ```
 - **Line 769**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_audio_players)**
+  * ↪️ **[Android Audio Players](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_audio_players)**
   ```
 - **Line 790**: cosmetic text, no functional dependency detected
   ```
@@ -9133,7 +9133,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 811**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 851**: cosmetic text, no functional dependency detected
   ```
@@ -9141,31 +9141,31 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 852**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Shazam](https://www.shazam.com/)** / macOS, Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
+  * ⭐ **[Shazam](https://www.shazam.com/)** / macOS, Android, iOS, Web / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
   ```
 - **Line 900**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
+  * ↪️ **[Music Sheet Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_music_sheet_collections)**
   ```
 - **Line 931**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_audio)
+  ## ▷ [Linux Audio Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_audio)
   ```
 - **Line 935**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_audio)
+  ## ▷ [Mac Audio Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_audio)
   ```
 - **Line 942**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Audio Generation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generation)**
+  * ↪️ **[AI Audio Generation](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_audio_generation)**
   ```
 - **Line 943**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
+  * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
   ```
 - **Line 958**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[FL Studio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)** (search) / [Guide](https://www.image-line.com/learn) / [2](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual) / [3](https://support.image-line.com/action/knowledgebase), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [KiraStudio](https://kirastudio.org/) / [GitHub](https://github.com/BleuBleu/KiraStudioPublic), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
+  * ⭐ **[FL Studio](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)** (search) / [Guide](https://www.image-line.com/learn) / [2](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual) / [3](https://support.image-line.com/action/knowledgebase), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [KiraStudio](https://kirastudio.org/) / [GitHub](https://github.com/BleuBleu/KiraStudioPublic), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
   ```
 - **Line 960**: cosmetic text, no functional dependency detected
   ```
@@ -9181,45 +9181,45 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1055**: cosmetic text, no functional dependency detected
   ```
-  # ► [System Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools/#wiki_.25B7_system_audio)
+  # ► [System Audio](https://www.reddit.com/r/markschron/wiki/system-tools/#wiki_.25B7_system_audio)
   ```
 - **Line 1059**: cosmetic text, no functional dependency detected
   ```
-  # ► [Android Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_audio)
+  # ► [Android Audio](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_audio)
   ```
 - **Line 1063**: cosmetic text, no functional dependency detected
   ```
-  # ► [iOS Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_audio)
+  # ► [iOS Audio](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_audio)
   ```
 
 ### `docs/beginners-guide.md`
 - **Line 7**: cosmetic text, no functional dependency detected
   ```
-  For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
+  For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
   ```
 - **Line 9**: cosmetic text, no functional dependency detected
   ```
-  For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/morphe-piko-obtainium/). Note that uBO works on mobile browsers like Firefox too.
+  For mobile **[AdGuard Premium](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/morphe-piko-obtainium/). Note that uBO works on mobile browsers like Firefox too.
   ```
 - **Line 19**: cosmetic text, no functional dependency detected
   ```
-  Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
+  Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 32**: cosmetic text, no functional dependency detected
   ```
-  We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
+  We recommend **[Firefox](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
   ```
 - **Line 38**: cosmetic text, no functional dependency detected
   ```
-  !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
+  !!!note We recommend looking through our [Extension](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
   ```
 - **Line 48**: cosmetic text, no functional dependency detected
   ```
-  * **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
+  * **[Base64 Decoders](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
   ```
 - **Line 55**: cosmetic text, no functional dependency detected
   ```
-  * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
+  * **Downloading: [Directories](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_download_sites)**
   ```
 - **Line 67**: cosmetic text, no functional dependency detected
   ```
@@ -9231,11 +9231,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 108**: cosmetic text, no functional dependency detected
   ```
-  For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearXNG](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)**. It's also good to check the HaveIBeenPwned **[email](https://haveibeenpwned.com/)** and [password](https://haveibeenpwned.com/Passwords) engines to make sure your info hasn't been part of any recent data breaches.
+  For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearXNG](https://www.reddit.com/r/markschron/wiki/storage/#wiki_searx_instances)**. It's also good to check the HaveIBeenPwned **[email](https://haveibeenpwned.com/)** and [password](https://haveibeenpwned.com/Passwords) engines to make sure your info hasn't been part of any recent data breaches.
   ```
 - **Line 110**: cosmetic text, no functional dependency detected
   ```
-  !!!note Never enter your real email or password on any site you don't know you can trust. Use a unique password for each site you register on. That way, if a breach occurs, only that one site's credentials are compromised. You can also take advantage of email [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) for an extra layer of protection.
+  !!!note Never enter your real email or password on any site you don't know you can trust. Use a unique password for each site you register on. That way, if a breach occurs, only that one site's credentials are compromised. You can also take advantage of email [aliasing](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_email_aliasing) for an extra layer of protection.
   ```
 - **Line 120**: cosmetic text, no functional dependency detected
   ```
@@ -9243,41 +9243,41 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 133**: cosmetic text, no functional dependency detected
   ```
-  Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://wispydocs.pages.dev/torrenting/)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
+  Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://wispydocs.pages.dev/torrenting/)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
   ```
 
 ### `docs/developer-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 32**: cosmetic text, no functional dependency detected
   ```
-  # ► [Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_developer_learning)
+  # ► [Developer Learning](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_developer_learning)
   ```
 - **Line 38**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_data_visualization_tools)**
   ```
 - **Line 39**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
+  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_machine_learning)**
   ```
 - **Line 40**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Markup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
+  * ↪️ **[Markup Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25BA_markup_tools)**
   ```
 - **Line 116**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
+  * ↪️ **[App Mockups](https://www.reddit.com/r/markschron/wiki/storage#wiki_app_.2F_site_mockups)**
   ```
 - **Line 162**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/markschron/wiki/storage#wiki_git_projects)**
   ```
 - **Line 245**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
+  * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
   ```
 - **Line 268**: cosmetic text, no functional dependency detected
   ```
@@ -9285,43 +9285,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 307**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_game_development)**
+  * ↪️ **[Learn Game Development](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_game_development)**
   ```
 - **Line 308**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Sound Effect Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sfx_.2F_loops)**
+  * ↪️ **[Sound Effect Sites](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_sfx_.2F_loops)**
   ```
 - **Line 346**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_3d_models)**
+  * ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_3d_models)**
   ```
 - **Line 347**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/)**
+  * ↪️ **[Design Tools / Resources](https://www.reddit.com/r/markschron/wiki/image-tools/)**
   ```
 - **Line 348**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
+  * ↪️ **[Art Resources](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_art_.2F_editing)**
   ```
 - **Line 349**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Animation Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools/#wiki_.25B7_animation_tools)**
+  * ↪️ **[Animation Resources](https://www.reddit.com/r/markschron/wiki/video-tools/#wiki_.25B7_animation_tools)**
   ```
 - **Line 350**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
+  * ↪️ **[Writing Tools](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_writing_tools)**
   ```
 - **Line 363**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+  * ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
   ```
 - **Line 374**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
+  * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25BA_text_editors)**
   ```
 - **Line 375**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
+  * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_vscode_tools)
   ```
 - **Line 376**: cosmetic text, no functional dependency detected
   ```
@@ -9329,11 +9329,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 406**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
+  * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
   ```
 - **Line 527**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
+  * ↪️ **[AI Agents](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_ai_agents)**
   ```
 - **Line 532**: cosmetic text, no functional dependency detected
   ```
@@ -9345,43 +9345,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 582**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_programming_languages)**
+  * ↪️ **[Learn Programming](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_programming_languages)**
   ```
 - **Line 656**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[CSS Framework Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_css_framework_tools)**
+  * ↪️ **[CSS Framework Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_css_framework_tools)**
   ```
 - **Line 682**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
+  * ↪️ **[TypeScript Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_typescript_tools)**
   ```
 - **Line 734**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
+  * ↪️ **[Site Mockups](https://www.reddit.com/r/markschron/wiki/storage#wiki_app_.2F_site_mockups)**
   ```
 - **Line 735**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25BA_archiving)**
+  * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25BA_archiving)**
   ```
 - **Line 736**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
+  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_offline_galleries)**
   ```
 - **Line 752**: cosmetic text, no functional dependency detected
   ```
-  * [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Management Systems / CMS
+  * [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Management Systems / CMS
   ```
 - **Line 835**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_palette_generators)**
+  * ↪️ **[Color Palette Generators](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_palette_generators)**
   ```
 - **Line 836**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_color_pickers)**
+  * ↪️ **[Color Pickers](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_color_pickers)**
   ```
 - **Line 860**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_design_resources_.2F_ideas)** or [Open Source Design](https://opensourcedesign.net/)
+  * ↪️ **[Design Resources](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_design_resources_.2F_ideas)** or [Open Source Design](https://opensourcedesign.net/)
   ```
 - **Line 877**: cosmetic text, no functional dependency detected
   ```
@@ -9389,23 +9389,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 921**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - You can use [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25B7_online_chatbots) to create regex patterns more easily.
+  * **Note** - You can use [AI chatbots](https://www.reddit.com/r/markschron/wiki/ai/#wiki_.25B7_online_chatbots) to create regex patterns more easily.
   ```
 - **Line 959**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
+  * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/markschron/wiki/storage#wiki_svg_icons)**
   ```
 - **Line 960**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Vector Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
+  * ↪️ **[Vector Editors](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
   ```
 - **Line 987**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dynamic DNS Services / Subdomains](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dynamic_dns_services_.2F_subdomains)**
+  * ↪️ **[Dynamic DNS Services / Subdomains](https://www.reddit.com/r/markschron/wiki/storage#wiki_dynamic_dns_services_.2F_subdomains)**
   ```
 - **Line 988**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
+  * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/markschron/wiki/storage#wiki_self-hosted_wiki_alts)**
   ```
 - **Line 992**: cosmetic text, no functional dependency detected
   ```
@@ -9421,37 +9421,37 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1128**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Cybersecurity Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_cybersecurity)**
+  * ↪️ **[Cybersecurity Learning](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_cybersecurity)**
   ```
 - **Line 1156**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_free_dns_resolvers)**
+  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/markschron/wiki/storage/#wiki_free_dns_resolvers)**
   ```
 - **Line 1207**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[IDA Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/)** (search) - Software Disassembler / Decompiler / [Plugins](https://plugins.hex-rays.com/)
+  * ⭐ **[IDA Pro](https://www.reddit.com/r/markschron/wiki/torrent/)** (search) - Software Disassembler / Decompiler / [Plugins](https://plugins.hex-rays.com/)
   ```
 
 ### `docs/downloading.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 11**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation and run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+  * **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation and run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 16**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
+  * ↪️ **[Editing Software](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
   ```
 - **Line 19**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 20**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 21**: cosmetic text, no functional dependency detected
   ```
@@ -9459,15 +9459,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 24**: cosmetic text, no functional dependency detected
   ```
-  * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 36**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/markschron/wiki/storage#wiki_git_projects)**
   ```
 - **Line 58**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
+  * ↪️ **[Software Package Managers](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_package_managers)**
   ```
 - **Line 77**: cosmetic text, no functional dependency detected
   ```
@@ -9475,23 +9475,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 82**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites)
+  ## ▷ [Linux Software](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites)
   ```
 - **Line 86**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)
+  ## ▷ [Mac Software](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2)
   ```
 - **Line 92**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Some Open Directories track IP addresses. Always use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) or [Tor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy) when accessing these resources.
+  * **Note** - Some Open Directories track IP addresses. Always use a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) or [Tor](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy) when accessing these resources.
   ```
 - **Line 112**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+  * **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 116**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+  * ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_internet_archive_tools)
   ```
 - **Line 135**: cosmetic text, no functional dependency detected
   ```
@@ -9499,27 +9499,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 155**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)
+  ## ▷ [Video Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_download_sites)
   ```
 - **Line 159**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading)
+  ## ▷ [Anime Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_anime_downloading)
   ```
 - **Line 163**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading)
+  ## ▷ [Educational Sites](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_downloading)
   ```
 - **Line 167**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+  ## ▷ [Game Sites](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)
   ```
 - **Line 171**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_sites)
+  ## ▷ [Audio Sites](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_download_sites)
   ```
 - **Line 228**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
+  * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_apps)**
   ```
 - **Line 243**: cosmetic text, no functional dependency detected
   ```
@@ -9527,25 +9527,25 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 252**: cosmetic text, no functional dependency detected
   ```
-  # ► [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)
+  # ► [Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_download_managers)
   ```
 
 ### `docs/educational.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 40**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
+  * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/markschron/wiki/storage#wiki_udemy_coupons)**
   ```
 - **Line 67**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
   ```
 - **Line 73**: cosmetic text, no functional dependency detected
   ```
-  * [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
+  * [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
   ```
 - **Line 83**: cosmetic text, no functional dependency detected
   ```
@@ -9553,147 +9553,147 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 89**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
+  * ↪️ **[Ebook Sites](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25BA_educational_books)**
   ```
 - **Line 90**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Quotes / Poetry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
+  * ↪️ **[Quotes / Poetry](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
   ```
 - **Line 147**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_science_news)**
+  * ↪️ **[Science News](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_science_news)**
   ```
 - **Line 188**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
+  * ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_calculators)**
   ```
 - **Line 189**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_latex_tools)**
+  * ↪️ **[LaTeX Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_latex_tools)**
   ```
 - **Line 197**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 246**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+  * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_computer_science)**
   ```
 - **Line 247**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Vehicle Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)**
+  * ↪️ **[Vehicle Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_vehicle)**
   ```
 - **Line 248**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_cad_engineering)**
+  * ↪️ **[3D Modeling](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_cad_engineering)**
   ```
 - **Line 287**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Periodic Tables](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_periodic_tables)**
+  * ↪️ **[Periodic Tables](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_periodic_tables)**
   ```
 - **Line 385**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
+  * ↪️ **[Health Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_health)**
   ```
 - **Line 500**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_aerospace_engineering)**
+  * ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_aerospace_engineering)**
   ```
 - **Line 501**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
+  * ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
   ```
 - **Line 531**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
+  * ↪️ **[Spacecraft Resources](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_spacecraft)**
   ```
 - **Line 532**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
+  * ↪️ **[Flight Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_flights)**
   ```
 - **Line 597**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
+  * ↪️ **[Historical Film Archives](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_film_archives)**
   ```
 - **Line 598**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 599**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
+  * ↪️ **[History Books](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_history_books)**
   ```
 - **Line 600**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
+  * ↪️ **[Historical Maps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
   ```
 - **Line 719**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
+  * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_maps)** - Map Resources
   ```
 - **Line 753**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_finance_.2F_savings)**
+  * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_finance_.2F_savings)**
   ```
 - **Line 810**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
+  * ↪️ **[Photography / Cameras](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
   ```
 - **Line 811**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Fashion / Clothing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_fashion_.2F_clothing)**
+  * ↪️ **[Fashion / Clothing](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_fashion_.2F_clothing)**
   ```
 - **Line 812**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
+  * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_typing_lessons)**
   ```
 - **Line 813**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
+  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/markschron/wiki/storage#wiki_survival)**
   ```
 - **Line 814**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_puzzle_games)**
+  * ↪️ **[Puzzle Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_puzzle_games)**
   ```
 - **Line 845**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
+  * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
   ```
 - **Line 887**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 937**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
+  * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/markschron/wiki/games/#wiki_.25B7_rubiks_cube)**
   ```
 - **Line 962**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
+  * ↪️ **[Play Chess Online](https://www.reddit.com/r/markschron/wiki/games#wiki_.25B7_chess)**
   ```
 - **Line 972**: cosmetic text, no functional dependency detected
   ```
-  * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
+  * [Chess Coach](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
   ```
 - **Line 1016**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
+  * ↪️ **[D&D Building Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
   ```
 - **Line 1022**: cosmetic text, no functional dependency detected
   ```
-  * [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+  * [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
   ```
 - **Line 1053**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
+  * ↪️ **[Translation Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_translators)**
   ```
 - **Line 1068**: cosmetic text, no functional dependency detected
   ```
-  * [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Language Learning Lessons
+  * [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Language Learning Lessons
   ```
 - **Line 1069**: cosmetic text, no functional dependency detected
   ```
-  * [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
+  * [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
   ```
 - **Line 1090**: cosmetic text, no functional dependency detected
   ```
@@ -9705,23 +9705,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1143**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
+  * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/markschron/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/markschron/wiki/storage#wiki_youtube_channels)
   ```
 - **Line 1144**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
+  * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/markschron/wiki/storage#wiki_dictionaries_.2F_translation)**
   ```
 - **Line 1145**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
+  * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/markschron/wiki/storage#wiki_kanji_learning)**
   ```
 - **Line 1336**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
+  * ↪️ **[Programming Books](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
   ```
 - **Line 1514**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
+  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_machine_learning)**
   ```
 - **Line 1536**: cosmetic text, no functional dependency detected
   ```
@@ -9729,7 +9729,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1611**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Game Dev Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
+  * ↪️ **[Game Dev Tools](https://www.reddit.com/r/markschron/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
   ```
 - **Line 1617**: cosmetic text, no functional dependency detected
   ```
@@ -9745,27 +9745,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1699**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_presentation_tools)**
   ```
 - **Line 1700**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization](https://www.reddit.com/r/markschron/wiki/storage#wiki_data_visualization_tools)**
   ```
 - **Line 1701**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
+  * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_grammar_check)**
   ```
 - **Line 1727**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
+  * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_note-taking)**
   ```
 - **Line 1728**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
+  * ↪️ **[Documents / Articles](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_academic_papers)**
   ```
 - **Line 1729**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_specialized_chatbots)**
   ```
 - **Line 1730**: cosmetic text, no functional dependency detected
   ```
@@ -9773,7 +9773,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1809**: cosmetic text, no functional dependency detected
   ```
-  * [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
+  * [PhotoMath](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
   ```
 
 ### `docs/feedback.md`
@@ -9813,15 +9813,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/file-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 9**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
+  * ↪️ **[File Scanners](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
   ```
 - **Line 29**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
+  * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
   ```
 - **Line 57**: cosmetic text, no functional dependency detected
   ```
@@ -9833,23 +9833,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 89**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
+  * ⭐ **[Directory Opus](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
   ```
 - **Line 181**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
+  * ↪️ **[Image Metadata Tools](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
   ```
 - **Line 182**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
+  * ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_audio_metadata)**
   ```
 - **Line 202**: cosmetic text, no functional dependency detected
   ```
-  * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Disk Partitioning / Data Recovery
+  * [Parted Magic](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (search) - Disk Partitioning / Data Recovery
   ```
 - **Line 258**: cosmetic text, no functional dependency detected
   ```
-  * [Foxit](https://www.foxit.com/pdf-reader/) / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+  * [Foxit](https://www.foxit.com/pdf-reader/) / All Platforms / [Features](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
   ```
 - **Line 297**: cosmetic text, no functional dependency detected
   ```
@@ -9857,11 +9857,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 326**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
+  * ↪️ **[Video File Hosts](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_video_file_hosts)**
   ```
 - **Line 327**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
+  * ↪️ **[Image File Hosts](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_image_hosts)**
   ```
 - **Line 330**: cosmetic text, no functional dependency detected
   ```
@@ -9881,7 +9881,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 420**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
+  * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
   ```
 - **Line 436**: cosmetic text, no functional dependency detected
   ```
@@ -9907,23 +9907,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/gaming-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 9**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
+  * ↪️ **[Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_download_managers)**
   ```
 - **Line 10**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Game Recording / Clipping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_screen_recording)**
+  * ↪️ **[Game Recording / Clipping](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_screen_recording)**
   ```
 - **Line 11**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
+  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
   ```
 - **Line 12**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
+  * ↪️ **[Game Soundtracks](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_game_soundtracks)**
   ```
 - **Line 114**: cosmetic text, no functional dependency detected
   ```
@@ -9935,19 +9935,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 142**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_mod_.2F_resource_packs)**
+  * ↪️ **[Minecraft Mods](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_mod_.2F_resource_packs)**
   ```
 - **Line 143**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[GTA Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_gta_tools)**
+  * ↪️ **[GTA Mods](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_gta_tools)**
   ```
 - **Line 149**: cosmetic text, no functional dependency detected
   ```
-  * [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+  * [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)
   ```
 - **Line 174**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_sync)**
+  * ↪️ **[File Backup](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_file_sync)**
   ```
 - **Line 242**: cosmetic text, no functional dependency detected
   ```
@@ -9999,7 +9999,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 633**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Gaming Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)**
+  * ↪️ **[Linux Gaming Resources](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_gaming)**
   ```
 - **Line 709**: cosmetic text, no functional dependency detected
   ```
@@ -10015,19 +10015,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 940**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[D&D Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dungeons_.26amp.3B_dragons)** - Dungeons & Dragons Guides / Tools
+  * ↪️ **[D&D Resources](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_dungeons_.26amp.3B_dragons)** - Dungeons & Dragons Guides / Tools
   ```
 - **Line 960**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_writing_tools)** - Writing Tools / Story Managers
+  * ↪️ **[Writing Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_writing_tools)** - Writing Tools / Story Managers
   ```
 - **Line 993**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Visual Novel DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_special_interest)** - Visual Novel Download Sites
+  * ↪️ **[Visual Novel DDL](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_special_interest)** - Visual Novel Download Sites
   ```
 - **Line 1036**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Pokémon Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_pokemon)**
+  * ↪️ **[Pokémon Browser Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25B7_pokemon)**
   ```
 - **Line 1087**: cosmetic text, no functional dependency detected
   ```
@@ -10039,17 +10039,17 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1146**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
+  * ↪️ **[GD Demon Lists](https://www.reddit.com/r/markschron/wiki/storage#wiki_geometry_dash_demon_lists)**
   ```
 
 ### `docs/gaming.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 9**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. check [this guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+  * **Note** - Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. check [this guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 16**: cosmetic text, no functional dependency detected
   ```
@@ -10057,11 +10057,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 21**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
+  * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
   ```
 - **Line 24**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
+  * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_redirect_bypass)
   ```
 - **Line 28**: cosmetic text, no functional dependency detected
   ```
@@ -10069,15 +10069,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 30**: cosmetic text, no functional dependency detected
   ```
-  * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 31**: cosmetic text, no functional dependency detected
   ```
-  * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
+  * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
   ```
 - **Line 34**: cosmetic text, no functional dependency detected
   ```
-  * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
+  * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
   ```
 - **Line 42**: cosmetic text, no functional dependency detected
   ```
@@ -10085,7 +10085,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 44**: cosmetic text, no functional dependency detected
   ```
-  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_free_stuff)
   ```
 - **Line 45**: cosmetic text, no functional dependency detected
   ```
@@ -10093,7 +10093,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 56**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.com/invite/WF2pqPTFBs)
+  * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / [Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.com/invite/WF2pqPTFBs)
   ```
 - **Line 58**: cosmetic text, no functional dependency detected
   ```
@@ -10109,23 +10109,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 66**: cosmetic text, no functional dependency detected
   ```
-  * [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.gg/D9WU7C9FSE) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)**
+  * [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.gg/D9WU7C9FSE) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)**
   ```
 - **Line 68**: cosmetic text, no functional dependency detected
   ```
-  * [Xatab Repacks](https://byxatab.com/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Xatab Repacks](https://byxatab.com/) - Torrent / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 73**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)
+  ## ▷ [Linux Games](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_gaming)
   ```
 - **Line 77**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_gaming)
+  ## ▷ [Mac Games](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_gaming)
   ```
 - **Line 107**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PCVR Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)**
+  * ↪️ **[PCVR Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)**
   ```
 - **Line 114**: cosmetic text, no functional dependency detected
   ```
@@ -10133,7 +10133,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 124**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Indie Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_indie_browser_games)**
+  * ↪️ **[Indie Browser Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25B7_indie_browser_games)**
   ```
 - **Line 147**: cosmetic text, no functional dependency detected
   ```
@@ -10141,7 +10141,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 149**: cosmetic text, no functional dependency detected
   ```
-  * [⁠⁠Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [⁠⁠Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware Games / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 200**: cosmetic text, no functional dependency detected
   ```
@@ -10149,7 +10149,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 252**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
+  * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
   ```
 - **Line 253**: cosmetic text, no functional dependency detected
   ```
@@ -10157,7 +10157,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 276**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_emulators_on_android)**
+  * ↪️ **[Emulators on Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_emulators_on_android)**
   ```
 - **Line 279**: cosmetic text, no functional dependency detected
   ```
@@ -10185,7 +10185,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 340**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 351**: cosmetic text, no functional dependency detected
   ```
@@ -10237,35 +10237,35 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 443**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
+  * ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/markschron/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
   ```
 - **Line 526**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_rubiks_cube)**
+  * ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_rubiks_cube)**
   ```
 - **Line 610**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
+  * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
   ```
 - **Line 611**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Go / Baduk / Weiqi Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7__go_.2F_baduk_.2F_weiqi)**
+  * ↪️ **[Go / Baduk / Weiqi Learning](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7__go_.2F_baduk_.2F_weiqi)**
   ```
 - **Line 638**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
+  * ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_chess)**
   ```
 - **Line 661**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Tabletop Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_tabletop_tools)**
+  * ↪️ **[Tabletop Tools](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_tabletop_tools)**
   ```
 - **Line 686**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)
+  ## ▷ [Dungeons & Dragons](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)
   ```
 - **Line 692**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Browser Toys / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random)** - Browser Toys / Game Indexes
+  * ↪️ **[Browser Toys / Games](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_random)** - Browser Toys / Game Indexes
   ```
 - **Line 696**: cosmetic text, no functional dependency detected
   ```
@@ -10305,45 +10305,45 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 889**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
+  * **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
   ```
 - **Line 976**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+  * ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
   ```
 - **Line 977**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
+  * ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
   ```
 - **Line 1116**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Pokémon Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_pokemon_tools)**
+  * ↪️ **[Pokémon Resources / Tools](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_pokemon_tools)**
   ```
 - **Line 1160**: cosmetic text, no functional dependency detected
   ```
-  # ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
+  # ► [Gaming Tools](https://www.reddit.com/r/markschron/wiki/game-tools)
   ```
 
 ### `docs/image-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 10**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
+  * ↪️ **[AI Image Generators](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_image_generation)**
   ```
 - **Line 11**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
+  * ↪️ **[Art Education](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_art_.2F_editing)**
   ```
 - **Line 25**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
+  * ↪️ **[Editing Software](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
   ```
 - **Line 26**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
+  * ↪️ **[Android Editors](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_image_tools)**
   ```
 - **Line 29**: cosmetic text, no functional dependency detected
   ```
@@ -10351,31 +10351,31 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 124**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_image)
+  ## ▷ [Linux Image Editing](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_image)
   ```
 - **Line 128**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_image)
+  ## ▷ [Mac Image Editing](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_image)
   ```
 - **Line 138**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
+  * ↪️ **[Digital Art Brushes](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_brushes)** - Download Brushes
   ```
 - **Line 184**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)**
+  * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_animation_tools)**
   ```
 - **Line 185**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
+  * ↪️ **[ASCII Art](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_ascii_art)**
   ```
 - **Line 259**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)
+  ## ▷ [Animation](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_animation_tools)
   ```
 - **Line 265**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)**
+  * ↪️ **[Design Resources](https://www.reddit.com/r/markschron/wiki/storage#wiki_design_resources)**
   ```
 - **Line 280**: cosmetic text, no functional dependency detected
   ```
@@ -10383,15 +10383,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 294**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SVG Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_svg_tools)**
+  * ↪️ **[SVG Icons](https://www.reddit.com/r/markschron/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_svg_tools)**
   ```
 - **Line 384**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
+  * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/markschron/wiki/storage#wiki_png_images_.2F_clipart)**
   ```
 - **Line 470**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 514**: cosmetic text, no functional dependency detected
   ```
@@ -10399,23 +10399,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 521**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_wallpapers)
+  ## ▷ [Wallpapers](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_wallpapers)
   ```
 - **Line 630**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)**
+  * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_color_schemes)**
   ```
 - **Line 691**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
+  * ↪️ **[File Converter](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
   ```
 - **Line 719**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
+  * **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
   ```
 - **Line 778**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
+  * ↪️ **[Android Galleries](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_image_galleries)**
   ```
 - **Line 814**: cosmetic text, no functional dependency detected
   ```
@@ -10423,25 +10423,25 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 825**: cosmetic text, no functional dependency detected
   ```
-  * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
+  * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
   ```
 - **Line 847**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / Windows / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
+  * ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / Windows / [Image Hosts](https://www.reddit.com/r/markschron/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
   ```
 - **Line 901**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources / Tools
+  * ↪️ **[Android Camera](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources / Tools
   ```
 - **Line 923**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Info / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata)**
+  * ↪️ **[File Info / Metadata](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata)**
   ```
 
 ### `docs/index.md`
 - **Line 7**: cosmetic text, no functional dependency detected
   ```
-  name: freemediaheckyeah
+  name: markschron
   ```
 - **Line 14**: cosmetic text, no functional dependency detected
   ```
@@ -10451,15 +10451,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/internet-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 9**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Web Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
+  * ↪️ **[Web Privacy Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
   ```
 - **Line 43**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 90**: cosmetic text, no functional dependency detected
   ```
@@ -10467,19 +10467,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 100**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Discord Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_discord_tools)**
+  * ↪️ **[Discord Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_discord_tools)**
   ```
 - **Line 101**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Telegram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_telegram_tools)**
+  * ↪️ **[Telegram Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_telegram_tools)**
   ```
 - **Line 102**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
+  * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
   ```
 - **Line 103**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
+  * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/markschron/wiki/download#wiki_.25B7_irc_tools)**
   ```
 - **Line 116**: cosmetic text, no functional dependency detected
   ```
@@ -10487,27 +10487,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 170**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android RSS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_rss_readers)**
+  * ↪️ **[Android RSS Readers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_rss_readers)**
   ```
 - **Line 204**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
+  * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_reddit_search)**
   ```
 - **Line 246**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+  * ↪️ **[AI Search Engines](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_specialized_chatbots)**
   ```
 - **Line 247**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+  * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
   ```
 - **Line 248**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
+  * ↪️ **[Image Search Engines](https://www.reddit.com/r/markschron/wiki/image-tools/#wiki_.25B7_image_search_engines)**
   ```
 - **Line 328**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
+  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
   ```
 - **Line 356**: cosmetic text, no functional dependency detected
   ```
@@ -10519,7 +10519,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 425**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
+  * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
   ```
 - **Line 439**: cosmetic text, no functional dependency detected
   ```
@@ -10527,15 +10527,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 455**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing) section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
+  * **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_email_aliasing) section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
   ```
 - **Line 622**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
+  * ↪️ **[Android Browsers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_browsers)**
   ```
 - **Line 640**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
+  * ↪️ **[Firefox Extensions](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
   ```
 - **Line 643**: cosmetic text, no functional dependency detected
   ```
@@ -10543,93 +10543,93 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 658**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chromium Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chrome_extensions)**
+  * ↪️ **[Chromium Extensions](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_chrome_extensions)**
   ```
 - **Line 671**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Adblocking Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
+  * ↪️ **[Adblocking Extensions](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
   ```
 - **Line 672**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Translation Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
+  * ↪️ **[Translation Extensions](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_translators)**
   ```
 - **Line 673**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)**
+  * ↪️ **[Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_download_managers)**
   ```
 - **Line 674**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+  * ↪️ **[Video Downloaders](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)**
   ```
 - **Line 675**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_download_extensions)**
+  * ↪️ **[Image Downloaders](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_download_extensions)**
   ```
 - **Line 676**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
+  * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
   ```
 - **Line 677**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
+  * ↪️ **[Bookmark Managers](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
   ```
 - **Line 678**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
+  * ↪️ **[Tab Managers](https://www.reddit.com/r/markschron/wiki/storage#wiki_tab_managers)**
   ```
 - **Line 824**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
+  * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_google_search_tools)**
   ```
 - **Line 847**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
+  * ↪️ **[4chan Archives](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_4chan_archives)**
   ```
 - **Line 848**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Internet Archive](https://archive.org/)** - Internet Archive / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+  * ⭐ **[Internet Archive](https://archive.org/)** - Internet Archive / [Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_internet_archive_tools)
   ```
 - **Line 865**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitter Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving)**
+  * ↪️ **[Twitter Archiving](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving)**
   ```
 - **Line 866**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
+  * ↪️ **[YouTube Archiving](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_youtube_archiving)**
   ```
 - **Line 908**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
+  * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
   ```
 - **Line 909**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools)**
+  * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25BA_search_tools)**
   ```
 
 ### `docs/linux-macos.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 83**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
   ```
 - **Line 84**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+  * ↪️ **[Office Suites](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_office_suites)**
   ```
 - **Line 131**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** - Linux Software / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** - Linux Software / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 205**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_media_servers)**
   ```
 - **Line 209**: cosmetic text, no functional dependency detected
   ```
-  * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+  * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
   ```
 - **Line 218**: cosmetic text, no functional dependency detected
   ```
@@ -10645,15 +10645,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 264**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_editing_software)**
+  * ↪️ **[Linux Image Editors](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_editing_software)**
   ```
 - **Line 290**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Steam Deck Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_steam_deck)**
+  * ↪️ **[Steam Deck Resources](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_steam_deck)**
   ```
 - **Line 297**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 299**: cosmetic text, no functional dependency detected
   ```
@@ -10661,7 +10661,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 301**: cosmetic text, no functional dependency detected
   ```
-  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 302**: cosmetic text, no functional dependency detected
   ```
@@ -10669,43 +10669,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 344**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Linux 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 345**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
+  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy)**
   ```
 - **Line 346**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 370**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+  * ↪️ **[Linux Torrent Clients](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients)**
   ```
 - **Line 371**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[Linux Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 - **Line 413**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_media_servers)**
   ```
 - **Line 414**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
+  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_offline_galleries)**
   ```
 - **Line 593**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
   ```
 - **Line 594**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+  * ↪️ **[Office Suites](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_office_suites)**
   ```
 - **Line 610**: cosmetic text, no functional dependency detected
   ```
-  * [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows Software on Mac
+  * [CrossOver](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows Software on Mac
   ```
 - **Line 679**: cosmetic text, no functional dependency detected
   ```
@@ -10725,23 +10725,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 731**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)** (search) - Run Windows Games on Mac
+  * ⭐ **[CrossOver](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2)** (search) - Run Windows Games on Mac
   ```
 - **Line 735**: cosmetic text, no functional dependency detected
   ```
-  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 753**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Mac 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 754**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
+  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy)**
   ```
 - **Line 755**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 756**: cosmetic text, no functional dependency detected
   ```
@@ -10753,25 +10753,25 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 783**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mac Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+  * ↪️ **[Mac Torrent Clients](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients)**
   ```
 - **Line 784**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mac Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[Mac Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 
 ### `docs/misc.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 11**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
+  * ↪️ **[AI Indexes](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_ai_indexes)**
   ```
 - **Line 12**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_indexes)**
+  * ↪️ **[Privacy Indexes](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_indexes)**
   ```
 - **Line 36**: cosmetic text, no functional dependency detected
   ```
@@ -10779,7 +10779,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 83**: cosmetic text, no functional dependency detected
   ```
-  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_free_stuff)
   ```
 - **Line 133**: cosmetic text, no functional dependency detected
   ```
@@ -10791,147 +10791,147 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 227**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Raspberry Pi Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_raspberry_pi)**
+  * ↪️ **[Raspberry Pi Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_raspberry_pi)**
   ```
 - **Line 298**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Live Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_sports_replays)**
+  * ↪️ **[Live Sports](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_sports_replays)**
   ```
 - **Line 301**: cosmetic text, no functional dependency detected
   ```
-  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 319**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
+  * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
   ```
 - **Line 577**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
+  * ↪️ **[Newspaper Sites](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_newspapers)**
   ```
 - **Line 578**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 589**: cosmetic text, no functional dependency detected
   ```
-  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 633**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
+  * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_dev_news)**
   ```
 - **Line 635**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+  * ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_hacker_news_tools)
   ```
 - **Line 694**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
+  * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
   ```
 - **Line 833**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
+  * ↪️ **[Site Blocking](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
   ```
 - **Line 950**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
+  * ↪️ **[Learn Programming](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_developer_learning)**
   ```
 - **Line 951**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+  * ↪️ **[Learn Computer Science](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_computer_science)**
   ```
 - **Line 1074**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Make sure to install a [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) when using these sites.
+  * **Note** - Make sure to install a [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) when using these sites.
   ```
 - **Line 1189**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
+  * ↪️ **[Steam Store Tools](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_store_tools)**
   ```
 - **Line 1247**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_skills_.2F_hobbies_.2F_diy)**
+  * ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_skills_.2F_hobbies_.2F_diy)**
   ```
 - **Line 1248**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
+  * ↪️ **[Manual Sites](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
   ```
 - **Line 1249**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
+  * ↪️ **[Mind Mapping](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_mind_mapping)**
   ```
 - **Line 1250**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_presentation_tools)**
   ```
 - **Line 1251**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization](https://www.reddit.com/r/markschron/wiki/storage#wiki_data_visualization_tools)**
   ```
 - **Line 1252**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
+  * ↪️ **[Polling Sites](https://www.reddit.com/r/markschron/wiki/storage#wiki_poll_sites)**
   ```
 - **Line 1322**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
+  * ↪️ **[To-Do Lists](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_to_do_lists)**
   ```
 - **Line 1323**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
+  * ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
   ```
 - **Line 1355**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
+  * ↪️ **[To-Do Apps](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_to-do_apps)**
   ```
 - **Line 1381**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
+  * ↪️ **[Multireddit Index](https://www.reddit.com/r/markschron/wiki/storage#wiki_multireddits)**
   ```
 - **Line 1382**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
+  * ↪️ **[AI Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_ai_chatbots)**
   ```
 - **Line 1413**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Search / Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_search)**
+  * ↪️ **[YouTube Search / Archives](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_search)**
   ```
 - **Line 1414**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 1415**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_image_creation)**
+  * ↪️ **[Image Creation](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_image_creation)**
   ```
 - **Line 1416**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
+  * ↪️ **[ASCII Art](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_ascii_art)**
   ```
 - **Line 1417**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Art / Illustrations](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_art_.2F_illustrations)**
+  * ↪️ **[Art / Illustrations](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_art_.2F_illustrations)**
   ```
 - **Line 1418**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[GIF Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_gif_tools)**
+  * ↪️ **[GIF Tools](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_gif_tools)**
   ```
 - **Line 1419**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_meme_tools)**
+  * ↪️ **[Meme Tools](https://www.reddit.com/r/markschron/wiki/image-tools/#wiki_.25B7_meme_tools)**
   ```
 - **Line 1420**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
+  * ↪️ **[4chan Archives](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_4chan_archives)**
   ```
 - **Line 1505**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
+  * ↪️ **[Browser Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_browser_games)**
   ```
 - **Line 1612**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_learning_sites)**
+  * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_learning_sites)**
   ```
 - **Line 1724**: cosmetic text, no functional dependency detected
   ```
@@ -10941,7 +10941,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/mobile.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 15**: cosmetic text, no functional dependency detected
   ```
@@ -10949,7 +10949,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 16**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[4PDA](https://4pda.to/forum/)** - Signup Required / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
+  * ⭐ **[4PDA](https://4pda.to/forum/)** - Signup Required / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
   ```
 - **Line 23**: cosmetic text, no functional dependency detected
   ```
@@ -10961,11 +10961,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 31**: cosmetic text, no functional dependency detected
   ```
-  * [⁠Android Oyun Club](https://androidoyun.club/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [⁠Android Oyun Club](https://androidoyun.club/) - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 85**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)** - App Giveaway Sites
+  * ↪️ **[Free App Giveaways](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_free_stuff)** - App Giveaway Sites
   ```
 - **Line 89**: cosmetic text, no functional dependency detected
   ```
@@ -10973,19 +10973,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 104**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Niagara Launcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://niagaralauncher.com/) - Single-Hand Launcher / [Telegram](https://t.me/niagara_news) / [Discord](https://discord.com/invite/niagara-launcher-728630549278883950)
+  * ⭐ **[Niagara Launcher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://niagaralauncher.com/) - Single-Hand Launcher / [Telegram](https://t.me/niagara_news) / [Discord](https://discord.com/invite/niagara-launcher-728630549278883950)
   ```
 - **Line 105**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[SmartLauncher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.smartlauncher.net/) - Customizable Launcher / [Telegram](https://t.me/smartlauncher)
+  * ⭐ **[SmartLauncher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.smartlauncher.net/) - Customizable Launcher / [Telegram](https://t.me/smartlauncher)
   ```
 - **Line 124**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[App Manager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠Universal Installer](https://github.com/pass-with-high-score/universal-installer) or [Package Manager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
+  * ⭐ **[App Manager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [⁠Universal Installer](https://github.com/pass-with-high-score/universal-installer) or [Package Manager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
   ```
 - **Line 125**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Lucky Patcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - App Patcher
+  * ⭐ **[Lucky Patcher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) - App Patcher
   ```
 - **Line 159**: cosmetic text, no functional dependency detected
   ```
@@ -10993,15 +10993,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 160**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
+  * ↪️ **[Social Media Tools](https://www.reddit.com/r/markschron/wiki/social-media/)**
   ```
 - **Line 161**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)**
+  * ↪️ **[YouTube Apps](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_youtube_apps)**
   ```
 - **Line 162**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
+  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_twitch_adblockers)**
   ```
 - **Line 165**: cosmetic text, no functional dependency detected
   ```
@@ -11013,11 +11013,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 209**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
+  * ↪️ **[Device Comparisons](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_electronics)**
   ```
 - **Line 219**: cosmetic text, no functional dependency detected
   ```
-  * [Device Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info / Monitors
+  * [Device Info](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info / Monitors
   ```
 - **Line 259**: cosmetic text, no functional dependency detected
   ```
@@ -11025,11 +11025,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 267**: cosmetic text, no functional dependency detected
   ```
-  * [BatteryGuru](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Battery Monitor / Manager
+  * [BatteryGuru](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Battery Monitor / Manager
   ```
 - **Line 302**: cosmetic text, no functional dependency detected
   ```
-  * [Twilight](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Blue Light Filter
+  * [Twilight](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Blue Light Filter
   ```
 - **Line 315**: cosmetic text, no functional dependency detected
   ```
@@ -11037,59 +11037,59 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 393**: cosmetic text, no functional dependency detected
   ```
-  * [PicsArt](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
+  * [PicsArt](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
   ```
 - **Line 396**: cosmetic text, no functional dependency detected
   ```
-  * [Lightroom](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
+  * [Lightroom](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
   ```
 - **Line 405**: cosmetic text, no functional dependency detected
   ```
-  * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks) (search) or [Superimage](https://superimage.io/) - Image Upscalers
+  * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_untouched_apks) (search) or [Superimage](https://superimage.io/) - Image Upscalers
   ```
 - **Line 419**: cosmetic text, no functional dependency detected
   ```
-  * [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/morphe-piko-obtainium/)
+  * [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/morphe-piko-obtainium/)
   ```
 - **Line 433**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
+  * ↪️ **[Android Calculators](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_calculators)**
   ```
 - **Line 434**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[MacroDroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Subreddit](https://www.reddit.com/r/macrodroid/), [Tasker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Automate](https://llamalab.com/automate/) / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
+  * ⭐ **[MacroDroid](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) / [Subreddit](https://www.reddit.com/r/macrodroid/), [Tasker](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [Automate](https://llamalab.com/automate/) / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
   ```
 - **Line 435**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Unified Remote](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.unifiedremote.com/) or [KDE Connect](https://kdeconnect.kde.org/) - Control PC with App
+  * ⭐ **[Unified Remote](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.unifiedremote.com/) or [KDE Connect](https://kdeconnect.kde.org/) - Control PC with App
   ```
 - **Line 438**: cosmetic text, no functional dependency detected
   ```
-  * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [⁠KwaiCut](https://play.google.com/store/apps/details?id=com.kwai.editor), [open-video-editor](https://github.com/devhyper/open-video-editor), [InShot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
+  * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [⁠KwaiCut](https://play.google.com/store/apps/details?id=com.kwai.editor), [open-video-editor](https://github.com/devhyper/open-video-editor), [InShot](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
   ```
 - **Line 482**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 484**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/en/adguard-android/overview.html) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
+  * ⭐ **[AdGuard Premium](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/en/adguard-android/overview.html) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
   ```
 - **Line 496**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy-Focused Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems)**
+  * ↪️ **[Privacy-Focused Operating Systems](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_operating_systems)**
   ```
 - **Line 497**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
+  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
   ```
 - **Line 498**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Android 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 499**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
+  * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
   ```
 - **Line 508**: cosmetic text, no functional dependency detected
   ```
@@ -11097,15 +11097,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 527**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[Android Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 - **Line 528**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
+  * ↪️ **[QR Code Tools](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
   ```
 - **Line 529**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)**
+  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_hacker_news_tools)**
   ```
 - **Line 530**: cosmetic text, no functional dependency detected
   ```
@@ -11113,7 +11113,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 533**: cosmetic text, no functional dependency detected
   ```
-  * [Wolfram Alpha](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Searchable Knowledge Base
+  * [Wolfram Alpha](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Searchable Knowledge Base
   ```
 - **Line 565**: cosmetic text, no functional dependency detected
   ```
@@ -11121,19 +11121,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 566**: cosmetic text, no functional dependency detected
   ```
-  * [Hermit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
+  * [Hermit](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
   ```
 - **Line 575**: cosmetic text, no functional dependency detected
   ```
-  * [Pluma RSS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - RSS / Atom
+  * [Pluma RSS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - RSS / Atom
   ```
 - **Line 586**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mobile / Desktop Transfer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_transfer)**
+  * ↪️ **[Mobile / Desktop Transfer](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25BA_file_transfer)**
   ```
 - **Line 587**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Go Speed](https://gopeed.com/) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed), [AB Download Manager](https://abdownloadmanager.com/) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager), [ADM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
+  * ⭐ **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager)** / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [Go Speed](https://gopeed.com/) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed), [AB Download Manager](https://abdownloadmanager.com/) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager), [ADM](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
   ```
 - **Line 588**: cosmetic text, no functional dependency detected
   ```
@@ -11141,99 +11141,99 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 598**: cosmetic text, no functional dependency detected
   ```
-  * [File Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - File Manager
+  * [File Viewer](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - File Manager
   ```
 - **Line 621**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
+  * ↪️ **[Android Code Editors](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_android_code_editors)**
   ```
 - **Line 624**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
+  * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
   ```
 - **Line 626**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
+  * ⭐ **[Look Up](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
   ```
 - **Line 636**: cosmetic text, no functional dependency detected
   ```
-  * [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Note-Taking Apps for Handwritten Notes
+  * [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Note-Taking Apps for Handwritten Notes
   ```
 - **Line 639**: cosmetic text, no functional dependency detected
   ```
-  * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
+  * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
   ```
 - **Line 666**: cosmetic text, no functional dependency detected
   ```
-  * [KWGT Widgets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Custom Android Widgets
+  * [KWGT Widgets](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Custom Android Widgets
   ```
 - **Line 675**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Sleep as Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** or [Sleep Cycle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Clock / Alarm
+  * ⭐ **[Sleep as Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** or [Sleep Cycle](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Clock / Alarm
   ```
 - **Line 690**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools) / [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
+  * ↪️ **[Text Editors](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_text_tools) / [To-Do Apps](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_to-do_apps)**
   ```
 - **Line 712**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
+  * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/markschron/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
   ```
 - **Line 717**: cosmetic text, no functional dependency detected
   ```
-  * [LockWatch](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [CrookCatcher](https://www.crookcatcher.app/) - Locate / Recover Stolen Phone
+  * [LockWatch](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [CrookCatcher](https://www.crookcatcher.app/) - Locate / Recover Stolen Phone
   ```
 - **Line 733**: cosmetic text, no functional dependency detected
   ```
-  * [AccuWeather](https://app.accuweather.com/app-download) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [AccuWeather](https://app.accuweather.com/app-download) / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 737**: cosmetic text, no functional dependency detected
   ```
-  * [Meteored](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [Meteored](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 774**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_on_linux)**
+  * ↪️ **[Android on Linux](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_android_on_linux)**
   ```
 - **Line 775**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android on macOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_system_tools)**
+  * ↪️ **[Android on macOS](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_system_tools)**
   ```
 - **Line 799**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
+  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
   ```
 - **Line 803**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+  * ↪️ **[Multi-Platform Torrent Clients](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients)**
   ```
 - **Line 811**: cosmetic text, no functional dependency detected
   ```
-  * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 820**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)**
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)**
   ```
 - **Line 857**: cosmetic text, no functional dependency detected
   ```
-  * [Perfect Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
+  * [Perfect Viewer](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
   ```
 - **Line 865**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
+  * ↪️ **[Song Identification Apps](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_song_identification)**
   ```
 - **Line 870**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
+  * ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
   ```
 - **Line 872**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AudioRelay](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
+  * ⭐ **[AudioRelay](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
   ```
 - **Line 875**: cosmetic text, no functional dependency detected
   ```
-  * [Modded Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠SpotiCap](https://gitlab.com/spotihater/spoticap) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
+  * [Modded Spotify](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [⁠SpotiCap](https://gitlab.com/spotihater/spoticap) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
   ```
 - **Line 892**: cosmetic text, no functional dependency detected
   ```
@@ -11241,51 +11241,51 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 906**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Poweramp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search)
+  * ⭐ **[Poweramp](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search)
   ```
 - **Line 911**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[tempus](https://github.com/eddyizm/tempus)** or [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients / [Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_servers)
+  * ⭐ **[tempus](https://github.com/eddyizm/tempus)** or [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients / [Audio Servers](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_audio_servers)
   ```
 - **Line 939**: cosmetic text, no functional dependency detected
   ```
-  * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+  * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
   ```
 - **Line 971**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Calm](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Relaxation / Sleep App
+  * ⭐ **[Calm](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) - Relaxation / Sleep App
   ```
 - **Line 989**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
+  * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
   ```
 - **Line 990**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
+  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_free_w.2F_ads)**
   ```
 - **Line 992**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+  * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools)
   ```
 - **Line 997**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md)
+  * ⭐ **[HDO Box](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md)
   ```
 - **Line 1001**: cosmetic text, no functional dependency detected
   ```
-  * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
+  * [Movie HD](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
   ```
 - **Line 1002**: cosmetic text, no functional dependency detected
   ```
-  * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
+  * [VivaTV](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
   ```
 - **Line 1003**: cosmetic text, no functional dependency detected
   ```
-  * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
+  * [OnStream](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
   ```
 - **Line 1004**: cosmetic text, no functional dependency detected
   ```
-  * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
+  * [FilmPlus](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
   ```
 - **Line 1010**: cosmetic text, no functional dependency detected
   ```
@@ -11293,19 +11293,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1011**: cosmetic text, no functional dependency detected
   ```
-  * [BeeTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
+  * [BeeTV](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
   ```
 - **Line 1012**: cosmetic text, no functional dependency detected
   ```
-  * [TeaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
+  * [TeaTV](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
   ```
 - **Line 1021**: cosmetic text, no functional dependency detected
   ```
-  * [Great Courses Plus Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
+  * [Great Courses Plus Premium](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
   ```
 - **Line 1034**: cosmetic text, no functional dependency detected
   ```
-  * [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
+  * [MX Player](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
   ```
 - **Line 1054**: cosmetic text, no functional dependency detected
   ```
@@ -11313,43 +11313,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1060**: cosmetic text, no functional dependency detected
   ```
-  * [Perfect IPTV Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - IPTV Player
+  * [Perfect IPTV Player](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - IPTV Player
   ```
 - **Line 1062**: cosmetic text, no functional dependency detected
   ```
-  * [OTT Navigator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks) (search) - IPTV Player
+  * [OTT Navigator](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_untouched_apks) (search) - IPTV Player
   ```
 - **Line 1068**: cosmetic text, no functional dependency detected
   ```
-  * [Live Sports HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
+  * [Live Sports HD](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
   ```
 - **Line 1069**: cosmetic text, no functional dependency detected
   ```
-  * [RBTV77](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
+  * [RBTV77](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
   ```
 - **Line 1080**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+  * ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
   ```
 - **Line 1081**: cosmetic text, no functional dependency detected
   ```
-  * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+  * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
   ```
 - **Line 1095**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[iOS Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[iOS Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 - **Line 1096**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
+  * ↪️ **[Safari Extensions](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_safari_extensions)**
   ```
 - **Line 1097**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)**
+  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_hacker_news_tools)**
   ```
 - **Line 1103**: cosmetic text, no functional dependency detected
   ```
-  * [Mobile Walls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
+  * [Mobile Walls](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
   ```
 - **Line 1199**: cosmetic text, no functional dependency detected
   ```
@@ -11361,15 +11361,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1244**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 1259**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
+  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
   ```
 - **Line 1260**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[iOS 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 1278**: cosmetic text, no functional dependency detected
   ```
@@ -11393,69 +11393,69 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1394**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
+  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_free_w.2F_ads)**
   ```
 - **Line 1398**: cosmetic text, no functional dependency detected
   ```
-  * [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+  * [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools)
   ```
 - **Line 1441**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
   ```
 
 ### `docs/non-english.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 7**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
+  * **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
   ```
 - **Line 22**: cosmetic text, no functional dependency detected
   ```
-  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 24**: cosmetic text, no functional dependency detected
   ```
-  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 25**: cosmetic text, no functional dependency detected
   ```
-  * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 26**: cosmetic text, no functional dependency detected
   ```
-  * [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 36**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[FaselHD](https://web52518x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * ⭐ **[FaselHD](https://web52518x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 37**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 38**: cosmetic text, no functional dependency detected
   ```
-  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 41**: cosmetic text, no functional dependency detected
   ```
-  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 179**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
+  * **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
   ```
 - **Line 183**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
+  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
   ```
 - **Line 230**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) - YouTube and TikTok Alt / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
+  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) - YouTube and TikTok Alt / [Resources / Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25BA_bilibili_tools)
   ```
 - **Line 260**: cosmetic text, no functional dependency detected
   ```
@@ -11463,11 +11463,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 304**: cosmetic text, no functional dependency detected
   ```
-  * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 716**: cosmetic text, no functional dependency detected
   ```
-  * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
+  * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
   ```
 - **Line 841**: cosmetic text, no functional dependency detected
   ```
@@ -11479,7 +11479,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 904**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Anime Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_streaming)** - Anime Streaming Sites
+  * ↪️ **[Anime Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_anime_streaming)** - Anime Streaming Sites
   ```
 - **Line 909**: cosmetic text, no functional dependency detected
   ```
@@ -11487,7 +11487,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1107**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Brazil is known for blocking some piracy sites, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
+  * **Note** - Brazil is known for blocking some piracy sites, try using a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
   ```
 - **Line 1240**: cosmetic text, no functional dependency detected
   ```
@@ -11495,15 +11495,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1276**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
+  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
   ```
 - **Line 1292**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires VPN / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires VPN / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 1497**: cosmetic text, no functional dependency detected
   ```
-  * [⁠Roms en Español](https://romsenespanol.com/) - ROMs / Use [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
+  * [⁠Roms en Español](https://romsenespanol.com/) - ROMs / Use [Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_redirect_bypass)
   ```
 - **Line 1542**: cosmetic text, no functional dependency detected
   ```
@@ -11511,11 +11511,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1734**: cosmetic text, no functional dependency detected
   ```
-  * [Kinostrain](http://kinostrain.com/) - Movies / TV / Anime / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Telegram](https://t.me/uaserialchannel)
+  * [Kinostrain](http://kinostrain.com/) - Movies / TV / Anime / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Telegram](https://t.me/uaserialchannel)
   ```
 - **Line 1737**: cosmetic text, no functional dependency detected
   ```
-  * [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+  * [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
   ```
 - **Line 1789**: cosmetic text, no functional dependency detected
   ```
@@ -11523,11 +11523,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1825**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
+  * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_drama_streaming)**
   ```
 - **Line 1836**: cosmetic text, no functional dependency detected
   ```
-  * [JockanTV](https://jockantv.eu/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [JockanTV](https://jockantv.eu/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 1869**: cosmetic text, no functional dependency detected
   ```
@@ -11615,11 +11615,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 36**: cosmetic text, no functional dependency detected
   ```
-  * **[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  * **[Reddit Backup](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 37**: cosmetic text, no functional dependency detected
   ```
-  *  Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
+  *  Add `/r/markschron/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
   ```
 - **Line 39**: cosmetic text, no functional dependency detected
   ```
@@ -11709,7 +11709,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 24**: cosmetic text, no functional dependency detected
   ```
-  [🤖 Artificial Intelligence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai)
+  [🤖 Artificial Intelligence](https://www.reddit.com/r/markschron/wiki/ai)
   ```
 
 ### `docs/posts/april-2024.md`
@@ -11769,7 +11769,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 57**: cosmetic text, no functional dependency detected
   ```
-  - Decided to bring back our [Saidit backup](https://saidit.net/s/freemediaheckyeah/wiki/index). Saidit has always supported us; their owner actually posted FMHY themselves on the main Saidit wiki. It's always good to have places like this that we know we can trust.
+  - Decided to bring back our [Saidit backup](https://saidit.net/s/markschron/wiki/index). Saidit has always supported us; their owner actually posted FMHY themselves on the main Saidit wiki. It's always good to have places like this that we know we can trust.
   ```
 
 ### `docs/posts/changelog-sites.md`
@@ -12055,91 +12055,91 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 28**: cosmetic text, no functional dependency detected
   ```
-  [Hosting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_hosting_tools),
+  [Hosting](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_hosting_tools),
   ```
 - **Line 29**: cosmetic text, no functional dependency detected
   ```
-  [Cybersecurity](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_cybersecurity_tools),
+  [Cybersecurity](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_cybersecurity_tools),
   ```
 - **Line 31**: cosmetic text, no functional dependency detected
   ```
-  [Database](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_database_tools)
+  [Database](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_database_tools)
   ```
 - **Line 35**: cosmetic text, no functional dependency detected
   ```
-  [Privacy Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_frontends)
+  [Privacy Frontends](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_frontends)
   ```
 - **Line 39**: cosmetic text, no functional dependency detected
   ```
-  [Fediverse Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_fediverse_tools)
+  [Fediverse Tools](https://www.reddit.com/r/markschron/wiki/tools-misc#wiki_.25B7_fediverse_tools)
   ```
 - **Line 43**: cosmetic text, no functional dependency detected
   ```
-  [Git](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_git_tools)
+  [Git](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_git_tools)
   ```
 - **Line 45**: cosmetic text, no functional dependency detected
   ```
-  [GitHub](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_github_tools).
+  [GitHub](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_github_tools).
   ```
 - **Line 48**: cosmetic text, no functional dependency detected
   ```
-  [storage sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage)
+  [storage sections](https://www.reddit.com/r/markschron/wiki/storage)
   ```
 - **Line 56**: cosmetic text, no functional dependency detected
   ```
-  [cinehub.wtf](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_streaming_sites)
+  [cinehub.wtf](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_streaming_sites)
   ```
 - **Line 60**: cosmetic text, no functional dependency detected
   ```
-  [UpMovies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_single_server)
+  [UpMovies](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_single_server)
   ```
 - **Line 66**: cosmetic text, no functional dependency detected
   ```
-  [FSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_tv_.2F_sports)
+  [FSL](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_live_tv_.2F_sports)
   ```
 - **Line 70**: cosmetic text, no functional dependency detected
   ```
-  [Squidify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_streaming_sites)
+  [Squidify](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_streaming_sites)
   ```
 - **Line 74**: cosmetic text, no functional dependency detected
   ```
-  [Backloggd](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery)
+  [Backloggd](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_tracking_.2F_discovery)
   ```
 - **Line 78**: cosmetic text, no functional dependency detected
   ```
-  [Fooocus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_local_frontends)
+  [Fooocus](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_local_frontends)
   ```
 - **Line 82**: cosmetic text, no functional dependency detected
   ```
-  [GrapheneOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy)
+  [GrapheneOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_privacy)
   ```
 - **Line 87**: cosmetic text, no functional dependency detected
   ```
-  [Briar](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)
+  [Briar](https://www.reddit.com/r/markschron/wiki/storage#wiki_encrypted_android_messengers)
   ```
 - **Line 92**: cosmetic text, no functional dependency detected
   ```
-  [XDA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools)
+  [XDA](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_tools)
   ```
 - **Line 96**: cosmetic text, no functional dependency detected
   ```
-  [hektCaptcha](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_multi_browser)
+  [hektCaptcha](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_multi_browser)
   ```
 - **Line 100**: cosmetic text, no functional dependency detected
   ```
-  [SDelete](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)
+  [SDelete](https://www.reddit.com/r/markschron/wiki/storage#wiki_drive_formatting_.2F_file_deletion)
   ```
 - **Line 104**: cosmetic text, no functional dependency detected
   ```
-  [Cloudflare Speed Test](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test)
+  [Cloudflare Speed Test](https://www.reddit.com/r/markschron/wiki/storage#wiki_internet_speed_test)
   ```
 - **Line 108**: cosmetic text, no functional dependency detected
   ```
-  [Privacy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides).
+  [Privacy Guides](https://www.reddit.com/r/markschron/wiki/storage#wiki_privacy_guides).
   ```
 - **Line 112**: cosmetic text, no functional dependency detected
   ```
-  [Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines).
+  [Game Engines](https://www.reddit.com/r/markschron/wiki/storage#wiki_game_engines).
   ```
 
 ### `docs/posts/nov-2024.md`
@@ -12261,23 +12261,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/privacy.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 13**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
+  * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25BA_spotify_tools)**
   ```
 - **Line 14**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
+  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_twitch_adblockers)**
   ```
 - **Line 15**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass URL Redirects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)**
+  * ↪️ **[Bypass URL Redirects](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)**
   ```
 - **Line 16**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 17**: cosmetic text, no functional dependency detected
   ```
@@ -12293,7 +12293,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 51**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
+  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/markschron/wiki/storage#wiki_free_dns_resolvers)**
   ```
 - **Line 76**: cosmetic text, no functional dependency detected
   ```
@@ -12301,23 +12301,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 88**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
+  ## ▷ [Linux Adblocking](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
   ```
 - **Line 92**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_adblock_.2F_privacy)
+  ## ▷ [Mac Adblocking](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_adblock_.2F_privacy)
   ```
 - **Line 96**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Android Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_adblocking)
+  ## ▷ [Android Adblocking](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_adblocking)
   ```
 - **Line 100**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)
+  ## ▷ [iOS Adblocking](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_adblocking)
   ```
 - **Line 109**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
+  * ↪️ **[Virtual Machines](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_virtual_machines)**
   ```
 - **Line 110**: cosmetic text, no functional dependency detected
   ```
@@ -12337,51 +12337,51 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 159**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
+  * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/markschron/wiki/storage#wiki_sms_verification_sites)**
   ```
 - **Line 160**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
+  * ↪️ **[File Encryption](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_file_encryption)**
   ```
 - **Line 161**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
+  * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
   ```
 - **Line 162**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Photo Forensics / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
+  * ↪️ **[Photo Forensics / Metadata](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
   ```
 - **Line 163**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy-Focused Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems)**
+  * ↪️ **[Privacy-Focused Android Operating Systems](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_operating_systems)**
   ```
 - **Line 227**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
+  ## ▷ [Linux Privacy](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
   ```
 - **Line 231**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
+  ## ▷ [Mac Privacy](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
   ```
 - **Line 235**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Android Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy)
+  ## ▷ [Android Privacy](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_privacy)
   ```
 - **Line 239**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_privacy)
+  ## ▷ [iOS Privacy](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_privacy)
   ```
 - **Line 246**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
+  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
   ```
 - **Line 261**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
+  * ↪️ **[Browser Comparisons](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25BA_browser_tools)**
   ```
 - **Line 262**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
+  * ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_browsers)**
   ```
 - **Line 265**: cosmetic text, no functional dependency detected
   ```
@@ -12393,19 +12393,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 278**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
+  * ↪️ **[Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_password_managers)**
   ```
 - **Line 335**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
+  * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
   ```
 - **Line 336**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
+  * ↪️ **[Email Aliasing](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
   ```
 - **Line 377**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SearX Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
+  * ↪️ **[SearX Instances](https://www.reddit.com/r/markschron/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
   ```
 - **Line 399**: cosmetic text, no functional dependency detected
   ```
@@ -12417,19 +12417,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 408**: cosmetic text, no functional dependency detected
   ```
-  * [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
+  * [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_temp_mail)
   ```
 - **Line 439**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
+  * ↪️ **[Free VPN Configs](https://www.reddit.com/r/markschron/wiki/storage#wiki_free_vpn_configs)**
   ```
 - **Line 500**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_great_firewall)**
+  * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/markschron/wiki/non-eng#wiki_.25B7_great_firewall)**
   ```
 - **Line 521**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
+  * ↪️ **[Proxy Lists](https://www.reddit.com/r/markschron/wiki/storage#wiki_proxy_lists)**
   ```
 - **Line 530**: cosmetic text, no functional dependency detected
   ```
@@ -12439,7 +12439,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/public/manifest.json`
 - **Line 2**: cosmetic text, no functional dependency detected
   ```
-  "name": "FMHY - freemediaheckyeah",
+  "name": "FMHY - markschron",
   ```
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
@@ -12453,7 +12453,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/reading.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 12**: cosmetic text, no functional dependency detected
   ```
@@ -12461,11 +12461,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 15**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
+  * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/markschron/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
   ```
 - **Line 17**: cosmetic text, no functional dependency detected
   ```
-  * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+  * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_internet_archive_tools)
   ```
 - **Line 18**: cosmetic text, no functional dependency detected
   ```
@@ -12473,11 +12473,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 30**: cosmetic text, no functional dependency detected
   ```
-  * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
+  * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_calibre_libraries)
   ```
 - **Line 31**: cosmetic text, no functional dependency detected
   ```
-  * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 35**: cosmetic text, no functional dependency detected
   ```
@@ -12489,15 +12489,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 101**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
   ```
 - **Line 107**: cosmetic text, no functional dependency detected
   ```
-  * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+  * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
   ```
 - **Line 196**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
+  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/markschron/wiki/storage#wiki_survival)**
   ```
 - **Line 234**: cosmetic text, no functional dependency detected
   ```
@@ -12505,11 +12505,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 306**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 307**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
+  * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_news)**
   ```
 - **Line 308**: cosmetic text, no functional dependency detected
   ```
@@ -12529,27 +12529,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 345**: cosmetic text, no functional dependency detected
   ```
-  * [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 375**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+  * ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_text_to_speech)**
   ```
 - **Line 384**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Visual Novel Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_visual_novel_tools)**
+  * ↪️ **[Visual Novel Resources](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_visual_novel_tools)**
   ```
 - **Line 429**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
+  * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/markschron/wiki/storage#wiki_manga_readers)**
   ```
 - **Line 430**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
+  * ↪️ **[Manga Downloaders](https://www.reddit.com/r/markschron/wiki/storage#wiki_manga_downloaders)**
   ```
 - **Line 432**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 452**: cosmetic text, no functional dependency detected
   ```
@@ -12557,7 +12557,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 457**: cosmetic text, no functional dependency detected
   ```
-  * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 464**: cosmetic text, no functional dependency detected
   ```
@@ -12569,61 +12569,61 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 513**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_language_learning)**
+  * ↪️ **[Language Learning Resources](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_language_learning)**
   ```
 - **Line 514**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dictionaries / Thesaurus'](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dictionaries_.2F_thesaurus)**
+  * ↪️ **[Dictionaries / Thesaurus'](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_dictionaries_.2F_thesaurus)**
   ```
 - **Line 515**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encyclopedias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_encyclopedias)**
+  * ↪️ **[Encyclopedias](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_encyclopedias)**
   ```
 - **Line 566**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[JEE / NEET Textbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_jee_.2F_neet)**
+  * ↪️ **[JEE / NEET Textbooks](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_jee_.2F_neet)**
   ```
 - **Line 679**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Study / Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
+  * ↪️ **[Study / Research Tools](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_study_.2F_research)**
   ```
 - **Line 680**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_specialized_chatbots)**
   ```
 - **Line 780**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 948**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
+  * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_myanimelist_tools)
   ```
 - **Line 1017**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
+  * ↪️ **[Summary Generators](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_text_rephrasing)**
   ```
 - **Line 1018**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
+  * ↪️ **[PDF File Tools](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_pdf_tools)**
   ```
 
 ### `docs/social-media-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 10**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)**
+  * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_chat_.2F_forums)**
   ```
 - **Line 11**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
   ```
 - **Line 38**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
+  * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_chat_tools)**
   ```
 - **Line 42**: cosmetic text, no functional dependency detected
   ```
@@ -12635,15 +12635,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 206**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
+  * ↪️ **[Lemmy Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_lemmy_tools)**
   ```
 - **Line 232**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
+  * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/markschron/wiki/storage#wiki_multireddits)**
   ```
 - **Line 307**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Ad + Sponsorblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)**
+  * ↪️ **[YouTube Ad + Sponsorblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)**
   ```
 - **Line 337**: cosmetic text, no functional dependency detected
   ```
@@ -12651,19 +12651,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 357**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
   ```
 - **Line 378**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
+  * ↪️ **[Video Adblockers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
   ```
 - **Line 379**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitle_tools)**
+  * ↪️ **[Video Transcribers](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25BA_subtitle_tools)**
   ```
 - **Line 413**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+  * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)**
   ```
 - **Line 480**: cosmetic text, no functional dependency detected
   ```
@@ -12671,13 +12671,13 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 698**: cosmetic text, no functional dependency detected
   ```
-  * [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Networks
+  * [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Networks
   ```
 
 ### `docs/storage.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 52**: cosmetic text, no functional dependency detected
   ```
@@ -12685,17 +12685,17 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 249**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)**
+  * ↪️ **[Android Readers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_reading)**
   ```
 
 ### `docs/system-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 15**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)**
+  * ↪️ **[Gaming Optimization](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_optimization_tools)**
   ```
 - **Line 44**: cosmetic text, no functional dependency detected
   ```
@@ -12723,7 +12723,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 180**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_emulators_on_android)**
+  * ↪️ **[Emulators on Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_emulators_on_android)**
   ```
 - **Line 181**: cosmetic text, no functional dependency detected
   ```
@@ -12731,7 +12731,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 220**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
+  * ↪️ **[PC Building / Shopping](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_electronics)**
   ```
 - **Line 228**: cosmetic text, no functional dependency detected
   ```
@@ -12739,7 +12739,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 271**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
+  * ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
   ```
 - **Line 275**: cosmetic text, no functional dependency detected
   ```
@@ -12759,37 +12759,37 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 501**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/) (search) - Wallpaper / Live Wallpaper Manager
+  * ⭐ **[Wallpaper Engine](https://www.reddit.com/r/markschron/wiki/games/#wiki_.25BA_download_games)** / [2](https://www.reddit.com/r/markschron/wiki/torrent/) (search) - Wallpaper / Live Wallpaper Manager
   ```
 
 ### `docs/text-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 9**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_to_text_.2F_ocr)**
+  * ↪️ **[Image to Text](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_image_to_text_.2F_ocr)**
   ```
 - **Line 10**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+  * ↪️ **[Text to Speech](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_text_to_speech)**
   ```
 - **Line 11**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Presentation / Slideshare](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+  * ↪️ **[Presentation / Slideshare](https://www.reddit.com/r/markschron/wiki/storage#wiki_presentation_tools)**
   ```
 - **Line 12**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
+  * ↪️ **[Study / Research](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_study_.2F_research)**
   ```
 - **Line 13**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization](https://www.reddit.com/r/markschron/wiki/storage#wiki_data_visualization_tools)**
   ```
 - **Line 69**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) sometimes translate better than traditional translators, especially when it comes to languages with inherently different structures.
+  * **Note** - [AI Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_online_chatbots) sometimes translate better than traditional translators, especially when it comes to languages with inherently different structures.
   ```
 - **Line 118**: cosmetic text, no functional dependency detected
   ```
@@ -12801,15 +12801,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 204**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
+  * ↪️ **[Android Text Editor](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_text_tools)**
   ```
 - **Line 205**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
+  * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
   ```
 - **Line 221**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools)**
+  * ↪️ **[Android Note-Taking](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_text_tools)**
   ```
 - **Line 229**: cosmetic text, no functional dependency detected
   ```
@@ -12817,41 +12817,41 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 263**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
+  * ↪️ **[Office Activation](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
   ```
 - **Line 372**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+  * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
   ```
 - **Line 403**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps)**
+  * ↪️ **[Android To-Do Apps](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_to-do_apps)**
   ```
 - **Line 404**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Calendars / Events](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_calendars_.2F_events)**
+  * ↪️ **[Calendars / Events](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_calendars_.2F_events)**
   ```
 - **Line 406**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search)
+  * ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2) (search)
   ```
 - **Line 442**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[HTML Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_html)**
+  * ↪️ **[HTML Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_html)**
   ```
 
 ### `docs/torrenting.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 7**: cosmetic text, no functional dependency detected
   ```
-  * **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
+  * **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/markschron/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/markschron/wiki/games/#wiki_.25BA_download_games).
   ```
 - **Line 14**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
+  * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
   ```
 - **Line 15**: cosmetic text, no functional dependency detected
   ```
@@ -12867,51 +12867,51 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 21**: cosmetic text, no functional dependency detected
   ```
-  * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 23**: cosmetic text, no functional dependency detected
   ```
-  * [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 53**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_sites)
+  ## ▷ [Video Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_sites)
   ```
 - **Line 57**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_torrenting)
+  ## ▷ [Anime Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_anime_torrenting)
   ```
 - **Line 61**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_downloading)
+  ## ▷ [Educational Sites](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_downloading)
   ```
 - **Line 65**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+  ## ▷ [Game Sites](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)
   ```
 - **Line 69**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting)
+  ## ▷ [Audio Sites](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25BA_audio_torrenting)
   ```
 - **Line 75**: cosmetic text, no functional dependency detected
   ```
-  * **Warning** - Remember to [bind](https://wispydocs.pages.dev/torrenting/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+  * **Warning** - Remember to [bind](https://wispydocs.pages.dev/torrenting/) your [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
   ```
 - **Line 79**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
+  * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
   ```
 - **Line 120**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Debrid / Leeches](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
+  * ↪️ **[Debrid / Leeches](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
   ```
 - **Line 131**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
+  ## ▷ [Android Clients](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_torrenting)
   ```
 - **Line 135**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
+  ## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_apps)
   ```
 
 ### `docs/unsafe.md`
@@ -12925,7 +12925,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 71**: cosmetic text, no functional dependency detected
   ```
-  * uTorrent - Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
+  * uTorrent - Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients) clients
   ```
 - **Line 92**: cosmetic text, no functional dependency detected
   ```
@@ -12935,19 +12935,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/video-tools.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 10**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools)**
+  * ↪️ **[YouTube Tools / Resources](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_youtube_tools)**
   ```
 - **Line 11**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
+  * ↪️ **[AI Video Generators](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_video_generation)**
   ```
 - **Line 45**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
+  * ↪️ **[Streaming Hosts](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
   ```
 - **Line 76**: cosmetic text, no functional dependency detected
   ```
@@ -12955,23 +12955,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 79**: cosmetic text, no functional dependency detected
   ```
-  * [FFmpeg](https://ffmpeg.org/) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
+  * [FFmpeg](https://ffmpeg.org/) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
   ```
 - **Line 96**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
+  * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
   ```
 - **Line 188**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Subtitle Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitle_tools)
+  ## ▷ [Subtitle Tools](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_subtitle_tools)
   ```
 - **Line 192**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)
+  ## ▷ [Linux Video Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_video)
   ```
 - **Line 196**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
+  ## ▷ [Mac Video Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_video)
   ```
 - **Line 206**: cosmetic text, no functional dependency detected
   ```
@@ -12979,19 +12979,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 289**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
+  * ↪️ **[Torrent Automation](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_apps)**
   ```
 - **Line 290**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_jellyfin_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
+  * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_jellyfin_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
   ```
 - **Line 291**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_kodi_tools)
+  * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_kodi_tools)
   ```
 - **Line 311**: cosmetic text, no functional dependency detected
   ```
-  * [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
+  * [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/) - Media Server / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_plex_tools)
   ```
 - **Line 330**: cosmetic text, no functional dependency detected
   ```
@@ -12999,15 +12999,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 374**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
+  * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_downloaders)**
   ```
 - **Line 375**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
+  * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_twitch_downloaders)**
   ```
 - **Line 376**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
+  * ↪️ **[Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_download_managers)**
   ```
 - **Line 380**: cosmetic text, no functional dependency detected
   ```
@@ -13019,7 +13019,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 415**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)
+  * ↪️ **[Editing Software](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites)
   ```
 - **Line 421**: cosmetic text, no functional dependency detected
   ```
@@ -13031,7 +13031,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 486**: cosmetic text, no functional dependency detected
   ```
-  * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
+  * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
   ```
 - **Line 492**: cosmetic text, no functional dependency detected
   ```
@@ -13041,19 +13041,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
 ### `docs/video.md`
 - **Line 3**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 16**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
+  * ⭐ **[P-Stream Forks](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
   ```
 - **Line 77**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Sites that fork the original P-Stream / movie-web projects. You can add **extra sources** to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
+  * **Note** - Sites that fork the original P-Stream / movie-web projects. You can add **extra sources** to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
   ```
 - **Line 112**: cosmetic text, no functional dependency detected
   ```
-  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
+  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail)
   ```
 - **Line 138**: cosmetic text, no functional dependency detected
   ```
@@ -13069,23 +13069,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 244**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
+  * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Resources / Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_youtube_tools) / [Download Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_downloaders)
   ```
 - **Line 246**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
+  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25BA_bilibili_tools)
   ```
 - **Line 250**: cosmetic text, no functional dependency detected
   ```
-  * [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
+  * [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_peertube_tools)
   ```
 - **Line 264**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)**
+  * ↪️ **[Documentary Sites](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_documentaries)**
   ```
 - **Line 265**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Courses / Lectures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)**
+  * ↪️ **[Courses / Lectures](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_streaming)**
   ```
 - **Line 282**: cosmetic text, no functional dependency detected
   ```
@@ -13097,23 +13097,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 474**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
   ```
 - **Line 533**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
   ```
 - **Line 537**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_sports)**
+  * ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_sports)**
   ```
 - **Line 618**: cosmetic text, no functional dependency detected
   ```
-  * [RuTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * [RuTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 625**: cosmetic text, no functional dependency detected
   ```
-  * [⁠XWD](https://xtreme-wrestling-downloads.com/) - Wrestling / Boxing Replays / Signup Required / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [⁠XWD](https://xtreme-wrestling-downloads.com/) - Wrestling / Boxing Replays / Signup Required / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 642**: cosmetic text, no functional dependency detected
   ```
@@ -13121,31 +13121,31 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 659**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
+  * ↪️ **[Android IPTV Players](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_live_tv)**
   ```
 - **Line 672**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
+  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_free_w.2F_ads)**
   ```
 - **Line 677**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Nuvio](https://github.com/NuvioMedia/NuvioWeb#install)** / [Stremio Sync](https://nuviosync.com/) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H), **[Stremio](https://www.stremio.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools), [WuPlay](https://github.com/wuplayapp/wuplay-releases) or [⁠RealStream](https://rstream.app/) / [Discord](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
+  * ⭐ **[Nuvio](https://github.com/NuvioMedia/NuvioWeb#install)** / [Stremio Sync](https://nuviosync.com/) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H), **[Stremio](https://www.stremio.com/)** / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools), [WuPlay](https://github.com/wuplayapp/wuplay-releases) or [⁠RealStream](https://rstream.app/) / [Discord](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
   ```
 - **Line 707**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)** / **[Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks)**
+  * ↪️ **[Android Streaming](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_streaming)** / **[Apps](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_untouched_apks)**
   ```
 - **Line 709**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[TiviMate](https://tivimate.com/)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [⁠OwnTV](https://github.com/ahXN00/OwnTV/) - IPTV Players
+  * ⭐ **[TiviMate](https://tivimate.com/)**, [2](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [⁠OwnTV](https://github.com/ahXN00/OwnTV/) - IPTV Players
   ```
 - **Line 717**: cosmetic text, no functional dependency detected
   ```
-  * [StreamFire](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Live TV for Firestick
+  * [StreamFire](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Live TV for Firestick
   ```
 - **Line 721**: cosmetic text, no functional dependency detected
   ```
-  * [CloudStream](https://github.com/recloudstream/cloudstream) - Streaming App / [Docs / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
+  * [CloudStream](https://github.com/recloudstream/cloudstream) - Streaming App / [Docs / Resources](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_streaming)
   ```
 - **Line 727**: cosmetic text, no functional dependency detected
   ```
@@ -13153,35 +13153,35 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 731**: cosmetic text, no functional dependency detected
   ```
-  * [atvTools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
+  * [atvTools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
   ```
 - **Line 732**: cosmetic text, no functional dependency detected
   ```
-  * [tvQuickActions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Requires Sign-Up
+  * [tvQuickActions](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Requires Sign-Up
   ```
 - **Line 733**: cosmetic text, no functional dependency detected
   ```
-  * [Projectivy Launcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [2](https://play.google.com/store/apps/details?id=com.spocky.projengmenu), [3](https://github.com/spocky/miproja1) / [XDA Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [Icon Pack](https://github.com/SicMundus86/ProjectivyIconPack), [AT4K Launcher](https://at4klauncher.com/) / [Subreddit](https://www.reddit.com/r/AT4K/) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
+  * [Projectivy Launcher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [2](https://play.google.com/store/apps/details?id=com.spocky.projengmenu), [3](https://github.com/spocky/miproja1) / [XDA Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [Icon Pack](https://github.com/SicMundus86/ProjectivyIconPack), [AT4K Launcher](https://at4klauncher.com/) / [Subreddit](https://www.reddit.com/r/AT4K/) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
   ```
 - **Line 739**: cosmetic text, no functional dependency detected
   ```
-  # ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
+  # ► [Android Streaming](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_streaming)
   ```
 - **Line 743**: cosmetic text, no functional dependency detected
   ```
-  # ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)
+  # ► [iOS Streaming](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_streaming)
   ```
 - **Line 749**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
   ```
 - **Line 753**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
+  * ↪️ **[General DDL Sites](https://www.reddit.com/r/markschron/wiki/download)**
   ```
 - **Line 754**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+  * ↪️ **[Video Download Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)**
   ```
 - **Line 755**: cosmetic text, no functional dependency detected
   ```
@@ -13193,7 +13193,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 760**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Scloud](https://rentry.co/FMHYB64#sc)** - Movies / TV / 4K / Use Adblocker + [Linkbypasser](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/scloudmediahub)
+  * ⭐ **[Scloud](https://rentry.co/FMHYB64#sc)** - Movies / TV / 4K / Use Adblocker + [Linkbypasser](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/scloudmediahub)
   ```
 - **Line 763**: cosmetic text, no functional dependency detected
   ```
@@ -13201,7 +13201,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 770**: cosmetic text, no functional dependency detected
   ```
-  * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 771**: cosmetic text, no functional dependency detected
   ```
@@ -13213,7 +13213,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 777**: cosmetic text, no functional dependency detected
   ```
-  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
+  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail)
   ```
 - **Line 783**: cosmetic text, no functional dependency detected
   ```
@@ -13225,55 +13225,55 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 786**: cosmetic text, no functional dependency detected
   ```
-  * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
+  * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
   ```
 - **Line 831**: cosmetic text, no functional dependency detected
   ```
-  * [HDEncode](https://hdencode.org/) / [Improvement Script](https://github.com/mikeymuis/hdencode-filter-suite), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
+  * [HDEncode](https://hdencode.org/) / [Improvement Script](https://github.com/mikeymuis/hdencode-filter-suite), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires [Debrid](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_debrid_.2F_leeches)
   ```
 - **Line 848**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
   ```
 - **Line 877**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
+  ## ▷ [Educational Downloading](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_downloading)
   ```
 - **Line 883**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Remember to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind](https://wispydocs.pages.dev/torrenting/) it to your [client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) if it allows.
+  * **Note** - Remember to use a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind](https://wispydocs.pages.dev/torrenting/) it to your [client](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients) if it allows.
   ```
 - **Line 888**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent Remotely Without Needing VPN
+  * ↪️ **[Remote Torrenting Services](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent Remotely Without Needing VPN
   ```
 - **Line 889**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_media_servers)**
   ```
 - **Line 890**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Stremio](https://www.stremio.com/)** / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio), [⁠Stremio Desktop](https://github.com/Zaarrg/stremio-community-v5) (full mpv) or [Stremio Kai](https://allecsc.github.io/Stremio-Kai/) / [GitHub](https://github.com/allecsc/Stremio-Kai) (full mpv) - Torrent Streaming App / [WebUI](https://web.stremio.com/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+  * ⭐ **[Stremio](https://www.stremio.com/)** / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio), [⁠Stremio Desktop](https://github.com/Zaarrg/stremio-community-v5) (full mpv) or [Stremio Kai](https://allecsc.github.io/Stremio-Kai/) / [GitHub](https://github.com/allecsc/Stremio-Kai) (full mpv) - Torrent Streaming App / [WebUI](https://web.stremio.com/) / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools)
   ```
 - **Line 901**: cosmetic text, no functional dependency detected
   ```
-  * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
+  * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
   ```
 - **Line 933**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Keep in mind that [torrent aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators), or setups like Nuvio/Stremio & Torrentio, are sometimes better when it comes to finding content.
+  * **Note** - Keep in mind that [torrent aggregators](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25B7_aggregators), or setups like Nuvio/Stremio & Torrentio, are sometimes better when it comes to finding content.
   ```
 - **Line 937**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
+  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/markschron/wiki/torrent)**
   ```
 - **Line 938**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 939**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 954**: cosmetic text, no functional dependency detected
   ```
@@ -13289,23 +13289,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 979**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
+  ## ▷ [Educational Torrenting](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_downloading)
   ```
 - **Line 986**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_letterboxd_tools)
+  * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_letterboxd_tools)
   ```
 - **Line 996**: cosmetic text, no functional dependency detected
   ```
-  * [Trakt](https://trakt.tv/) - TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)
+  * [Trakt](https://trakt.tv/) - TV / Anime / Movies / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_trakt_tools)
   ```
 - **Line 1019**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[MAL](https://myanimelist.net/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools) / [Discord](https://discord.com/invite/myanimelist)
+  * ⭐ **[MAL](https://myanimelist.net/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_myanimelist_tools) / [Discord](https://discord.com/invite/myanimelist)
   ```
 - **Line 1020**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AniList](https://anilist.co/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
+  * ⭐ **[AniList](https://anilist.co/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
   ```
 - **Line 1130**: cosmetic text, no functional dependency detected
   ```
@@ -13313,15 +13313,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1140**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
+  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
   ```
 - **Line 1141**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
+  * ↪️ **[Media Soundtracks](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25BA_media_soundtracks)**
   ```
 - **Line 1142**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
+  * ↪️ **[File Data Automation](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_data_automation)**
   ```
 - **Line 1148**: cosmetic text, no functional dependency detected
   ```
@@ -13329,7 +13329,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 1181**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Video Players / Servers / Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)
+  ## ▷ [Video Players / Servers / Sync](https://www.reddit.com/r/markschron/wiki/video-tools)
   ```
 
 ### `rebrand.py`
@@ -13371,11 +13371,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 76**: cosmetic text, no functional dependency detected
   ```
-  # "freemediaheckyeah" is the full expansion of the FMHY acronym. It is only
+  # "markschron" is the full expansion of the FMHY acronym. It is only
   ```
 - **Line 79**: cosmetic text, no functional dependency detected
   ```
-  FULL_NAME_OLD = "freemediaheckyeah"
+  FULL_NAME_OLD = "markschron"
   ```
 - **Line 140**: cosmetic text, no functional dependency detected
   ```
@@ -13423,7 +13423,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 262**: cosmetic text, no functional dependency detected
   ```
-  r"fmhy|freemediaheckyeah",
+  r"fmhy|markschron",
   ```
 - **Line 415**: cosmetic text, no functional dependency detected
   ```
@@ -13435,7 +13435,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 521**: cosmetic text, no functional dependency detected
   ```
-  print("No occurrences of 'fmhy' or 'freemediaheckyeah' found. Nothing to do.")
+  print("No occurrences of 'fmhy' or 'markschron' found. Nothing to do.")
   ```
 
 ### `rebrand_report.md`
@@ -13557,7 +13557,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3134**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 3138**: cosmetic text, no functional dependency detected
   ```
@@ -13569,7 +13569,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3146**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)
+  ## ▷ [Grammar Check](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_grammar_check)
   ```
 - **Line 3150**: cosmetic text, no functional dependency detected
   ```
@@ -13589,7 +13589,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3166**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_upscale_.2F_restore)
+  ## ▷ [Image Restoration](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_upscale_.2F_restore)
   ```
 - **Line 3170**: cosmetic text, no functional dependency detected
   ```
@@ -13621,31 +13621,31 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3198**: cosmetic text, no functional dependency detected
   ```
-  # ► [AI Coding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_ai_tools)
+  # ► [AI Coding Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_ai_tools)
   ```
 - **Line 3202**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)**
+  * ↪️ **[AI API Tools](https://www.reddit.com/r/markschron/wiki/dev-tools/#wiki_.25B7_api_tools)**
   ```
 - **Line 3208**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 3212**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
+  * ↪️ **[Spotify Clients](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25BA_spotify_tools)**
   ```
 - **Line 3216**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
+  * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_youtube_music_tools)**
   ```
 - **Line 3220**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
+  * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_youtube_music)**
   ```
 - **Line 3224**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
+  * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_youtube_music_tools)
   ```
 - **Line 3228**: cosmetic text, no functional dependency detected
   ```
@@ -13653,7 +13653,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3232**: cosmetic text, no functional dependency detected
   ```
-  * [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 3236**: cosmetic text, no functional dependency detected
   ```
@@ -13669,19 +13669,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3248**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
   ```
 - **Line 3252**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
   ```
 - **Line 3256**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
   ```
 - **Line 3260**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
   ```
 - **Line 3264**: cosmetic text, no functional dependency detected
   ```
@@ -13689,7 +13689,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3268**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** / **[YouTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
+  * ↪️ **[Video Audio Downloaders](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)** / **[YouTube](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_downloaders)**
   ```
 - **Line 3272**: cosmetic text, no functional dependency detected
   ```
@@ -13697,11 +13697,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3276**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
   ```
 - **Line 3280**: cosmetic text, no functional dependency detected
   ```
-  * [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 3284**: cosmetic text, no functional dependency detected
   ```
@@ -13721,11 +13721,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3300**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
+  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
   ```
 - **Line 3304**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
+  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/markschron/wiki/torrent)**
   ```
 - **Line 3308**: cosmetic text, no functional dependency detected
   ```
@@ -13737,7 +13737,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3316**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
+  * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
   ```
 - **Line 3320**: cosmetic text, no functional dependency detected
   ```
@@ -13745,19 +13745,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3324**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[System Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_system_audio)**
+  * ↪️ **[System Audio Tools](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_system_audio)**
   ```
 - **Line 3328**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
+  * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
   ```
 - **Line 3332**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+  * ↪️ **[Text to Speech](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_text_to_speech)**
   ```
 - **Line 3336**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_audio_players)**
+  * ↪️ **[Android Audio Players](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_audio_players)**
   ```
 - **Line 3340**: cosmetic text, no functional dependency detected
   ```
@@ -13765,7 +13765,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3344**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 3348**: cosmetic text, no functional dependency detected
   ```
@@ -13773,31 +13773,31 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3352**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Shazam](https://www.shazam.com/)** / macOS, Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
+  * ⭐ **[Shazam](https://www.shazam.com/)** / macOS, Android, iOS, Web / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
   ```
 - **Line 3356**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
+  * ↪️ **[Music Sheet Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_music_sheet_collections)**
   ```
 - **Line 3360**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_audio)
+  ## ▷ [Linux Audio Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_audio)
   ```
 - **Line 3364**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_audio)
+  ## ▷ [Mac Audio Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_audio)
   ```
 - **Line 3368**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Audio Generation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generation)**
+  * ↪️ **[AI Audio Generation](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_audio_generation)**
   ```
 - **Line 3372**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
+  * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
   ```
 - **Line 3376**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[FL Studio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)** (search) / [Guide](https://www.image-line.com/learn) / [2](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual) / [3](https://support.image-line.com/action/knowledgebase), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [KiraStudio](https://kirastudio.org/) / [GitHub](https://github.com/BleuBleu/KiraStudioPublic), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
+  * ⭐ **[FL Studio](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)** (search) / [Guide](https://www.image-line.com/learn) / [2](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual) / [3](https://support.image-line.com/action/knowledgebase), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [KiraStudio](https://kirastudio.org/) / [GitHub](https://github.com/BleuBleu/KiraStudioPublic), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
   ```
 - **Line 3380**: cosmetic text, no functional dependency detected
   ```
@@ -13813,43 +13813,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3392**: cosmetic text, no functional dependency detected
   ```
-  # ► [System Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools/#wiki_.25B7_system_audio)
+  # ► [System Audio](https://www.reddit.com/r/markschron/wiki/system-tools/#wiki_.25B7_system_audio)
   ```
 - **Line 3396**: cosmetic text, no functional dependency detected
   ```
-  # ► [Android Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_audio)
+  # ► [Android Audio](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_audio)
   ```
 - **Line 3400**: cosmetic text, no functional dependency detected
   ```
-  # ► [iOS Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_audio)
+  # ► [iOS Audio](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_audio)
   ```
 - **Line 3406**: cosmetic text, no functional dependency detected
   ```
-  For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
+  For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
   ```
 - **Line 3410**: cosmetic text, no functional dependency detected
   ```
-  For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/morphe-piko-obtainium/). Note that uBO works on mobile browsers like Firefox too.
+  For mobile **[AdGuard Premium](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/morphe-piko-obtainium/). Note that uBO works on mobile browsers like Firefox too.
   ```
 - **Line 3414**: cosmetic text, no functional dependency detected
   ```
-  Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
+  Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 3418**: cosmetic text, no functional dependency detected
   ```
-  We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
+  We recommend **[Firefox](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
   ```
 - **Line 3422**: cosmetic text, no functional dependency detected
   ```
-  !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
+  !!!note We recommend looking through our [Extension](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
   ```
 - **Line 3426**: cosmetic text, no functional dependency detected
   ```
-  * **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
+  * **[Base64 Decoders](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
   ```
 - **Line 3430**: cosmetic text, no functional dependency detected
   ```
-  * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
+  * **Downloading: [Directories](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_download_sites)**
   ```
 - **Line 3434**: cosmetic text, no functional dependency detected
   ```
@@ -13861,11 +13861,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3442**: cosmetic text, no functional dependency detected
   ```
-  For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearXNG](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)**. It's also good to check the HaveIBeenPwned **[email](https://haveibeenpwned.com/)** and [password](https://haveibeenpwned.com/Passwords) engines to make sure your info hasn't been part of any recent data breaches.
+  For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearXNG](https://www.reddit.com/r/markschron/wiki/storage/#wiki_searx_instances)**. It's also good to check the HaveIBeenPwned **[email](https://haveibeenpwned.com/)** and [password](https://haveibeenpwned.com/Passwords) engines to make sure your info hasn't been part of any recent data breaches.
   ```
 - **Line 3446**: cosmetic text, no functional dependency detected
   ```
-  !!!note Never enter your real email or password on any site you don't know you can trust. Use a unique password for each site you register on. That way, if a breach occurs, only that one site's credentials are compromised. You can also take advantage of email [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) for an extra layer of protection.
+  !!!note Never enter your real email or password on any site you don't know you can trust. Use a unique password for each site you register on. That way, if a breach occurs, only that one site's credentials are compromised. You can also take advantage of email [aliasing](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_email_aliasing) for an extra layer of protection.
   ```
 - **Line 3450**: cosmetic text, no functional dependency detected
   ```
@@ -13873,39 +13873,39 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3454**: cosmetic text, no functional dependency detected
   ```
-  Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://wispydocs.pages.dev/torrenting/)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
+  Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://wispydocs.pages.dev/torrenting/)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
   ```
 - **Line 3460**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 3464**: cosmetic text, no functional dependency detected
   ```
-  # ► [Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_developer_learning)
+  # ► [Developer Learning](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_developer_learning)
   ```
 - **Line 3468**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_data_visualization_tools)**
   ```
 - **Line 3472**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
+  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_machine_learning)**
   ```
 - **Line 3476**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Markup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
+  * ↪️ **[Markup Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25BA_markup_tools)**
   ```
 - **Line 3480**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
+  * ↪️ **[App Mockups](https://www.reddit.com/r/markschron/wiki/storage#wiki_app_.2F_site_mockups)**
   ```
 - **Line 3484**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/markschron/wiki/storage#wiki_git_projects)**
   ```
 - **Line 3488**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
+  * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
   ```
 - **Line 3492**: cosmetic text, no functional dependency detected
   ```
@@ -13913,43 +13913,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3496**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_game_development)**
+  * ↪️ **[Learn Game Development](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_game_development)**
   ```
 - **Line 3500**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Sound Effect Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sfx_.2F_loops)**
+  * ↪️ **[Sound Effect Sites](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_sfx_.2F_loops)**
   ```
 - **Line 3504**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_3d_models)**
+  * ↪️ **[3D Models / Modeling Tools](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_3d_models)**
   ```
 - **Line 3508**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Design Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/)**
+  * ↪️ **[Design Tools / Resources](https://www.reddit.com/r/markschron/wiki/image-tools/)**
   ```
 - **Line 3512**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Art Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_art_.2F_editing)**
+  * ↪️ **[Art Resources](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_art_.2F_editing)**
   ```
 - **Line 3516**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Animation Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools/#wiki_.25B7_animation_tools)**
+  * ↪️ **[Animation Resources](https://www.reddit.com/r/markschron/wiki/video-tools/#wiki_.25B7_animation_tools)**
   ```
 - **Line 3520**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_writing_tools)**
+  * ↪️ **[Writing Tools](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_writing_tools)**
   ```
 - **Line 3524**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+  * ↪️ **[RPG / Fantasy Building Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
   ```
 - **Line 3528**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
+  * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25BA_text_editors)**
   ```
 - **Line 3532**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
+  * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_vscode_tools)
   ```
 - **Line 3536**: cosmetic text, no functional dependency detected
   ```
@@ -13957,11 +13957,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3540**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
+  * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
   ```
 - **Line 3544**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
+  * ↪️ **[AI Agents](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_ai_agents)**
   ```
 - **Line 3548**: cosmetic text, no functional dependency detected
   ```
@@ -13973,43 +13973,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3556**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_programming_languages)**
+  * ↪️ **[Learn Programming](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_programming_languages)**
   ```
 - **Line 3560**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[CSS Framework Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_css_framework_tools)**
+  * ↪️ **[CSS Framework Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_css_framework_tools)**
   ```
 - **Line 3564**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
+  * ↪️ **[TypeScript Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_typescript_tools)**
   ```
 - **Line 3568**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Site Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
+  * ↪️ **[Site Mockups](https://www.reddit.com/r/markschron/wiki/storage#wiki_app_.2F_site_mockups)**
   ```
 - **Line 3572**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25BA_archiving)**
+  * ↪️ **[Archive / Scrape / Crawl Web Pages](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25BA_archiving)**
   ```
 - **Line 3576**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
+  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_offline_galleries)**
   ```
 - **Line 3580**: cosmetic text, no functional dependency detected
   ```
-  * [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Management Systems / CMS
+  * [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Management Systems / CMS
   ```
 - **Line 3584**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_palette_generators)**
+  * ↪️ **[Color Palette Generators](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_palette_generators)**
   ```
 - **Line 3588**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_color_pickers)**
+  * ↪️ **[Color Pickers](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_color_pickers)**
   ```
 - **Line 3592**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_design_resources_.2F_ideas)** or [Open Source Design](https://opensourcedesign.net/)
+  * ↪️ **[Design Resources](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_design_resources_.2F_ideas)** or [Open Source Design](https://opensourcedesign.net/)
   ```
 - **Line 3596**: cosmetic text, no functional dependency detected
   ```
@@ -14017,23 +14017,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3600**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - You can use [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai/#wiki_.25B7_online_chatbots) to create regex patterns more easily.
+  * **Note** - You can use [AI chatbots](https://www.reddit.com/r/markschron/wiki/ai/#wiki_.25B7_online_chatbots) to create regex patterns more easily.
   ```
 - **Line 3604**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
+  * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/markschron/wiki/storage#wiki_svg_icons)**
   ```
 - **Line 3608**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Vector Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
+  * ↪️ **[Vector Editors](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
   ```
 - **Line 3612**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dynamic DNS Services / Subdomains](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dynamic_dns_services_.2F_subdomains)**
+  * ↪️ **[Dynamic DNS Services / Subdomains](https://www.reddit.com/r/markschron/wiki/storage#wiki_dynamic_dns_services_.2F_subdomains)**
   ```
 - **Line 3616**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
+  * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/markschron/wiki/storage#wiki_self-hosted_wiki_alts)**
   ```
 - **Line 3620**: cosmetic text, no functional dependency detected
   ```
@@ -14049,35 +14049,35 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3632**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Cybersecurity Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_cybersecurity)**
+  * ↪️ **[Cybersecurity Learning](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_cybersecurity)**
   ```
 - **Line 3636**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_free_dns_resolvers)**
+  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/markschron/wiki/storage/#wiki_free_dns_resolvers)**
   ```
 - **Line 3640**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[IDA Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/)** (search) - Software Disassembler / Decompiler / [Plugins](https://plugins.hex-rays.com/)
+  * ⭐ **[IDA Pro](https://www.reddit.com/r/markschron/wiki/torrent/)** (search) - Software Disassembler / Decompiler / [Plugins](https://plugins.hex-rays.com/)
   ```
 - **Line 3646**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 3650**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation and run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+  * **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation and run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 3654**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
+  * ↪️ **[Editing Software](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
   ```
 - **Line 3658**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 3662**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 3666**: cosmetic text, no functional dependency detected
   ```
@@ -14085,15 +14085,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3670**: cosmetic text, no functional dependency detected
   ```
-  * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 3674**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+  * ↪️ **[Git Project Indexes](https://www.reddit.com/r/markschron/wiki/storage#wiki_git_projects)**
   ```
 - **Line 3678**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
+  * ↪️ **[Software Package Managers](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_package_managers)**
   ```
 - **Line 3682**: cosmetic text, no functional dependency detected
   ```
@@ -14101,23 +14101,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3686**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites)
+  ## ▷ [Linux Software](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites)
   ```
 - **Line 3690**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)
+  ## ▷ [Mac Software](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2)
   ```
 - **Line 3694**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Some Open Directories track IP addresses. Always use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) or [Tor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy) when accessing these resources.
+  * **Note** - Some Open Directories track IP addresses. Always use a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) or [Tor](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy) when accessing these resources.
   ```
 - **Line 3698**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+  * **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 3702**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+  * ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_internet_archive_tools)
   ```
 - **Line 3706**: cosmetic text, no functional dependency detected
   ```
@@ -14125,27 +14125,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3710**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)
+  ## ▷ [Video Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_download_sites)
   ```
 - **Line 3714**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading)
+  ## ▷ [Anime Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_anime_downloading)
   ```
 - **Line 3718**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading)
+  ## ▷ [Educational Sites](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_downloading)
   ```
 - **Line 3722**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+  ## ▷ [Game Sites](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)
   ```
 - **Line 3726**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_sites)
+  ## ▷ [Audio Sites](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_download_sites)
   ```
 - **Line 3730**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
+  * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_apps)**
   ```
 - **Line 3734**: cosmetic text, no functional dependency detected
   ```
@@ -14153,23 +14153,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3738**: cosmetic text, no functional dependency detected
   ```
-  # ► [Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)
+  # ► [Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_download_managers)
   ```
 - **Line 3744**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 3748**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
+  * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/markschron/wiki/storage#wiki_udemy_coupons)**
   ```
 - **Line 3752**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying link shorteners.
   ```
 - **Line 3756**: cosmetic text, no functional dependency detected
   ```
-  * [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
+  * [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
   ```
 - **Line 3760**: cosmetic text, no functional dependency detected
   ```
@@ -14177,147 +14177,147 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3764**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
+  * ↪️ **[Ebook Sites](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25BA_educational_books)**
   ```
 - **Line 3768**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Quotes / Poetry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
+  * ↪️ **[Quotes / Poetry](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
   ```
 - **Line 3772**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_science_news)**
+  * ↪️ **[Science News](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_science_news)**
   ```
 - **Line 3776**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
+  * ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_calculators)**
   ```
 - **Line 3780**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_latex_tools)**
+  * ↪️ **[LaTeX Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_latex_tools)**
   ```
 - **Line 3784**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 3788**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+  * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_computer_science)**
   ```
 - **Line 3792**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Vehicle Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)**
+  * ↪️ **[Vehicle Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_vehicle)**
   ```
 - **Line 3796**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_cad_engineering)**
+  * ↪️ **[3D Modeling](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_cad_engineering)**
   ```
 - **Line 3800**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Periodic Tables](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_periodic_tables)**
+  * ↪️ **[Periodic Tables](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_periodic_tables)**
   ```
 - **Line 3804**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
+  * ↪️ **[Health Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_health)**
   ```
 - **Line 3808**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_aerospace_engineering)**
+  * ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_aerospace_engineering)**
   ```
 - **Line 3812**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
+  * ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
   ```
 - **Line 3816**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
+  * ↪️ **[Spacecraft Resources](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_spacecraft)**
   ```
 - **Line 3820**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
+  * ↪️ **[Flight Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_flights)**
   ```
 - **Line 3824**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
+  * ↪️ **[Historical Film Archives](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_film_archives)**
   ```
 - **Line 3828**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 3832**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
+  * ↪️ **[History Books](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_history_books)**
   ```
 - **Line 3836**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
+  * ↪️ **[Historical Maps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
   ```
 - **Line 3840**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
+  * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_maps)** - Map Resources
   ```
 - **Line 3844**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_finance_.2F_savings)**
+  * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_finance_.2F_savings)**
   ```
 - **Line 3848**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
+  * ↪️ **[Photography / Cameras](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
   ```
 - **Line 3852**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Fashion / Clothing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_fashion_.2F_clothing)**
+  * ↪️ **[Fashion / Clothing](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_fashion_.2F_clothing)**
   ```
 - **Line 3856**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
+  * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_typing_lessons)**
   ```
 - **Line 3860**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
+  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/markschron/wiki/storage#wiki_survival)**
   ```
 - **Line 3864**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_puzzle_games)**
+  * ↪️ **[Puzzle Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_puzzle_games)**
   ```
 - **Line 3868**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
+  * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
   ```
 - **Line 3872**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 3876**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
+  * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/markschron/wiki/games/#wiki_.25B7_rubiks_cube)**
   ```
 - **Line 3880**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
+  * ↪️ **[Play Chess Online](https://www.reddit.com/r/markschron/wiki/games#wiki_.25B7_chess)**
   ```
 - **Line 3884**: cosmetic text, no functional dependency detected
   ```
-  * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
+  * [Chess Coach](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
   ```
 - **Line 3888**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
+  * ↪️ **[D&D Building Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
   ```
 - **Line 3892**: cosmetic text, no functional dependency detected
   ```
-  * [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+  * [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
   ```
 - **Line 3896**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
+  * ↪️ **[Translation Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_translators)**
   ```
 - **Line 3900**: cosmetic text, no functional dependency detected
   ```
-  * [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Language Learning Lessons
+  * [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Language Learning Lessons
   ```
 - **Line 3904**: cosmetic text, no functional dependency detected
   ```
-  * [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
+  * [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
   ```
 - **Line 3908**: cosmetic text, no functional dependency detected
   ```
@@ -14329,23 +14329,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3916**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
+  * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/markschron/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/markschron/wiki/storage#wiki_youtube_channels)
   ```
 - **Line 3920**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
+  * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/markschron/wiki/storage#wiki_dictionaries_.2F_translation)**
   ```
 - **Line 3924**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
+  * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/markschron/wiki/storage#wiki_kanji_learning)**
   ```
 - **Line 3928**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
+  * ↪️ **[Programming Books](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
   ```
 - **Line 3932**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
+  * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_machine_learning)**
   ```
 - **Line 3936**: cosmetic text, no functional dependency detected
   ```
@@ -14353,7 +14353,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3940**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Game Dev Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
+  * ↪️ **[Game Dev Tools](https://www.reddit.com/r/markschron/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
   ```
 - **Line 3944**: cosmetic text, no functional dependency detected
   ```
@@ -14369,27 +14369,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3956**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_presentation_tools)**
   ```
 - **Line 3960**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization](https://www.reddit.com/r/markschron/wiki/storage#wiki_data_visualization_tools)**
   ```
 - **Line 3964**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
+  * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_grammar_check)**
   ```
 - **Line 3968**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
+  * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_note-taking)**
   ```
 - **Line 3972**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
+  * ↪️ **[Documents / Articles](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_academic_papers)**
   ```
 - **Line 3976**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_specialized_chatbots)**
   ```
 - **Line 3980**: cosmetic text, no functional dependency detected
   ```
@@ -14397,7 +14397,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 3984**: cosmetic text, no functional dependency detected
   ```
-  * [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
+  * [PhotoMath](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
   ```
 - **Line 3990**: cosmetic text, no functional dependency detected
   ```
@@ -14433,15 +14433,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4024**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 4028**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
+  * ↪️ **[File Scanners](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
   ```
 - **Line 4032**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
+  * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
   ```
 - **Line 4036**: cosmetic text, no functional dependency detected
   ```
@@ -14453,23 +14453,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4044**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
+  * ⭐ **[Directory Opus](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
   ```
 - **Line 4048**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
+  * ↪️ **[Image Metadata Tools](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
   ```
 - **Line 4052**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
+  * ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_audio_metadata)**
   ```
 - **Line 4056**: cosmetic text, no functional dependency detected
   ```
-  * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Disk Partitioning / Data Recovery
+  * [Parted Magic](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (search) - Disk Partitioning / Data Recovery
   ```
 - **Line 4060**: cosmetic text, no functional dependency detected
   ```
-  * [Foxit](https://www.foxit.com/pdf-reader/) / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+  * [Foxit](https://www.foxit.com/pdf-reader/) / All Platforms / [Features](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
   ```
 - **Line 4064**: cosmetic text, no functional dependency detected
   ```
@@ -14477,11 +14477,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4068**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
+  * ↪️ **[Video File Hosts](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_video_file_hosts)**
   ```
 - **Line 4072**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
+  * ↪️ **[Image File Hosts](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_image_hosts)**
   ```
 - **Line 4076**: cosmetic text, no functional dependency detected
   ```
@@ -14501,7 +14501,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4092**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
+  * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
   ```
 - **Line 4096**: cosmetic text, no functional dependency detected
   ```
@@ -14525,23 +14525,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4118**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 4122**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
+  * ↪️ **[Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_download_managers)**
   ```
 - **Line 4126**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Game Recording / Clipping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_screen_recording)**
+  * ↪️ **[Game Recording / Clipping](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_screen_recording)**
   ```
 - **Line 4130**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
+  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
   ```
 - **Line 4134**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
+  * ↪️ **[Game Soundtracks](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_game_soundtracks)**
   ```
 - **Line 4138**: cosmetic text, no functional dependency detected
   ```
@@ -14553,19 +14553,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4146**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_mod_.2F_resource_packs)**
+  * ↪️ **[Minecraft Mods](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_mod_.2F_resource_packs)**
   ```
 - **Line 4150**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[GTA Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_gta_tools)**
+  * ↪️ **[GTA Mods](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_gta_tools)**
   ```
 - **Line 4154**: cosmetic text, no functional dependency detected
   ```
-  * [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+  * [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)
   ```
 - **Line 4158**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_sync)**
+  * ↪️ **[File Backup](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_file_sync)**
   ```
 - **Line 4162**: cosmetic text, no functional dependency detected
   ```
@@ -14617,7 +14617,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4210**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Gaming Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)**
+  * ↪️ **[Linux Gaming Resources](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_gaming)**
   ```
 - **Line 4214**: cosmetic text, no functional dependency detected
   ```
@@ -14633,19 +14633,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4226**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[D&D Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dungeons_.26amp.3B_dragons)** - Dungeons & Dragons Guides / Tools
+  * ↪️ **[D&D Resources](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_dungeons_.26amp.3B_dragons)** - Dungeons & Dragons Guides / Tools
   ```
 - **Line 4230**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_writing_tools)** - Writing Tools / Story Managers
+  * ↪️ **[Writing Tools](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_writing_tools)** - Writing Tools / Story Managers
   ```
 - **Line 4234**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Visual Novel DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_special_interest)** - Visual Novel Download Sites
+  * ↪️ **[Visual Novel DDL](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_special_interest)** - Visual Novel Download Sites
   ```
 - **Line 4238**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Pokémon Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_pokemon)**
+  * ↪️ **[Pokémon Browser Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25B7_pokemon)**
   ```
 - **Line 4242**: cosmetic text, no functional dependency detected
   ```
@@ -14657,15 +14657,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4250**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
+  * ↪️ **[GD Demon Lists](https://www.reddit.com/r/markschron/wiki/storage#wiki_geometry_dash_demon_lists)**
   ```
 - **Line 4256**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 4260**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. check [this guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+  * **Note** - Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. check [this guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
   ```
 - **Line 4264**: cosmetic text, no functional dependency detected
   ```
@@ -14673,11 +14673,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4268**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
+  * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
   ```
 - **Line 4272**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
+  * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_redirect_bypass)
   ```
 - **Line 4276**: cosmetic text, no functional dependency detected
   ```
@@ -14685,15 +14685,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4280**: cosmetic text, no functional dependency detected
   ```
-  * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 4284**: cosmetic text, no functional dependency detected
   ```
-  * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
+  * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
   ```
 - **Line 4288**: cosmetic text, no functional dependency detected
   ```
-  * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
+  * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
   ```
 - **Line 4292**: cosmetic text, no functional dependency detected
   ```
@@ -14701,7 +14701,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4296**: cosmetic text, no functional dependency detected
   ```
-  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_free_stuff)
   ```
 - **Line 4300**: cosmetic text, no functional dependency detected
   ```
@@ -14709,7 +14709,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4304**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.com/invite/WF2pqPTFBs)
+  * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / [Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.com/invite/WF2pqPTFBs)
   ```
 - **Line 4308**: cosmetic text, no functional dependency detected
   ```
@@ -14725,23 +14725,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4320**: cosmetic text, no functional dependency detected
   ```
-  * [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.gg/D9WU7C9FSE) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)**
+  * [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.gg/D9WU7C9FSE) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)**
   ```
 - **Line 4324**: cosmetic text, no functional dependency detected
   ```
-  * [Xatab Repacks](https://byxatab.com/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Xatab Repacks](https://byxatab.com/) - Torrent / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 4328**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_gaming)
+  ## ▷ [Linux Games](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_gaming)
   ```
 - **Line 4332**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_gaming)
+  ## ▷ [Mac Games](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_gaming)
   ```
 - **Line 4336**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PCVR Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)**
+  * ↪️ **[PCVR Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)**
   ```
 - **Line 4340**: cosmetic text, no functional dependency detected
   ```
@@ -14749,7 +14749,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4344**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Indie Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_indie_browser_games)**
+  * ↪️ **[Indie Browser Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25B7_indie_browser_games)**
   ```
 - **Line 4348**: cosmetic text, no functional dependency detected
   ```
@@ -14757,7 +14757,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4352**: cosmetic text, no functional dependency detected
   ```
-  * [⁠⁠Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [⁠⁠Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware Games / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 4356**: cosmetic text, no functional dependency detected
   ```
@@ -14765,7 +14765,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4360**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
+  * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
   ```
 - **Line 4364**: cosmetic text, no functional dependency detected
   ```
@@ -14773,7 +14773,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4368**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_emulators_on_android)**
+  * ↪️ **[Emulators on Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_emulators_on_android)**
   ```
 - **Line 4372**: cosmetic text, no functional dependency detected
   ```
@@ -14801,7 +14801,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4396**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 4400**: cosmetic text, no functional dependency detected
   ```
@@ -14853,35 +14853,35 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4448**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
+  * ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/markschron/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
   ```
 - **Line 4452**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_rubiks_cube)**
+  * ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_rubiks_cube)**
   ```
 - **Line 4456**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
+  * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
   ```
 - **Line 4460**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Go / Baduk / Weiqi Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7__go_.2F_baduk_.2F_weiqi)**
+  * ↪️ **[Go / Baduk / Weiqi Learning](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7__go_.2F_baduk_.2F_weiqi)**
   ```
 - **Line 4464**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
+  * ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_chess)**
   ```
 - **Line 4468**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Tabletop Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_tabletop_tools)**
+  * ↪️ **[Tabletop Tools](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_tabletop_tools)**
   ```
 - **Line 4472**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)
+  ## ▷ [Dungeons & Dragons](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)
   ```
 - **Line 4476**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Browser Toys / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random)** - Browser Toys / Game Indexes
+  * ↪️ **[Browser Toys / Games](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_random)** - Browser Toys / Game Indexes
   ```
 - **Line 4480**: cosmetic text, no functional dependency detected
   ```
@@ -14921,43 +14921,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4516**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
+  * **Note** - Oldschool text adventure games are known for being [unforgiving](https://www.ifwiki.org/Cruelty_scale), but you can usually find solutions / guides online. You can also try feeding the text to [AI chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_online_chatbots), which can be both helpful and amusing.
   ```
 - **Line 4520**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+  * ↪️ **[RPG / TTRPG Builders](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
   ```
 - **Line 4524**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
+  * ↪️ **[ARPG / MMORPG Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_arpg_.2F_mmorpg_tools)**
   ```
 - **Line 4528**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Pokémon Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_pokemon_tools)**
+  * ↪️ **[Pokémon Resources / Tools](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_pokemon_tools)**
   ```
 - **Line 4532**: cosmetic text, no functional dependency detected
   ```
-  # ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
+  # ► [Gaming Tools](https://www.reddit.com/r/markschron/wiki/game-tools)
   ```
 - **Line 4538**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 4542**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
+  * ↪️ **[AI Image Generators](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_image_generation)**
   ```
 - **Line 4546**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
+  * ↪️ **[Art Education](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_art_.2F_editing)**
   ```
 - **Line 4550**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
+  * ↪️ **[Editing Software](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
   ```
 - **Line 4554**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
+  * ↪️ **[Android Editors](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_image_tools)**
   ```
 - **Line 4558**: cosmetic text, no functional dependency detected
   ```
@@ -14965,31 +14965,31 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4562**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_image)
+  ## ▷ [Linux Image Editing](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_image)
   ```
 - **Line 4566**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_image)
+  ## ▷ [Mac Image Editing](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_image)
   ```
 - **Line 4570**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
+  * ↪️ **[Digital Art Brushes](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_brushes)** - Download Brushes
   ```
 - **Line 4574**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)**
+  * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_animation_tools)**
   ```
 - **Line 4578**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
+  * ↪️ **[ASCII Art](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_ascii_art)**
   ```
 - **Line 4582**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)
+  ## ▷ [Animation](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_animation_tools)
   ```
 - **Line 4586**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)**
+  * ↪️ **[Design Resources](https://www.reddit.com/r/markschron/wiki/storage#wiki_design_resources)**
   ```
 - **Line 4590**: cosmetic text, no functional dependency detected
   ```
@@ -14997,15 +14997,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4594**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SVG Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_svg_tools)**
+  * ↪️ **[SVG Icons](https://www.reddit.com/r/markschron/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_svg_tools)**
   ```
 - **Line 4598**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
+  * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/markschron/wiki/storage#wiki_png_images_.2F_clipart)**
   ```
 - **Line 4602**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 4606**: cosmetic text, no functional dependency detected
   ```
@@ -15013,23 +15013,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4610**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_wallpapers)
+  ## ▷ [Wallpapers](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_wallpapers)
   ```
 - **Line 4614**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)**
+  * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_color_schemes)**
   ```
 - **Line 4618**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
+  * ↪️ **[File Converter](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
   ```
 - **Line 4622**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
+  * **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
   ```
 - **Line 4626**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
+  * ↪️ **[Android Galleries](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_image_galleries)**
   ```
 - **Line 4630**: cosmetic text, no functional dependency detected
   ```
@@ -15037,23 +15037,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4634**: cosmetic text, no functional dependency detected
   ```
-  * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
+  * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
   ```
 - **Line 4638**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / Windows / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
+  * ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / Windows / [Image Hosts](https://www.reddit.com/r/markschron/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
   ```
 - **Line 4642**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources / Tools
+  * ↪️ **[Android Camera](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources / Tools
   ```
 - **Line 4646**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Info / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata)**
+  * ↪️ **[File Info / Metadata](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata)**
   ```
 - **Line 4652**: cosmetic text, no functional dependency detected
   ```
-  name: freemediaheckyeah
+  name: markschron
   ```
 - **Line 4656**: cosmetic text, no functional dependency detected
   ```
@@ -15061,15 +15061,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4662**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 4666**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Web Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
+  * ↪️ **[Web Privacy Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
   ```
 - **Line 4670**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 4674**: cosmetic text, no functional dependency detected
   ```
@@ -15077,19 +15077,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4678**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Discord Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_discord_tools)**
+  * ↪️ **[Discord Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_discord_tools)**
   ```
 - **Line 4682**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Telegram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_telegram_tools)**
+  * ↪️ **[Telegram Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_telegram_tools)**
   ```
 - **Line 4686**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
+  * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
   ```
 - **Line 4690**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
+  * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/markschron/wiki/download#wiki_.25B7_irc_tools)**
   ```
 - **Line 4694**: cosmetic text, no functional dependency detected
   ```
@@ -15097,27 +15097,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4698**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android RSS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_rss_readers)**
+  * ↪️ **[Android RSS Readers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_rss_readers)**
   ```
 - **Line 4702**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
+  * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_reddit_search)**
   ```
 - **Line 4706**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+  * ↪️ **[AI Search Engines](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_specialized_chatbots)**
   ```
 - **Line 4710**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+  * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
   ```
 - **Line 4714**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
+  * ↪️ **[Image Search Engines](https://www.reddit.com/r/markschron/wiki/image-tools/#wiki_.25B7_image_search_engines)**
   ```
 - **Line 4718**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
+  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
   ```
 - **Line 4722**: cosmetic text, no functional dependency detected
   ```
@@ -15129,7 +15129,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4730**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
+  * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
   ```
 - **Line 4734**: cosmetic text, no functional dependency detected
   ```
@@ -15137,15 +15137,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4738**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing) section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
+  * **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_email_aliasing) section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
   ```
 - **Line 4742**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
+  * ↪️ **[Android Browsers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_browsers)**
   ```
 - **Line 4746**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
+  * ↪️ **[Firefox Extensions](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
   ```
 - **Line 4750**: cosmetic text, no functional dependency detected
   ```
@@ -15153,91 +15153,91 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4754**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chromium Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chrome_extensions)**
+  * ↪️ **[Chromium Extensions](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_chrome_extensions)**
   ```
 - **Line 4758**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Adblocking Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
+  * ↪️ **[Adblocking Extensions](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
   ```
 - **Line 4762**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Translation Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
+  * ↪️ **[Translation Extensions](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_translators)**
   ```
 - **Line 4766**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_download_managers)**
+  * ↪️ **[Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_download_managers)**
   ```
 - **Line 4770**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+  * ↪️ **[Video Downloaders](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)**
   ```
 - **Line 4774**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_download_extensions)**
+  * ↪️ **[Image Downloaders](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_download_extensions)**
   ```
 - **Line 4778**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
+  * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
   ```
 - **Line 4782**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
+  * ↪️ **[Bookmark Managers](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
   ```
 - **Line 4786**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
+  * ↪️ **[Tab Managers](https://www.reddit.com/r/markschron/wiki/storage#wiki_tab_managers)**
   ```
 - **Line 4790**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
+  * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_google_search_tools)**
   ```
 - **Line 4794**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
+  * ↪️ **[4chan Archives](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_4chan_archives)**
   ```
 - **Line 4798**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Internet Archive](https://archive.org/)** - Internet Archive / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+  * ⭐ **[Internet Archive](https://archive.org/)** - Internet Archive / [Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_internet_archive_tools)
   ```
 - **Line 4802**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitter Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving)**
+  * ↪️ **[Twitter Archiving](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving)**
   ```
 - **Line 4806**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
+  * ↪️ **[YouTube Archiving](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_youtube_archiving)**
   ```
 - **Line 4810**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
+  * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_domain_.2F_dns)**
   ```
 - **Line 4814**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools)**
+  * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25BA_search_tools)**
   ```
 - **Line 4820**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 4824**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
   ```
 - **Line 4828**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+  * ↪️ **[Office Suites](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_office_suites)**
   ```
 - **Line 4832**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** - Linux Software / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** - Linux Software / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 4836**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_media_servers)**
   ```
 - **Line 4840**: cosmetic text, no functional dependency detected
   ```
-  * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+  * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
   ```
 - **Line 4844**: cosmetic text, no functional dependency detected
   ```
@@ -15253,15 +15253,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4856**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_editing_software)**
+  * ↪️ **[Linux Image Editors](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_editing_software)**
   ```
 - **Line 4860**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Steam Deck Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_steam_deck)**
+  * ↪️ **[Steam Deck Resources](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_steam_deck)**
   ```
 - **Line 4864**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 4868**: cosmetic text, no functional dependency detected
   ```
@@ -15269,7 +15269,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4872**: cosmetic text, no functional dependency detected
   ```
-  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 4876**: cosmetic text, no functional dependency detected
   ```
@@ -15277,43 +15277,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4880**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Linux 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 4884**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
+  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy)**
   ```
 - **Line 4888**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 4892**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+  * ↪️ **[Linux Torrent Clients](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients)**
   ```
 - **Line 4896**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Linux Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[Linux Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 - **Line 4900**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_media_servers)**
   ```
 - **Line 4904**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
+  * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_offline_galleries)**
   ```
 - **Line 4908**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
   ```
 - **Line 4912**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+  * ↪️ **[Office Suites](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_office_suites)**
   ```
 - **Line 4916**: cosmetic text, no functional dependency detected
   ```
-  * [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows Software on Mac
+  * [CrossOver](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows Software on Mac
   ```
 - **Line 4920**: cosmetic text, no functional dependency detected
   ```
@@ -15333,23 +15333,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4936**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)** (search) - Run Windows Games on Mac
+  * ⭐ **[CrossOver](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2)** (search) - Run Windows Games on Mac
   ```
 - **Line 4940**: cosmetic text, no functional dependency detected
   ```
-  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 4944**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Mac 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 4948**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
+  * ↪️ **[Adblocking Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy)**
   ```
 - **Line 4952**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 4956**: cosmetic text, no functional dependency detected
   ```
@@ -15361,23 +15361,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4964**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mac Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+  * ↪️ **[Mac Torrent Clients](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients)**
   ```
 - **Line 4968**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mac Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[Mac Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 - **Line 4974**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 4978**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
+  * ↪️ **[AI Indexes](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_ai_indexes)**
   ```
 - **Line 4982**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_indexes)**
+  * ↪️ **[Privacy Indexes](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_indexes)**
   ```
 - **Line 4986**: cosmetic text, no functional dependency detected
   ```
@@ -15385,7 +15385,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 4990**: cosmetic text, no functional dependency detected
   ```
-  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+  * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_free_stuff)
   ```
 - **Line 4994**: cosmetic text, no functional dependency detected
   ```
@@ -15397,147 +15397,147 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5002**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Raspberry Pi Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_raspberry_pi)**
+  * ↪️ **[Raspberry Pi Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_raspberry_pi)**
   ```
 - **Line 5006**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Live Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_sports_replays)**
+  * ↪️ **[Live Sports](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_sports_replays)**
   ```
 - **Line 5010**: cosmetic text, no functional dependency detected
   ```
-  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 5014**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
+  * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
   ```
 - **Line 5018**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
+  * ↪️ **[Newspaper Sites](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_newspapers)**
   ```
 - **Line 5022**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 5026**: cosmetic text, no functional dependency detected
   ```
-  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 5030**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
+  * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_dev_news)**
   ```
 - **Line 5034**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+  * ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_hacker_news_tools)
   ```
 - **Line 5038**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
+  * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
   ```
 - **Line 5042**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
+  * ↪️ **[Site Blocking](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
   ```
 - **Line 5046**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
+  * ↪️ **[Learn Programming](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_developer_learning)**
   ```
 - **Line 5050**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+  * ↪️ **[Learn Computer Science](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_computer_science)**
   ```
 - **Line 5054**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Make sure to install a [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) when using these sites.
+  * **Note** - Make sure to install a [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) when using these sites.
   ```
 - **Line 5058**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
+  * ↪️ **[Steam Store Tools](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_store_tools)**
   ```
 - **Line 5062**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_skills_.2F_hobbies_.2F_diy)**
+  * ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_skills_.2F_hobbies_.2F_diy)**
   ```
 - **Line 5066**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
+  * ↪️ **[Manual Sites](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
   ```
 - **Line 5070**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
+  * ↪️ **[Mind Mapping](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_mind_mapping)**
   ```
 - **Line 5074**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+  * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_presentation_tools)**
   ```
 - **Line 5078**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization](https://www.reddit.com/r/markschron/wiki/storage#wiki_data_visualization_tools)**
   ```
 - **Line 5082**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
+  * ↪️ **[Polling Sites](https://www.reddit.com/r/markschron/wiki/storage#wiki_poll_sites)**
   ```
 - **Line 5086**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
+  * ↪️ **[To-Do Lists](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_to_do_lists)**
   ```
 - **Line 5090**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
+  * ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
   ```
 - **Line 5094**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
+  * ↪️ **[To-Do Apps](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_to-do_apps)**
   ```
 - **Line 5098**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
+  * ↪️ **[Multireddit Index](https://www.reddit.com/r/markschron/wiki/storage#wiki_multireddits)**
   ```
 - **Line 5102**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
+  * ↪️ **[AI Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_ai_chatbots)**
   ```
 - **Line 5106**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Search / Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_search)**
+  * ↪️ **[YouTube Search / Archives](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_search)**
   ```
 - **Line 5110**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+  * ↪️ **[Digital Art Collections](https://www.reddit.com/r/markschron/wiki/storage#wiki_digital_art_collections)**
   ```
 - **Line 5114**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_image_creation)**
+  * ↪️ **[Image Creation](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25BA_image_creation)**
   ```
 - **Line 5118**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
+  * ↪️ **[ASCII Art](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_ascii_art)**
   ```
 - **Line 5122**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Art / Illustrations](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_art_.2F_illustrations)**
+  * ↪️ **[Art / Illustrations](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_art_.2F_illustrations)**
   ```
 - **Line 5126**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[GIF Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_gif_tools)**
+  * ↪️ **[GIF Tools](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_gif_tools)**
   ```
 - **Line 5130**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_meme_tools)**
+  * ↪️ **[Meme Tools](https://www.reddit.com/r/markschron/wiki/image-tools/#wiki_.25B7_meme_tools)**
   ```
 - **Line 5134**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
+  * ↪️ **[4chan Archives](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_4chan_archives)**
   ```
 - **Line 5138**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
+  * ↪️ **[Browser Games](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_browser_games)**
   ```
 - **Line 5142**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_learning_sites)**
+  * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_learning_sites)**
   ```
 - **Line 5146**: cosmetic text, no functional dependency detected
   ```
@@ -15545,7 +15545,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5152**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 5156**: cosmetic text, no functional dependency detected
   ```
@@ -15553,7 +15553,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5160**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[4PDA](https://4pda.to/forum/)** - Signup Required / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
+  * ⭐ **[4PDA](https://4pda.to/forum/)** - Signup Required / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
   ```
 - **Line 5164**: cosmetic text, no functional dependency detected
   ```
@@ -15565,11 +15565,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5172**: cosmetic text, no functional dependency detected
   ```
-  * [⁠Android Oyun Club](https://androidoyun.club/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [⁠Android Oyun Club](https://androidoyun.club/) - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 5176**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)** - App Giveaway Sites
+  * ↪️ **[Free App Giveaways](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_free_stuff)** - App Giveaway Sites
   ```
 - **Line 5180**: cosmetic text, no functional dependency detected
   ```
@@ -15577,19 +15577,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5184**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Niagara Launcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://niagaralauncher.com/) - Single-Hand Launcher / [Telegram](https://t.me/niagara_news) / [Discord](https://discord.com/invite/niagara-launcher-728630549278883950)
+  * ⭐ **[Niagara Launcher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://niagaralauncher.com/) - Single-Hand Launcher / [Telegram](https://t.me/niagara_news) / [Discord](https://discord.com/invite/niagara-launcher-728630549278883950)
   ```
 - **Line 5188**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[SmartLauncher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.smartlauncher.net/) - Customizable Launcher / [Telegram](https://t.me/smartlauncher)
+  * ⭐ **[SmartLauncher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.smartlauncher.net/) - Customizable Launcher / [Telegram](https://t.me/smartlauncher)
   ```
 - **Line 5192**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[App Manager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠Universal Installer](https://github.com/pass-with-high-score/universal-installer) or [Package Manager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
+  * ⭐ **[App Manager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [⁠Universal Installer](https://github.com/pass-with-high-score/universal-installer) or [Package Manager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
   ```
 - **Line 5196**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Lucky Patcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - App Patcher
+  * ⭐ **[Lucky Patcher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) - App Patcher
   ```
 - **Line 5200**: cosmetic text, no functional dependency detected
   ```
@@ -15597,15 +15597,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5204**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
+  * ↪️ **[Social Media Tools](https://www.reddit.com/r/markschron/wiki/social-media/)**
   ```
 - **Line 5208**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)**
+  * ↪️ **[YouTube Apps](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_youtube_apps)**
   ```
 - **Line 5212**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
+  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_twitch_adblockers)**
   ```
 - **Line 5216**: cosmetic text, no functional dependency detected
   ```
@@ -15617,11 +15617,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5224**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
+  * ↪️ **[Device Comparisons](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_electronics)**
   ```
 - **Line 5228**: cosmetic text, no functional dependency detected
   ```
-  * [Device Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info / Monitors
+  * [Device Info](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info / Monitors
   ```
 - **Line 5232**: cosmetic text, no functional dependency detected
   ```
@@ -15629,11 +15629,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5236**: cosmetic text, no functional dependency detected
   ```
-  * [BatteryGuru](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Battery Monitor / Manager
+  * [BatteryGuru](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Battery Monitor / Manager
   ```
 - **Line 5240**: cosmetic text, no functional dependency detected
   ```
-  * [Twilight](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Blue Light Filter
+  * [Twilight](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Blue Light Filter
   ```
 - **Line 5244**: cosmetic text, no functional dependency detected
   ```
@@ -15641,59 +15641,59 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5248**: cosmetic text, no functional dependency detected
   ```
-  * [PicsArt](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
+  * [PicsArt](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
   ```
 - **Line 5252**: cosmetic text, no functional dependency detected
   ```
-  * [Lightroom](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
+  * [Lightroom](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
   ```
 - **Line 5256**: cosmetic text, no functional dependency detected
   ```
-  * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks) (search) or [Superimage](https://superimage.io/) - Image Upscalers
+  * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_untouched_apks) (search) or [Superimage](https://superimage.io/) - Image Upscalers
   ```
 - **Line 5260**: cosmetic text, no functional dependency detected
   ```
-  * [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/morphe-piko-obtainium/)
+  * [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/morphe-piko-obtainium/)
   ```
 - **Line 5264**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
+  * ↪️ **[Android Calculators](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_calculators)**
   ```
 - **Line 5268**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[MacroDroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Subreddit](https://www.reddit.com/r/macrodroid/), [Tasker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Automate](https://llamalab.com/automate/) / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
+  * ⭐ **[MacroDroid](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) / [Subreddit](https://www.reddit.com/r/macrodroid/), [Tasker](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [Automate](https://llamalab.com/automate/) / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
   ```
 - **Line 5272**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Unified Remote](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.unifiedremote.com/) or [KDE Connect](https://kdeconnect.kde.org/) - Control PC with App
+  * ⭐ **[Unified Remote](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.unifiedremote.com/) or [KDE Connect](https://kdeconnect.kde.org/) - Control PC with App
   ```
 - **Line 5276**: cosmetic text, no functional dependency detected
   ```
-  * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [⁠KwaiCut](https://play.google.com/store/apps/details?id=com.kwai.editor), [open-video-editor](https://github.com/devhyper/open-video-editor), [InShot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
+  * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [⁠KwaiCut](https://play.google.com/store/apps/details?id=com.kwai.editor), [open-video-editor](https://github.com/devhyper/open-video-editor), [InShot](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
   ```
 - **Line 5280**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 5284**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/en/adguard-android/overview.html) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
+  * ⭐ **[AdGuard Premium](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/en/adguard-android/overview.html) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
   ```
 - **Line 5288**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy-Focused Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems)**
+  * ↪️ **[Privacy-Focused Operating Systems](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_operating_systems)**
   ```
 - **Line 5292**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
+  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
   ```
 - **Line 5296**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[Android 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 5300**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
+  * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
   ```
 - **Line 5304**: cosmetic text, no functional dependency detected
   ```
@@ -15701,15 +15701,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5308**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[Android Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 - **Line 5312**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
+  * ↪️ **[QR Code Tools](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
   ```
 - **Line 5316**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)**
+  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_hacker_news_tools)**
   ```
 - **Line 5320**: cosmetic text, no functional dependency detected
   ```
@@ -15717,7 +15717,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5324**: cosmetic text, no functional dependency detected
   ```
-  * [Wolfram Alpha](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Searchable Knowledge Base
+  * [Wolfram Alpha](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Searchable Knowledge Base
   ```
 - **Line 5328**: cosmetic text, no functional dependency detected
   ```
@@ -15725,19 +15725,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5332**: cosmetic text, no functional dependency detected
   ```
-  * [Hermit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
+  * [Hermit](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) - Lite Apps Browser
   ```
 - **Line 5336**: cosmetic text, no functional dependency detected
   ```
-  * [Pluma RSS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - RSS / Atom
+  * [Pluma RSS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - RSS / Atom
   ```
 - **Line 5340**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Mobile / Desktop Transfer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_transfer)**
+  * ↪️ **[Mobile / Desktop Transfer](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25BA_file_transfer)**
   ```
 - **Line 5344**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Go Speed](https://gopeed.com/) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed), [AB Download Manager](https://abdownloadmanager.com/) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager), [ADM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
+  * ⭐ **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager)** / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [Go Speed](https://gopeed.com/) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed), [AB Download Manager](https://abdownloadmanager.com/) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager), [ADM](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
   ```
 - **Line 5348**: cosmetic text, no functional dependency detected
   ```
@@ -15745,99 +15745,99 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5352**: cosmetic text, no functional dependency detected
   ```
-  * [File Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - File Manager
+  * [File Viewer](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - File Manager
   ```
 - **Line 5356**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
+  * ↪️ **[Android Code Editors](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_android_code_editors)**
   ```
 - **Line 5360**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
+  * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
   ```
 - **Line 5364**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
+  * ⭐ **[Look Up](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
   ```
 - **Line 5368**: cosmetic text, no functional dependency detected
   ```
-  * [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Note-Taking Apps for Handwritten Notes
+  * [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Note-Taking Apps for Handwritten Notes
   ```
 - **Line 5372**: cosmetic text, no functional dependency detected
   ```
-  * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
+  * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
   ```
 - **Line 5376**: cosmetic text, no functional dependency detected
   ```
-  * [KWGT Widgets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Custom Android Widgets
+  * [KWGT Widgets](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Custom Android Widgets
   ```
 - **Line 5380**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Sleep as Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** or [Sleep Cycle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Clock / Alarm
+  * ⭐ **[Sleep as Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** or [Sleep Cycle](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Clock / Alarm
   ```
 - **Line 5384**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools) / [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
+  * ↪️ **[Text Editors](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_text_tools) / [To-Do Apps](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_to-do_apps)**
   ```
 - **Line 5388**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
+  * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/markschron/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
   ```
 - **Line 5392**: cosmetic text, no functional dependency detected
   ```
-  * [LockWatch](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [CrookCatcher](https://www.crookcatcher.app/) - Locate / Recover Stolen Phone
+  * [LockWatch](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [CrookCatcher](https://www.crookcatcher.app/) - Locate / Recover Stolen Phone
   ```
 - **Line 5396**: cosmetic text, no functional dependency detected
   ```
-  * [AccuWeather](https://app.accuweather.com/app-download) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [AccuWeather](https://app.accuweather.com/app-download) / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 5400**: cosmetic text, no functional dependency detected
   ```
-  * [Meteored](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [Meteored](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 5404**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android on Linux](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_android_on_linux)**
+  * ↪️ **[Android on Linux](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_android_on_linux)**
   ```
 - **Line 5408**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android on macOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_system_tools)**
+  * ↪️ **[Android on macOS](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_system_tools)**
   ```
 - **Line 5412**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
+  * **Note** - Remember to get a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind it to your client](https://wispydocs.pages.dev/torrenting/) if it allows.
   ```
 - **Line 5416**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+  * ↪️ **[Multi-Platform Torrent Clients](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients)**
   ```
 - **Line 5420**: cosmetic text, no functional dependency detected
   ```
-  * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
+  * [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Torrent Client / [Features](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search)
   ```
 - **Line 5424**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)**
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)**
   ```
 - **Line 5428**: cosmetic text, no functional dependency detected
   ```
-  * [Perfect Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
+  * [Perfect Viewer](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
   ```
 - **Line 5432**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
+  * ↪️ **[Song Identification Apps](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_song_identification)**
   ```
 - **Line 5436**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
+  * ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
   ```
 - **Line 5440**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AudioRelay](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
+  * ⭐ **[AudioRelay](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
   ```
 - **Line 5444**: cosmetic text, no functional dependency detected
   ```
-  * [Modded Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠SpotiCap](https://gitlab.com/spotihater/spoticap) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
+  * [Modded Spotify](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [⁠SpotiCap](https://gitlab.com/spotihater/spoticap) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify Apps / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
   ```
 - **Line 5448**: cosmetic text, no functional dependency detected
   ```
@@ -15845,51 +15845,51 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5452**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Poweramp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search)
+  * ⭐ **[Poweramp](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search)
   ```
 - **Line 5456**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[tempus](https://github.com/eddyizm/tempus)** or [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients / [Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_servers)
+  * ⭐ **[tempus](https://github.com/eddyizm/tempus)** or [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Clients / [Audio Servers](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_audio_servers)
   ```
 - **Line 5460**: cosmetic text, no functional dependency detected
   ```
-  * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+  * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
   ```
 - **Line 5464**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Calm](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Relaxation / Sleep App
+  * ⭐ **[Calm](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) - Relaxation / Sleep App
   ```
 - **Line 5468**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
+  * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
   ```
 - **Line 5472**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
+  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_free_w.2F_ads)**
   ```
 - **Line 5476**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+  * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools)
   ```
 - **Line 5480**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md)
+  * ⭐ **[HDO Box](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md)
   ```
 - **Line 5484**: cosmetic text, no functional dependency detected
   ```
-  * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
+  * [Movie HD](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
   ```
 - **Line 5488**: cosmetic text, no functional dependency detected
   ```
-  * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
+  * [VivaTV](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
   ```
 - **Line 5492**: cosmetic text, no functional dependency detected
   ```
-  * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
+  * [OnStream](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
   ```
 - **Line 5496**: cosmetic text, no functional dependency detected
   ```
-  * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
+  * [FilmPlus](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
   ```
 - **Line 5500**: cosmetic text, no functional dependency detected
   ```
@@ -15897,19 +15897,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5504**: cosmetic text, no functional dependency detected
   ```
-  * [BeeTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
+  * [BeeTV](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
   ```
 - **Line 5508**: cosmetic text, no functional dependency detected
   ```
-  * [TeaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
+  * [TeaTV](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
   ```
 - **Line 5512**: cosmetic text, no functional dependency detected
   ```
-  * [Great Courses Plus Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
+  * [Great Courses Plus Premium](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
   ```
 - **Line 5516**: cosmetic text, no functional dependency detected
   ```
-  * [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
+  * [MX Player](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
   ```
 - **Line 5520**: cosmetic text, no functional dependency detected
   ```
@@ -15917,43 +15917,43 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5524**: cosmetic text, no functional dependency detected
   ```
-  * [Perfect IPTV Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - IPTV Player
+  * [Perfect IPTV Player](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - IPTV Player
   ```
 - **Line 5528**: cosmetic text, no functional dependency detected
   ```
-  * [OTT Navigator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks) (search) - IPTV Player
+  * [OTT Navigator](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_untouched_apks) (search) - IPTV Player
   ```
 - **Line 5532**: cosmetic text, no functional dependency detected
   ```
-  * [Live Sports HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
+  * [Live Sports HD](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
   ```
 - **Line 5536**: cosmetic text, no functional dependency detected
   ```
-  * [RBTV77](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
+  * [RBTV77](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Sports
   ```
 - **Line 5540**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+  * ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
   ```
 - **Line 5544**: cosmetic text, no functional dependency detected
   ```
-  * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+  * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
   ```
 - **Line 5548**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[iOS Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+  * ↪️ **[iOS Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools)**
   ```
 - **Line 5552**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
+  * ↪️ **[Safari Extensions](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_safari_extensions)**
   ```
 - **Line 5556**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)**
+  * ↪️ **[Hacker News Apps](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_hacker_news_tools)**
   ```
 - **Line 5560**: cosmetic text, no functional dependency detected
   ```
-  * [Mobile Walls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
+  * [Mobile Walls](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
   ```
 - **Line 5564**: cosmetic text, no functional dependency detected
   ```
@@ -15965,15 +15965,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5572**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+  * ↪️ **[DNS Adblocking](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
   ```
 - **Line 5576**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
+  * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
   ```
 - **Line 5580**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+  * ↪️ **[iOS 2FA](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
   ```
 - **Line 5584**: cosmetic text, no functional dependency detected
   ```
@@ -15997,67 +15997,67 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5604**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
+  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_free_w.2F_ads)**
   ```
 - **Line 5608**: cosmetic text, no functional dependency detected
   ```
-  * [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+  * [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools)
   ```
 - **Line 5612**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+  * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/markschron/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
   ```
 - **Line 5618**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 5622**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
+  * **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
   ```
 - **Line 5626**: cosmetic text, no functional dependency detected
   ```
-  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5630**: cosmetic text, no functional dependency detected
   ```
-  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5634**: cosmetic text, no functional dependency detected
   ```
-  * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5638**: cosmetic text, no functional dependency detected
   ```
-  * [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5642**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[FaselHD](https://web52518x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * ⭐ **[FaselHD](https://web52518x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5646**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5650**: cosmetic text, no functional dependency detected
   ```
-  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5654**: cosmetic text, no functional dependency detected
   ```
-  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5658**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
+  * **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
   ```
 - **Line 5662**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
+  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
   ```
 - **Line 5666**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) - YouTube and TikTok Alt / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
+  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) - YouTube and TikTok Alt / [Resources / Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25BA_bilibili_tools)
   ```
 - **Line 5670**: cosmetic text, no functional dependency detected
   ```
@@ -16065,11 +16065,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5674**: cosmetic text, no functional dependency detected
   ```
-  * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5678**: cosmetic text, no functional dependency detected
   ```
-  * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
+  * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
   ```
 - **Line 5682**: cosmetic text, no functional dependency detected
   ```
@@ -16081,7 +16081,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5690**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Anime Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_streaming)** - Anime Streaming Sites
+  * ↪️ **[Anime Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_anime_streaming)** - Anime Streaming Sites
   ```
 - **Line 5694**: cosmetic text, no functional dependency detected
   ```
@@ -16089,7 +16089,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5698**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Brazil is known for blocking some piracy sites, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
+  * **Note** - Brazil is known for blocking some piracy sites, try using a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
   ```
 - **Line 5702**: cosmetic text, no functional dependency detected
   ```
@@ -16097,15 +16097,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5706**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
+  * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
   ```
 - **Line 5710**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires VPN / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires VPN / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 5714**: cosmetic text, no functional dependency detected
   ```
-  * [⁠Roms en Español](https://romsenespanol.com/) - ROMs / Use [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
+  * [⁠Roms en Español](https://romsenespanol.com/) - ROMs / Use [Redirect Bypass](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_redirect_bypass)
   ```
 - **Line 5718**: cosmetic text, no functional dependency detected
   ```
@@ -16113,11 +16113,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5722**: cosmetic text, no functional dependency detected
   ```
-  * [Kinostrain](http://kinostrain.com/) - Movies / TV / Anime / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Telegram](https://t.me/uaserialchannel)
+  * [Kinostrain](http://kinostrain.com/) - Movies / TV / Anime / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Telegram](https://t.me/uaserialchannel)
   ```
 - **Line 5726**: cosmetic text, no functional dependency detected
   ```
-  * [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+  * [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
   ```
 - **Line 5730**: cosmetic text, no functional dependency detected
   ```
@@ -16125,11 +16125,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5734**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
+  * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_drama_streaming)**
   ```
 - **Line 5738**: cosmetic text, no functional dependency detected
   ```
-  * [JockanTV](https://jockantv.eu/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [JockanTV](https://jockantv.eu/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 5742**: cosmetic text, no functional dependency detected
   ```
@@ -16213,11 +16213,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5826**: cosmetic text, no functional dependency detected
   ```
-  * **[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  * **[Reddit Backup](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 5830**: cosmetic text, no functional dependency detected
   ```
-  *  Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
+  *  Add `/r/markschron/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
   ```
 - **Line 5834**: cosmetic text, no functional dependency detected
   ```
@@ -16297,7 +16297,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5920**: cosmetic text, no functional dependency detected
   ```
-  [🤖 Artificial Intelligence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai)
+  [🤖 Artificial Intelligence](https://www.reddit.com/r/markschron/wiki/ai)
   ```
 - **Line 5926**: cosmetic text, no functional dependency detected
   ```
@@ -16345,7 +16345,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 5980**: cosmetic text, no functional dependency detected
   ```
-  - Decided to bring back our [Saidit backup](https://saidit.net/s/freemediaheckyeah/wiki/index). Saidit has always supported us; their owner actually posted FMHY themselves on the main Saidit wiki. It's always good to have places like this that we know we can trust.
+  - Decided to bring back our [Saidit backup](https://saidit.net/s/markschron/wiki/index). Saidit has always supported us; their owner actually posted FMHY themselves on the main Saidit wiki. It's always good to have places like this that we know we can trust.
   ```
 - **Line 5986**: cosmetic text, no functional dependency detected
   ```
@@ -16577,91 +16577,91 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6266**: cosmetic text, no functional dependency detected
   ```
-  [Hosting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_hosting_tools),
+  [Hosting](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_hosting_tools),
   ```
 - **Line 6270**: cosmetic text, no functional dependency detected
   ```
-  [Cybersecurity](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_cybersecurity_tools),
+  [Cybersecurity](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_cybersecurity_tools),
   ```
 - **Line 6274**: cosmetic text, no functional dependency detected
   ```
-  [Database](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_database_tools)
+  [Database](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25BA_database_tools)
   ```
 - **Line 6278**: cosmetic text, no functional dependency detected
   ```
-  [Privacy Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_frontends)
+  [Privacy Frontends](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25B7_frontends)
   ```
 - **Line 6282**: cosmetic text, no functional dependency detected
   ```
-  [Fediverse Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_fediverse_tools)
+  [Fediverse Tools](https://www.reddit.com/r/markschron/wiki/tools-misc#wiki_.25B7_fediverse_tools)
   ```
 - **Line 6286**: cosmetic text, no functional dependency detected
   ```
-  [Git](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_git_tools)
+  [Git](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_git_tools)
   ```
 - **Line 6290**: cosmetic text, no functional dependency detected
   ```
-  [GitHub](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_github_tools).
+  [GitHub](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_github_tools).
   ```
 - **Line 6294**: cosmetic text, no functional dependency detected
   ```
-  [storage sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage)
+  [storage sections](https://www.reddit.com/r/markschron/wiki/storage)
   ```
 - **Line 6298**: cosmetic text, no functional dependency detected
   ```
-  [cinehub.wtf](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_streaming_sites)
+  [cinehub.wtf](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_streaming_sites)
   ```
 - **Line 6302**: cosmetic text, no functional dependency detected
   ```
-  [UpMovies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_single_server)
+  [UpMovies](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_single_server)
   ```
 - **Line 6306**: cosmetic text, no functional dependency detected
   ```
-  [FSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_tv_.2F_sports)
+  [FSL](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_live_tv_.2F_sports)
   ```
 - **Line 6310**: cosmetic text, no functional dependency detected
   ```
-  [Squidify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_streaming_sites)
+  [Squidify](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25B7_streaming_sites)
   ```
 - **Line 6314**: cosmetic text, no functional dependency detected
   ```
-  [Backloggd](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery)
+  [Backloggd](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_tracking_.2F_discovery)
   ```
 - **Line 6318**: cosmetic text, no functional dependency detected
   ```
-  [Fooocus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_local_frontends)
+  [Fooocus](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_local_frontends)
   ```
 - **Line 6322**: cosmetic text, no functional dependency detected
   ```
-  [GrapheneOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy)
+  [GrapheneOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_privacy)
   ```
 - **Line 6326**: cosmetic text, no functional dependency detected
   ```
-  [Briar](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)
+  [Briar](https://www.reddit.com/r/markschron/wiki/storage#wiki_encrypted_android_messengers)
   ```
 - **Line 6330**: cosmetic text, no functional dependency detected
   ```
-  [XDA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_tools)
+  [XDA](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_tools)
   ```
 - **Line 6334**: cosmetic text, no functional dependency detected
   ```
-  [hektCaptcha](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_multi_browser)
+  [hektCaptcha](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_multi_browser)
   ```
 - **Line 6338**: cosmetic text, no functional dependency detected
   ```
-  [SDelete](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)
+  [SDelete](https://www.reddit.com/r/markschron/wiki/storage#wiki_drive_formatting_.2F_file_deletion)
   ```
 - **Line 6342**: cosmetic text, no functional dependency detected
   ```
-  [Cloudflare Speed Test](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test)
+  [Cloudflare Speed Test](https://www.reddit.com/r/markschron/wiki/storage#wiki_internet_speed_test)
   ```
 - **Line 6346**: cosmetic text, no functional dependency detected
   ```
-  [Privacy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides).
+  [Privacy Guides](https://www.reddit.com/r/markschron/wiki/storage#wiki_privacy_guides).
   ```
 - **Line 6350**: cosmetic text, no functional dependency detected
   ```
-  [Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines).
+  [Game Engines](https://www.reddit.com/r/markschron/wiki/storage#wiki_game_engines).
   ```
 - **Line 6356**: cosmetic text, no functional dependency detected
   ```
@@ -16765,23 +16765,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6472**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 6476**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
+  * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/markschron/wiki/audio/#wiki_.25BA_spotify_tools)**
   ```
 - **Line 6480**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
+  * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_twitch_adblockers)**
   ```
 - **Line 6484**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass URL Redirects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)**
+  * ↪️ **[Bypass URL Redirects](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)**
   ```
 - **Line 6488**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 6492**: cosmetic text, no functional dependency detected
   ```
@@ -16797,7 +16797,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6504**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
+  * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/markschron/wiki/storage#wiki_free_dns_resolvers)**
   ```
 - **Line 6508**: cosmetic text, no functional dependency detected
   ```
@@ -16805,23 +16805,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6512**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
+  ## ▷ [Linux Adblocking](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
   ```
 - **Line 6516**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_adblock_.2F_privacy)
+  ## ▷ [Mac Adblocking](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_adblock_.2F_privacy)
   ```
 - **Line 6520**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Android Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_adblocking)
+  ## ▷ [Android Adblocking](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_adblocking)
   ```
 - **Line 6524**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)
+  ## ▷ [iOS Adblocking](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_adblocking)
   ```
 - **Line 6528**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
+  * ↪️ **[Virtual Machines](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_virtual_machines)**
   ```
 - **Line 6532**: cosmetic text, no functional dependency detected
   ```
@@ -16841,51 +16841,51 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6548**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
+  * ↪️ **[SMS Verification Sites](https://www.reddit.com/r/markschron/wiki/storage#wiki_sms_verification_sites)**
   ```
 - **Line 6552**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
+  * ↪️ **[File Encryption](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_file_encryption)**
   ```
 - **Line 6556**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
+  * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
   ```
 - **Line 6560**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Photo Forensics / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
+  * ↪️ **[Photo Forensics / Metadata](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
   ```
 - **Line 6564**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Privacy-Focused Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_operating_systems)**
+  * ↪️ **[Privacy-Focused Android Operating Systems](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_operating_systems)**
   ```
 - **Line 6568**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
+  ## ▷ [Linux Privacy](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_adblock_.2F_privacy)
   ```
 - **Line 6572**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
+  ## ▷ [Mac Privacy](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
   ```
 - **Line 6576**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Android Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy)
+  ## ▷ [Android Privacy](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_privacy)
   ```
 - **Line 6580**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_privacy)
+  ## ▷ [iOS Privacy](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_privacy)
   ```
 - **Line 6584**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
+  * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
   ```
 - **Line 6588**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
+  * ↪️ **[Browser Comparisons](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25BA_browser_tools)**
   ```
 - **Line 6592**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
+  * ↪️ **[Android Privacy Browsers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_browsers)**
   ```
 - **Line 6596**: cosmetic text, no functional dependency detected
   ```
@@ -16897,19 +16897,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6604**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
+  * ↪️ **[Password Managers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_password_managers)**
   ```
 - **Line 6608**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
+  * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
   ```
 - **Line 6612**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
+  * ↪️ **[Email Aliasing](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
   ```
 - **Line 6616**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[SearX Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
+  * ↪️ **[SearX Instances](https://www.reddit.com/r/markschron/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
   ```
 - **Line 6620**: cosmetic text, no functional dependency detected
   ```
@@ -16921,19 +16921,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6628**: cosmetic text, no functional dependency detected
   ```
-  * [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
+  * [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_temp_mail)
   ```
 - **Line 6632**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
+  * ↪️ **[Free VPN Configs](https://www.reddit.com/r/markschron/wiki/storage#wiki_free_vpn_configs)**
   ```
 - **Line 6636**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_great_firewall)**
+  * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/markschron/wiki/non-eng#wiki_.25B7_great_firewall)**
   ```
 - **Line 6640**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
+  * ↪️ **[Proxy Lists](https://www.reddit.com/r/markschron/wiki/storage#wiki_proxy_lists)**
   ```
 - **Line 6644**: cosmetic text, no functional dependency detected
   ```
@@ -16941,7 +16941,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6650**: cosmetic text, no functional dependency detected
   ```
-  "name": "FMHY - freemediaheckyeah",
+  "name": "FMHY - markschron",
   ```
 - **Line 6654**: cosmetic text, no functional dependency detected
   ```
@@ -16953,7 +16953,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6664**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 6668**: cosmetic text, no functional dependency detected
   ```
@@ -16961,11 +16961,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6672**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
+  * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/markschron/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
   ```
 - **Line 6676**: cosmetic text, no functional dependency detected
   ```
-  * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+  * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/markschron/wiki/storage/#wiki_internet_archive_tools)
   ```
 - **Line 6680**: cosmetic text, no functional dependency detected
   ```
@@ -16973,11 +16973,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6684**: cosmetic text, no functional dependency detected
   ```
-  * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
+  * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/markschron/wiki/reading#wiki_.25B7_calibre_libraries)
   ```
 - **Line 6688**: cosmetic text, no functional dependency detected
   ```
-  * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 6692**: cosmetic text, no functional dependency detected
   ```
@@ -16989,15 +16989,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6700**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
   ```
 - **Line 6704**: cosmetic text, no functional dependency detected
   ```
-  * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+  * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
   ```
 - **Line 6708**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
+  * ↪️ **[Survival / Prepping](https://www.reddit.com/r/markschron/wiki/storage#wiki_survival)**
   ```
 - **Line 6712**: cosmetic text, no functional dependency detected
   ```
@@ -17005,11 +17005,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6716**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 6720**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
+  * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_news)**
   ```
 - **Line 6724**: cosmetic text, no functional dependency detected
   ```
@@ -17029,27 +17029,27 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6740**: cosmetic text, no functional dependency detected
   ```
-  * [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 6744**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+  * ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_text_to_speech)**
   ```
 - **Line 6748**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Visual Novel Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_visual_novel_tools)**
+  * ↪️ **[Visual Novel Resources](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_visual_novel_tools)**
   ```
 - **Line 6752**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
+  * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/markschron/wiki/storage#wiki_manga_readers)**
   ```
 - **Line 6756**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
+  * ↪️ **[Manga Downloaders](https://www.reddit.com/r/markschron/wiki/storage#wiki_manga_downloaders)**
   ```
 - **Line 6760**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 6764**: cosmetic text, no functional dependency detected
   ```
@@ -17057,7 +17057,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6768**: cosmetic text, no functional dependency detected
   ```
-  * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 6772**: cosmetic text, no functional dependency detected
   ```
@@ -17069,59 +17069,59 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6780**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_language_learning)**
+  * ↪️ **[Language Learning Resources](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25BA_language_learning)**
   ```
 - **Line 6784**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Dictionaries / Thesaurus'](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dictionaries_.2F_thesaurus)**
+  * ↪️ **[Dictionaries / Thesaurus'](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_dictionaries_.2F_thesaurus)**
   ```
 - **Line 6788**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Encyclopedias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_encyclopedias)**
+  * ↪️ **[Encyclopedias](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_encyclopedias)**
   ```
 - **Line 6792**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[JEE / NEET Textbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_jee_.2F_neet)**
+  * ↪️ **[JEE / NEET Textbooks](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_jee_.2F_neet)**
   ```
 - **Line 6796**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Study / Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
+  * ↪️ **[Study / Research Tools](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_study_.2F_research)**
   ```
 - **Line 6800**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+  * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_specialized_chatbots)**
   ```
 - **Line 6804**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+  * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
   ```
 - **Line 6808**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
+  * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_myanimelist_tools)
   ```
 - **Line 6812**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
+  * ↪️ **[Summary Generators](https://www.reddit.com/r/markschron/wiki/text-tools#wiki_.25B7_text_rephrasing)**
   ```
 - **Line 6816**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
+  * ↪️ **[PDF File Tools](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_pdf_tools)**
   ```
 - **Line 6822**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 6826**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)**
+  * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_chat_.2F_forums)**
   ```
 - **Line 6830**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
   ```
 - **Line 6834**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
+  * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_chat_tools)**
   ```
 - **Line 6838**: cosmetic text, no functional dependency detected
   ```
@@ -17133,15 +17133,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6846**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_lemmy_tools)**
+  * ↪️ **[Lemmy Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_lemmy_tools)**
   ```
 - **Line 6850**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
+  * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/markschron/wiki/storage#wiki_multireddits)**
   ```
 - **Line 6854**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Ad + Sponsorblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)**
+  * ↪️ **[YouTube Ad + Sponsorblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)**
   ```
 - **Line 6858**: cosmetic text, no functional dependency detected
   ```
@@ -17149,19 +17149,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6862**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
+  * ↪️ **[Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
   ```
 - **Line 6866**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
+  * ↪️ **[Video Adblockers](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)**
   ```
 - **Line 6870**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Transcribers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25BA_subtitle_tools)**
+  * ↪️ **[Video Transcribers](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25BA_subtitle_tools)**
   ```
 - **Line 6874**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+  * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)**
   ```
 - **Line 6878**: cosmetic text, no functional dependency detected
   ```
@@ -17169,11 +17169,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6882**: cosmetic text, no functional dependency detected
   ```
-  * [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Networks
+  * [Lemmy](https://join-lemmy.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_lemmy_tools), [Mastodon](https://joinmastodon.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25B7_mastodon_tools), [Diaspora](https://diasporafoundation.org/) or [Friendica](https://friendi.ca) - Decentralized Social Networks
   ```
 - **Line 6888**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 6892**: cosmetic text, no functional dependency detected
   ```
@@ -17181,15 +17181,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6896**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)**
+  * ↪️ **[Android Readers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_reading)**
   ```
 - **Line 6902**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 6906**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)**
+  * ↪️ **[Gaming Optimization](https://www.reddit.com/r/markschron/wiki/game-tools#wiki_.25B7_optimization_tools)**
   ```
 - **Line 6910**: cosmetic text, no functional dependency detected
   ```
@@ -17217,7 +17217,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6934**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_emulators_on_android)**
+  * ↪️ **[Emulators on Android](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_emulators_on_android)**
   ```
 - **Line 6938**: cosmetic text, no functional dependency detected
   ```
@@ -17225,7 +17225,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6942**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
+  * ↪️ **[PC Building / Shopping](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_electronics)**
   ```
 - **Line 6946**: cosmetic text, no functional dependency detected
   ```
@@ -17233,7 +17233,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6950**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
+  * ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
   ```
 - **Line 6954**: cosmetic text, no functional dependency detected
   ```
@@ -17253,35 +17253,35 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 6970**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/) (search) - Wallpaper / Live Wallpaper Manager
+  * ⭐ **[Wallpaper Engine](https://www.reddit.com/r/markschron/wiki/games/#wiki_.25BA_download_games)** / [2](https://www.reddit.com/r/markschron/wiki/torrent/) (search) - Wallpaper / Live Wallpaper Manager
   ```
 - **Line 6976**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 6980**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_to_text_.2F_ocr)**
+  * ↪️ **[Image to Text](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_image_to_text_.2F_ocr)**
   ```
 - **Line 6984**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
+  * ↪️ **[Text to Speech](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_text_to_speech)**
   ```
 - **Line 6988**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Presentation / Slideshare](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+  * ↪️ **[Presentation / Slideshare](https://www.reddit.com/r/markschron/wiki/storage#wiki_presentation_tools)**
   ```
 - **Line 6992**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
+  * ↪️ **[Study / Research](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_study_.2F_research)**
   ```
 - **Line 6996**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+  * ↪️ **[Data Visualization](https://www.reddit.com/r/markschron/wiki/storage#wiki_data_visualization_tools)**
   ```
 - **Line 7000**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) sometimes translate better than traditional translators, especially when it comes to languages with inherently different structures.
+  * **Note** - [AI Chatbots](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25B7_online_chatbots) sometimes translate better than traditional translators, especially when it comes to languages with inherently different structures.
   ```
 - **Line 7004**: cosmetic text, no functional dependency detected
   ```
@@ -17293,15 +17293,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7012**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
+  * ↪️ **[Android Text Editor](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_android_text_tools)**
   ```
 - **Line 7016**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
+  * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
   ```
 - **Line 7020**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools)**
+  * ↪️ **[Android Note-Taking](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_text_tools)**
   ```
 - **Line 7024**: cosmetic text, no functional dependency detected
   ```
@@ -17309,39 +17309,39 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7028**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
+  * ↪️ **[Office Activation](https://www.reddit.com/r/markschron/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
   ```
 - **Line 7032**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
+  * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/markschron/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
   ```
 - **Line 7036**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps)**
+  * ↪️ **[Android To-Do Apps](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_to-do_apps)**
   ```
 - **Line 7040**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Calendars / Events](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_calendars_.2F_events)**
+  * ↪️ **[Calendars / Events](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25B7_calendars_.2F_events)**
   ```
 - **Line 7044**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search)
+  * ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_software_sites2) (search)
   ```
 - **Line 7048**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[HTML Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_html)**
+  * ↪️ **[HTML Tools](https://www.reddit.com/r/markschron/wiki/dev-tools#wiki_.25B7_html)**
   ```
 - **Line 7054**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 7058**: cosmetic text, no functional dependency detected
   ```
-  * **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
+  * **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/markschron/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/markschron/wiki/games/#wiki_.25BA_download_games).
   ```
 - **Line 7062**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
+  * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
   ```
 - **Line 7066**: cosmetic text, no functional dependency detected
   ```
@@ -17357,51 +17357,51 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7078**: cosmetic text, no functional dependency detected
   ```
-  * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 7082**: cosmetic text, no functional dependency detected
   ```
-  * [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 7086**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_sites)
+  ## ▷ [Video Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_sites)
   ```
 - **Line 7090**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_torrenting)
+  ## ▷ [Anime Sites](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_anime_torrenting)
   ```
 - **Line 7094**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_downloading)
+  ## ▷ [Educational Sites](https://www.reddit.com/r/markschron/wiki/edu/#wiki_.25B7_downloading)
   ```
 - **Line 7098**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+  ## ▷ [Game Sites](https://www.reddit.com/r/markschron/wiki/games#wiki_.25BA_download_games)
   ```
 - **Line 7102**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting)
+  ## ▷ [Audio Sites](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25BA_audio_torrenting)
   ```
 - **Line 7106**: cosmetic text, no functional dependency detected
   ```
-  * **Warning** - Remember to [bind](https://wispydocs.pages.dev/torrenting/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+  * **Warning** - Remember to [bind](https://wispydocs.pages.dev/torrenting/) your [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
   ```
 - **Line 7110**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
+  * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
   ```
 - **Line 7114**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Debrid / Leeches](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
+  * ↪️ **[Debrid / Leeches](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
   ```
 - **Line 7118**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
+  ## ▷ [Android Clients](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_torrenting)
   ```
 - **Line 7122**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
+  ## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_apps)
   ```
 - **Line 7128**: cosmetic text, no functional dependency detected
   ```
@@ -17413,7 +17413,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7136**: cosmetic text, no functional dependency detected
   ```
-  * uTorrent - Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
+  * uTorrent - Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients) clients
   ```
 - **Line 7140**: cosmetic text, no functional dependency detected
   ```
@@ -17421,19 +17421,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7146**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/tools-index)**
   ```
 - **Line 7150**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools)**
+  * ↪️ **[YouTube Tools / Resources](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_youtube_tools)**
   ```
 - **Line 7154**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
+  * ↪️ **[AI Video Generators](https://www.reddit.com/r/markschron/wiki/ai#wiki_.25BA_video_generation)**
   ```
 - **Line 7158**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
+  * ↪️ **[Streaming Hosts](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
   ```
 - **Line 7162**: cosmetic text, no functional dependency detected
   ```
@@ -17441,23 +17441,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7166**: cosmetic text, no functional dependency detected
   ```
-  * [FFmpeg](https://ffmpeg.org/) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
+  * [FFmpeg](https://ffmpeg.org/) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
   ```
 - **Line 7170**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
+  * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
   ```
 - **Line 7174**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Subtitle Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitle_tools)
+  ## ▷ [Subtitle Tools](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_subtitle_tools)
   ```
 - **Line 7178**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Linux Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)
+  ## ▷ [Linux Video Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_linux_video)
   ```
 - **Line 7182**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Mac Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
+  ## ▷ [Mac Video Tools](https://www.reddit.com/r/markschron/wiki/linux#wiki_.25B7_mac_video)
   ```
 - **Line 7186**: cosmetic text, no functional dependency detected
   ```
@@ -17465,19 +17465,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7190**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
+  * ↪️ **[Torrent Automation](https://www.reddit.com/r/markschron/wiki/video#wiki_.25BA_torrent_apps)**
   ```
 - **Line 7194**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_jellyfin_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
+  * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_jellyfin_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
   ```
 - **Line 7198**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_kodi_tools)
+  * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_kodi_tools)
   ```
 - **Line 7202**: cosmetic text, no functional dependency detected
   ```
-  * [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
+  * [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/) - Media Server / [Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25B7_plex_tools)
   ```
 - **Line 7206**: cosmetic text, no functional dependency detected
   ```
@@ -17485,15 +17485,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7210**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
+  * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_downloaders)**
   ```
 - **Line 7214**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
+  * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_twitch_downloaders)**
   ```
 - **Line 7218**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
+  * ↪️ **[Download Managers](https://www.reddit.com/r/markschron/wiki/file-tools/#wiki_.25B7_download_managers)**
   ```
 - **Line 7222**: cosmetic text, no functional dependency detected
   ```
@@ -17505,7 +17505,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7230**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)
+  * ↪️ **[Editing Software](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_software_sites)
   ```
 - **Line 7234**: cosmetic text, no functional dependency detected
   ```
@@ -17517,7 +17517,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7242**: cosmetic text, no functional dependency detected
   ```
-  * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
+  * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
   ```
 - **Line 7246**: cosmetic text, no functional dependency detected
   ```
@@ -17525,19 +17525,19 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7252**: cosmetic text, no functional dependency detected
   ```
-  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+  **[◄◄ Back to Wiki Index](https://www.reddit.com/r/markschron/wiki/index)**
   ```
 - **Line 7256**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
+  * ⭐ **[P-Stream Forks](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
   ```
 - **Line 7260**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Sites that fork the original P-Stream / movie-web projects. You can add **extra sources** to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
+  * **Note** - Sites that fork the original P-Stream / movie-web projects. You can add **extra sources** to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
   ```
 - **Line 7264**: cosmetic text, no functional dependency detected
   ```
-  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
+  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail)
   ```
 - **Line 7268**: cosmetic text, no functional dependency detected
   ```
@@ -17553,23 +17553,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7280**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools) / [Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)
+  * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced Search](https://playlists.at/youtube/search/) / [Resources / Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25BA_youtube_tools) / [Download Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_youtube_downloaders)
   ```
 - **Line 7284**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
+  * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/markschron/wiki/social-media/#wiki_.25BA_bilibili_tools)
   ```
 - **Line 7288**: cosmetic text, no functional dependency detected
   ```
-  * [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_peertube_tools)
+  * [PeerTube](https://joinpeertube.org/) / [Tools](https://www.reddit.com/r/markschron/wiki/social-media#wiki_.25B7_peertube_tools)
   ```
 - **Line 7292**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)**
+  * ↪️ **[Documentary Sites](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25BA_documentaries)**
   ```
 - **Line 7296**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Courses / Lectures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)**
+  * ↪️ **[Courses / Lectures](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_streaming)**
   ```
 - **Line 7300**: cosmetic text, no functional dependency detected
   ```
@@ -17581,23 +17581,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7308**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
   ```
 - **Line 7312**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+  * **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
   ```
 - **Line 7316**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_sports)**
+  * ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/markschron/wiki/misc#wiki_.25BA_sports)**
   ```
 - **Line 7320**: cosmetic text, no functional dependency detected
   ```
-  * [RuTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * [RuTracker Sports](https://rutracker.org/forum/index.php?c=28) - Sports Replays / Torrents / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 7324**: cosmetic text, no functional dependency detected
   ```
-  * [⁠XWD](https://xtreme-wrestling-downloads.com/) - Wrestling / Boxing Replays / Signup Required / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+  * [⁠XWD](https://xtreme-wrestling-downloads.com/) - Wrestling / Boxing Replays / Signup Required / Use [Translator](https://www.reddit.com/r/markschron/wiki/text-tools/#wiki_.25B7_translators)
   ```
 - **Line 7328**: cosmetic text, no functional dependency detected
   ```
@@ -17605,31 +17605,31 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7332**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
+  * ↪️ **[Android IPTV Players](https://www.reddit.com/r/markschron/wiki/android/#wiki_.25B7_android_live_tv)**
   ```
 - **Line 7336**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
+  * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/markschron/wiki/video#wiki_.25B7_free_w.2F_ads)**
   ```
 - **Line 7340**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Nuvio](https://github.com/NuvioMedia/NuvioWeb#install)** / [Stremio Sync](https://nuviosync.com/) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H), **[Stremio](https://www.stremio.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools), [WuPlay](https://github.com/wuplayapp/wuplay-releases) or [⁠RealStream](https://rstream.app/) / [Discord](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
+  * ⭐ **[Nuvio](https://github.com/NuvioMedia/NuvioWeb#install)** / [Stremio Sync](https://nuviosync.com/) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H), **[Stremio](https://www.stremio.com/)** / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools), [WuPlay](https://github.com/wuplayapp/wuplay-releases) or [⁠RealStream](https://rstream.app/) / [Discord](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
   ```
 - **Line 7344**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)** / **[Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks)**
+  * ↪️ **[Android Streaming](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_streaming)** / **[Apps](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_untouched_apks)**
   ```
 - **Line 7348**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[TiviMate](https://tivimate.com/)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [⁠OwnTV](https://github.com/ahXN00/OwnTV/) - IPTV Players
+  * ⭐ **[TiviMate](https://tivimate.com/)**, [2](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) or [⁠OwnTV](https://github.com/ahXN00/OwnTV/) - IPTV Players
   ```
 - **Line 7352**: cosmetic text, no functional dependency detected
   ```
-  * [StreamFire](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Live TV for Firestick
+  * [StreamFire](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Live TV for Firestick
   ```
 - **Line 7356**: cosmetic text, no functional dependency detected
   ```
-  * [CloudStream](https://github.com/recloudstream/cloudstream) - Streaming App / [Docs / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
+  * [CloudStream](https://github.com/recloudstream/cloudstream) - Streaming App / [Docs / Resources](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_streaming)
   ```
 - **Line 7360**: cosmetic text, no functional dependency detected
   ```
@@ -17637,35 +17637,35 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7364**: cosmetic text, no functional dependency detected
   ```
-  * [atvTools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
+  * [atvTools](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
   ```
 - **Line 7368**: cosmetic text, no functional dependency detected
   ```
-  * [tvQuickActions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Requires Sign-Up
+  * [tvQuickActions](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Requires Sign-Up
   ```
 - **Line 7372**: cosmetic text, no functional dependency detected
   ```
-  * [Projectivy Launcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [2](https://play.google.com/store/apps/details?id=com.spocky.projengmenu), [3](https://github.com/spocky/miproja1) / [XDA Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [Icon Pack](https://github.com/SicMundus86/ProjectivyIconPack), [AT4K Launcher](https://at4klauncher.com/) / [Subreddit](https://www.reddit.com/r/AT4K/) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
+  * [Projectivy Launcher](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search), [2](https://play.google.com/store/apps/details?id=com.spocky.projengmenu), [3](https://github.com/spocky/miproja1) / [XDA Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [Icon Pack](https://github.com/SicMundus86/ProjectivyIconPack), [AT4K Launcher](https://at4klauncher.com/) / [Subreddit](https://www.reddit.com/r/AT4K/) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
   ```
 - **Line 7376**: cosmetic text, no functional dependency detected
   ```
-  # ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
+  # ► [Android Streaming](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_android_streaming)
   ```
 - **Line 7380**: cosmetic text, no functional dependency detected
   ```
-  # ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)
+  # ► [iOS Streaming](https://www.reddit.com/r/markschron/wiki/android#wiki_.25BA_ios_streaming)
   ```
 - **Line 7384**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
   ```
 - **Line 7388**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
+  * ↪️ **[General DDL Sites](https://www.reddit.com/r/markschron/wiki/download)**
   ```
 - **Line 7392**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+  * ↪️ **[Video Download Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_video_download)**
   ```
 - **Line 7396**: cosmetic text, no functional dependency detected
   ```
@@ -17677,7 +17677,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7404**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Scloud](https://rentry.co/FMHYB64#sc)** - Movies / TV / 4K / Use Adblocker + [Linkbypasser](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/scloudmediahub)
+  * ⭐ **[Scloud](https://rentry.co/FMHYB64#sc)** - Movies / TV / 4K / Use Adblocker + [Linkbypasser](https://www.reddit.com/r/markschron/wiki/internet-tools#wiki_.25B7_redirect_bypass) / [Telegram](https://t.me/scloudmediahub)
   ```
 - **Line 7408**: cosmetic text, no functional dependency detected
   ```
@@ -17685,7 +17685,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7412**: cosmetic text, no functional dependency detected
   ```
-  * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+  * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
   ```
 - **Line 7416**: cosmetic text, no functional dependency detected
   ```
@@ -17697,7 +17697,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7424**: cosmetic text, no functional dependency detected
   ```
-  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
+  * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_temp_mail)
   ```
 - **Line 7428**: cosmetic text, no functional dependency detected
   ```
@@ -17709,55 +17709,55 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7436**: cosmetic text, no functional dependency detected
   ```
-  * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
+  * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
   ```
 - **Line 7440**: cosmetic text, no functional dependency detected
   ```
-  * [HDEncode](https://hdencode.org/) / [Improvement Script](https://github.com/mikeymuis/hdencode-filter-suite), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
+  * [HDEncode](https://hdencode.org/) / [Improvement Script](https://github.com/mikeymuis/hdencode-filter-suite), [RapidMoviez](https://rmz.cr/) / [Mirrors](https://rmzmirrors.com/) or [rlsDB](https://rlsdb.com/) - Movie & TV DDL Forums / Requires [Debrid](https://www.reddit.com/r/markschron/wiki/download#wiki_.25BA_debrid_.2F_leeches)
   ```
 - **Line 7444**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+  * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/markschron/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
   ```
 - **Line 7448**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
+  ## ▷ [Educational Downloading](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_downloading)
   ```
 - **Line 7452**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Remember to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind](https://wispydocs.pages.dev/torrenting/) it to your [client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) if it allows.
+  * **Note** - Remember to use a [VPN](https://www.reddit.com/r/markschron/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind](https://wispydocs.pages.dev/torrenting/) it to your [client](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_clients) if it allows.
   ```
 - **Line 7456**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent Remotely Without Needing VPN
+  * ↪️ **[Remote Torrenting Services](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent Remotely Without Needing VPN
   ```
 - **Line 7460**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+  * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/markschron/wiki/video-tools#wiki_.25BA_media_servers)**
   ```
 - **Line 7464**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Stremio](https://www.stremio.com/)** / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio), [⁠Stremio Desktop](https://github.com/Zaarrg/stremio-community-v5) (full mpv) or [Stremio Kai](https://allecsc.github.io/Stremio-Kai/) / [GitHub](https://github.com/allecsc/Stremio-Kai) (full mpv) - Torrent Streaming App / [WebUI](https://web.stremio.com/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+  * ⭐ **[Stremio](https://www.stremio.com/)** / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio), [⁠Stremio Desktop](https://github.com/Zaarrg/stremio-community-v5) (full mpv) or [Stremio Kai](https://allecsc.github.io/Stremio-Kai/) / [GitHub](https://github.com/allecsc/Stremio-Kai) (full mpv) - Torrent Streaming App / [WebUI](https://web.stremio.com/) / [Tools](https://www.reddit.com/r/markschron/wiki/video/#wiki_.25B7_stremio_tools)
   ```
 - **Line 7468**: cosmetic text, no functional dependency detected
   ```
-  * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
+  * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/markschron/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
   ```
 - **Line 7472**: cosmetic text, no functional dependency detected
   ```
-  * **Note** - Keep in mind that [torrent aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators), or setups like Nuvio/Stremio & Torrentio, are sometimes better when it comes to finding content.
+  * **Note** - Keep in mind that [torrent aggregators](https://www.reddit.com/r/markschron/wiki/torrent/#wiki_.25B7_aggregators), or setups like Nuvio/Stremio & Torrentio, are sometimes better when it comes to finding content.
   ```
 - **Line 7476**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
+  * ↪️ **[General Torrent Sites](https://www.reddit.com/r/markschron/wiki/torrent)**
   ```
 - **Line 7480**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 7484**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+  * ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/markschron/wiki/torrent#wiki_.25BA_torrent_sites)
   ```
 - **Line 7488**: cosmetic text, no functional dependency detected
   ```
@@ -17773,23 +17773,23 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7500**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
+  ## ▷ [Educational Torrenting](https://www.reddit.com/r/markschron/wiki/edu#wiki_.25B7_downloading)
   ```
 - **Line 7504**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_letterboxd_tools)
+  * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_letterboxd_tools)
   ```
 - **Line 7508**: cosmetic text, no functional dependency detected
   ```
-  * [Trakt](https://trakt.tv/) - TV / Anime / Movies / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_trakt_tools)
+  * [Trakt](https://trakt.tv/) - TV / Anime / Movies / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_trakt_tools)
   ```
 - **Line 7512**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[MAL](https://myanimelist.net/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools) / [Discord](https://discord.com/invite/myanimelist)
+  * ⭐ **[MAL](https://myanimelist.net/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_myanimelist_tools) / [Discord](https://discord.com/invite/myanimelist)
   ```
 - **Line 7516**: cosmetic text, no functional dependency detected
   ```
-  * ⭐ **[AniList](https://anilist.co/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
+  * ⭐ **[AniList](https://anilist.co/)** - Anime Ratings / Reviews / [Tools](https://www.reddit.com/r/markschron/wiki/storage#wiki_anilist_tools) / [Discord](https://discord.com/invite/TF428cr)
   ```
 - **Line 7520**: cosmetic text, no functional dependency detected
   ```
@@ -17797,15 +17797,15 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7524**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
+  * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/markschron/wiki/image-tools#wiki_.25B7_media_covers_.2F_posters)**
   ```
 - **Line 7528**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
+  * ↪️ **[Media Soundtracks](https://www.reddit.com/r/markschron/wiki/audio#wiki_.25BA_media_soundtracks)**
   ```
 - **Line 7532**: cosmetic text, no functional dependency detected
   ```
-  * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
+  * ↪️ **[File Data Automation](https://www.reddit.com/r/markschron/wiki/file-tools#wiki_.25B7_data_automation)**
   ```
 - **Line 7536**: cosmetic text, no functional dependency detected
   ```
@@ -17813,7 +17813,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7540**: cosmetic text, no functional dependency detected
   ```
-  ## ▷ [Video Players / Servers / Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)
+  ## ▷ [Video Players / Servers / Sync](https://www.reddit.com/r/markschron/wiki/video-tools)
   ```
 - **Line 7546**: cosmetic text, no functional dependency detected
   ```
@@ -17853,11 +17853,11 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7582**: cosmetic text, no functional dependency detected
   ```
-  # "freemediaheckyeah" is the full expansion of the FMHY acronym. It is only
+  # "markschron" is the full expansion of the FMHY acronym. It is only
   ```
 - **Line 7586**: cosmetic text, no functional dependency detected
   ```
-  FULL_NAME_OLD = "freemediaheckyeah"
+  FULL_NAME_OLD = "markschron"
   ```
 - **Line 7590**: cosmetic text, no functional dependency detected
   ```
@@ -17905,7 +17905,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7634**: cosmetic text, no functional dependency detected
   ```
-  r"fmhy|freemediaheckyeah",
+  r"fmhy|markschron",
   ```
 - **Line 7638**: cosmetic text, no functional dependency detected
   ```
@@ -17917,7 +17917,7 @@ Display text: titles, README prose, UI labels, meta tags. Safe to auto-rewrite b
   ```
 - **Line 7646**: cosmetic text, no functional dependency detected
   ```
-  print("No occurrences of 'fmhy' or 'freemediaheckyeah' found. Nothing to do.")
+  print("No occurrences of 'fmhy' or 'markschron' found. Nothing to do.")
   ```
 - **Line 7652**: cosmetic text, no functional dependency detected
   ```

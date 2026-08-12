@@ -113,11 +113,11 @@ export function transform(text: string): string {
 
     // Transform reddit index links
     .replace(
-      /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/FREEMEDIAHECKYEAH\/wiki\/index\)\*\*\n/gm,
+      /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/markschron\/wiki\/index\)\*\*\n/gm,
       ''
     )
     .replace(
-      /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/FREEMEDIAHECKYEAH\/wiki\/tools-index\)\*\*\n/gm,
+      /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/markschron\/wiki\/tools-index\)\*\*\n/gm,
       ''
     )
     .replace(
@@ -131,97 +131,97 @@ export function transform(text: string): string {
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
     // Transform reddit links
-    .replace(/https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/ai/g, '/ai')
+    .replace(/https:\/\/www.reddit.com\/r\/markschron\/wiki\/ai/g, '/ai')
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/adblock-vpn-privacy/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/adblock-vpn-privacy/g,
       '/privacy'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/android/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/android/g,
       '/mobile'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/games/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/games/g,
       '/gaming'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/reading/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/reading/g,
       '/reading'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/download/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/download/g,
       '/downloading'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/torrent/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/torrent/g,
       '/torrenting'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/edu/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/edu/g,
       '/educational'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/system-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/system-tools/g,
       '/system-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/file-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/file-tools/g,
       '/file-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/internet-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/internet-tools/g,
       '/internet-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/social-media/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/social-media/g,
       '/social-media-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/text-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/text-tools/g,
       '/text-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/video-tools/g,
       '/video-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/audio-tools/g,
       '/audio-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/game-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/game-tools/g,
       '/gaming-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/video/g,
       '/video'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/audio/g,
       '/audio'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/linux/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/linux/g,
       '/linux-macos'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/non-eng/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/non-eng/g,
       '/non-english'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/misc/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/misc/g,
       '/misc'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/storage/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/storage/g,
       '/storage'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/dev-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/dev-tools/g,
       '/developer-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/image-tools/g,
+      /https:\/\/www.reddit.com\/r\/markschron\/wiki\/image-tools/g,
       '/image-tools'
     )
 

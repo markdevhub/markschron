@@ -1,7 +1,7 @@
 ### Post Template
 
 > [!NOTE]
-> This is a template for creating a post for the freemediaheckyeah blog, and is meant for **collaborators** only.
+> This is a template for creating a post for the markschron blog, and is meant for **collaborators** only.
 
 Notes:
 
