@@ -4,7 +4,7 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: freemediaheckyeah
+  name: Never Waste Money or Time Again
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: August Updates ✨
